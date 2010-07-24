@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-
+ 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name" msgid="8095131950334945205">"الحاسبة"</string>
@@ -38,7 +38,12 @@
     <string name="lg" msgid="873623857385418182">"log"</string>
     <string name="leftParen" msgid="4850643713953092099">"("</string>
     <string name="rightParen" msgid="3177971166159324016">")"</string>
+<<<<<<< HEAD
     <string name="basic" msgid="7691469861698059753">"واجهة بسيطة"</string>
     <string name="advanced" msgid="7122495413742976492">"واجهة متقدمة"</string>
+=======
+    <string name="basic" msgid="7691469861698059753">"اللوحة الأساسية"</string>
+    <string name="advanced" msgid="7122495413742976492">"لوحة متقدمة"</string>
+>>>>>>> 75de395e8816f530602c465b8b10f32de852a3e7
     <string name="clear_history" msgid="8458043980601165012">"مسح المحفوظات"</string>
 </resources>
