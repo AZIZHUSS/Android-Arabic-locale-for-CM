@@ -17,7 +17,18 @@
   <string name="voiceDialer" msgid="5948204210436590941">"محرر الصوت"</string>
   <string name="tool_tip_title" msgid="9092247761265706709">"معلومات مفيدة"</string>
   <string name="tool_tip_message" msgid="8624998371709530611">"  اضغط مع الاستمرار على زر الاتصال الاخضر لفتح محرر الصوت"</string>
-  <string name="examples" msgid="2100807337052050741">" الأمثلة على ذلك : "<b>" "\n"\"Chiama Mario Rossi\" "\n"\"Chiama Mario Rossi a casa, …\" "\n"\"Messaggio in segreteria\" "\n"\"Componi (866) 555 0123\" "\n"\"Componi 911, 811, …\" "\n"\"Componi +44 7333 444 555\" "\n"\"Ricomponi\" "\n"\"Apri Calendario\" "</b></string>
+  <string name="examples" msgid="2100807337052050741">" الأمثلة على ذلك : "<b>"
+
+ \n\"Call John Doe\"
+            \n\"Call John Doe at home, \u2026\"
+            \n\"Call voicemail\"
+            \n\"Dial (866) 555 0123\"
+            \n\"Dial 911, 811, \u2026\"
+            \n\"Dial +44 7333 444 555\"
+            \n\"Redial\"
+            \n\"Open Calendar\"
+
+"</b></string>
   <string name="title" msgid="60788431860720964">"محرر الصوت"</string>
   <string name="bluetooth_title" msgid="1018603170854746529">"محرر بلوتوث صوت"</string>
   <string name="initializing" msgid="3146934028021025628">"البدء من جديد."</string>
