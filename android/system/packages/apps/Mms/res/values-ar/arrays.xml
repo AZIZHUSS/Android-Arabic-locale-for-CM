@@ -38,30 +38,30 @@
     <item msgid="4888792634429693183">"o_O"</item>
   </string-array>
   <string-array name="default_smiley_names">
-    <item msgid="1831934949361041701">"Felice"</item>
-    <item msgid="1601611480575517120">"Triste"</item>
-    <item msgid="1531181614218625881">"Occhiolino"</item>
-    <item msgid="3858808057949077894">"Linguaccia"</item>
-    <item msgid="7835238297967185651">"Sorpreso"</item>
-    <item msgid="1756223535005296033">"Bacio"</item>
-    <item msgid="1093906245140165107">"Urlo"</item>
-    <item msgid="888834839864150170">"Fico"</item>
-    <item msgid="6320683740534773967">"Fatti, non parole"</item>
-    <item msgid="6610111212478853990">"Gaffe"</item>
-    <item msgid="1706035208563940251">"Imbarazzato"</item>
-    <item msgid="9079275787422313427">"Angelo"</item>
-    <item msgid="4630490399784004880">"Indeciso"</item>
-    <item msgid="7002574538342357456">"Piango"</item>
-    <item msgid="850324578089267455">"Labbra cucite"</item>
-    <item msgid="6334637439528489607">"Risata"</item>
-    <item msgid="7602915122893958066">"Confuso"</item>
+    <item msgid="1831934949361041701">"سعيد"</item>
+    <item msgid="1601611480575517120">"حزين"</item>
+    <item msgid="1531181614218625881">"غمزة"</item>
+    <item msgid="3858808057949077894">"إغاظة"</item>
+    <item msgid="7835238297967185651">"اندهاش"</item>
+    <item msgid="1756223535005296033">"قبلة"</item>
+    <item msgid="1093906245140165107">"هتاف"</item>
+    <item msgid="888834839864150170">"رائع"</item>
+    <item msgid="6320683740534773967">"حديث النقود"</item>
+    <item msgid="6610111212478853990">"لاينطق بكلمة"</item>
+    <item msgid="1706035208563940251">"محرج"</item>
+    <item msgid="9079275787422313427">"ملاك"</item>
+    <item msgid="4630490399784004880">"متردد"</item>
+    <item msgid="7002574538342357456">"بكاء"</item>
+    <item msgid="850324578089267455">"شفاه مطبوعة"</item>
+    <item msgid="6334637439528489607">"ضحك"</item>
+    <item msgid="7602915122893958066">"حيرة"</item>
   </string-array>
     
     <string-array name="pref_mms_notification_led_blink_rate_entries">
-        <item>2 (Veloce)</item>
+        <item>2 (سريع)</item>
         <item>3</item>
-        <item>4 (Medio)</item>
+        <item>4 (متوسط)</item>
         <item>5</item>
-        <item>6 (Lento)</item>
+        <item>6 (بطيئ)</item>
     </string-array>
 </resources>
