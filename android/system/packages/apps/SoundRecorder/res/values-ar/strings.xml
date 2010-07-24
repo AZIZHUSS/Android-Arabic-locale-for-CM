@@ -16,13 +16,13 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="5955735546071433666">"Registratore suoni"</string>
+    <string name="app_name" msgid="5955735546071433666">"مسجل الصوت"</string>
     <string name="record_your_message" msgid="1583671906691662148">"سجل رسالتك الصوتية"</string>
     <string name="message_recorded" msgid="381539460921872233">"تم التسجيل الصوتي"</string>
     <string name="review_message" msgid="201616012287839474">"إستمع للتسجيل"</string>
     <string name="recording" msgid="4426791467211376099">"يجري التسجيل"</string>
     <string name="recording_stopped" msgid="1580278719585249612">"توقف التسجيل"</string>
-    <string name="storage_is_full" msgid="416039755956726221">"لأسف الذاكرة ممتلئة"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"للأسف الذاكرة ممتلئة"</string>
     <string name="max_length_reached" msgid="6398215743584093353">"وصول الحد الأفصى للتسجيل"</string>
     <string name="insert_sd_card" msgid="2251831579676114197">"أدخل بطاقة الذاكرة"</string>
     <string name="min_available" msgid="5493947690062988925">"<xliff:g id="MINUTES">%d</xliff:g> الدقائق المتبقية"</string>

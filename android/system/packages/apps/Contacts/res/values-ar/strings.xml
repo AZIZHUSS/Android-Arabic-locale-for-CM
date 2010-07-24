@@ -139,7 +139,9 @@
   <string name="recentCalls_callNumber" msgid="1756372533999226126">"إتصل<xliff:g id="NAME">%s</xliff:g>"</string>
   <string name="recentCalls_editNumberBeforeCall" msgid="7756171675833267857">"تغير الرقم قبل أن يتم الاتصال"</string>
   <string name="recentCalls_addToContact" msgid="1429899535546487008">"إضافة إلى جهات الاتصال"</string>
-  <string name="recentCalls_removeFromRecentList" msgid="401662244636511330">"إزالة من سجل d\المكالمات"</string>
+  <string name="recentCalls_removeFromRecentList" msgid="401662244636511330">"إزالة من سجل
+ d\
+المكالمات"</string>
   <string name="recentCalls_deleteAll" msgid="6352364392762163704">"محو جميع سجل المكالمات"</string>
   <string name="recentCalls_empty" msgid="247053222448663107">"لا يوجد سجل للمكالمات"</string>
   <string name="clearCallLogConfirmation_title" msgid="718072843006222703">"مسح سجل d\المكالمة"</string>
