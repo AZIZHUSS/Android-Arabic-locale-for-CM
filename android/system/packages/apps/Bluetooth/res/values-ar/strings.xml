@@ -97,7 +97,7 @@
     <string name="download_success" msgid="8038161914083925191">"الإستلام اكتمل (%1$s)."</string>
     <string name="upload_success" msgid="8160573453144095129">"الإرسال اكتمل (%1$s)."</string>
     <string name="inbound_history_title" msgid="6940914942271327563">"منقولات واردة"</string>
-    <string name="outbound_history_title" msgid="4279418703178140526">"منقولات خارجة"</string>
+    <string name="outbound_history_title" msgid="4279418703178140526">"منقولات صادرة"</string>
     <string name="no_transfers" msgid="3482965619151865672">"محفوظات النقل فارغة."</string>
     <string name="transfer_clear_dlg_msg" msgid="1712376797268438075">"جميع العناصر سيتم مسحها من القائمة."</string>
     <string name="outbound_noti_title" msgid="8051906709452260849">"مشاركة Bluetooth: إرسال ملفات"</string>
