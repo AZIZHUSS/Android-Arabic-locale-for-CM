@@ -1,247 +1,214 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Generic -->
-    <string name="app_name">CyanogenMod settings</string>
-
-    <!-- User interface -->
-    <string name="ui_title">Interfaccia utente</string>
-    <string name="ui_summary">Impostazioni e modifiche interfaccia utente</string>
-    <string name="ui_status_bar">Personalizzazione Status Bar</string>
-
-    <!-- User interface : orientation -->
-    <string name="ui_rotation_title">Rotazione accelerometro</string>
-    <string name="pref_rotation_90_title">90 gradi</string>
-    <string name="pref_rotation_180_title">180 gradi</string>
-    <string name="pref_rotation_270_title">270 gradi</string>
-
-    <!-- User interface : WebView -->
-    <string name="ui_webview_title">WebView</string>
-    <string name="pref_pinch_reflow_title">Reflow dopo il pinch in</string>
-    <string name="pref_pinch_reflow_summary">Reflow del testo dopo il pinch to zoom</string>
-
-    <!-- Color Picker -->
-    <string name="title_color_picker">Scegli un colore</string>
-    <string name="msg_color_picker">Premi al centro per confermare.\nPremi back per annullare</string>
-
-    <!-- Status Bar -->
-    <string name="status_bar_title">Status bar</string>
-    <string name="status_bar_summary">Modifiche alla batteria e all\'orologio</string>
-
-    <!-- Status Bar, Battery -->
-    <string name="battery_title">Batteria</string>
-    <string name="pref_battery_percentage_title">Percentuale batteria</string>
-    <string name="pref_battery_percentage_summary">Visualizza la percentuale della batteria nella status bar
+  <!-- Generic -->
+  <string name="app_name">اعدادات روم سيانوجين</string>
+  <!-- User interface -->
+  <string name="ui_title">الواجهة الاساسية</string>
+  <string name="ui_summary">اعدادات وتعديلات الواجهة الاساسية</string>
+  <string name="ui_status_bar">اعدادات شريط الوضع</string>
+  <!-- User interface : orientation -->
+  <string name="ui_rotation_title">التفاف الشاشة</string>
+  <string name="pref_rotation_90_title">تسعين درجة</string>
+  <string name="pref_rotation_180_title">مائة وثمانين درجة</string>
+  <string name="pref_rotation_270_title">مائتان وسبعون درجة</string>
+  <!-- User interface : WebView -->
+  <string name="ui_webview_title">WebView</string>
+  <string name="pref_pinch_reflow_title">Reflow after pinch in</string>
+  <string name="pref_pinch_reflow_summary">Reflow content immediately after pinch to zoom in</string>
+  <!-- Color Picker -->
+  <string name="title_color_picker">أختر اللون</string>
+  <string name="msg_color_picker">اضغط على اللون للأختيار.\nاضغط على رجوع للالغاء</string>
+  <!-- Status Bar -->
+  <string name="status_bar_title">شريط الوضع</string>
+  <string name="status_bar_summary">اعدادت شريط الوضع</string>
+  <!-- Status Bar, Battery -->
+  <string name="battery_title">البطارية</string>
+  <string name="pref_battery_percentage_title">نسبة البطارية</string>
+  <string name="pref_battery_percentage_summary">النسبة المتبقية من البطارية تعرض على شريط العرض
     </string>
-    <string name="battery_status_color_title">Colore percentuale batteria</string>
-
-    <!-- Status Bar, Clock -->
-    <string name="clock_title">Orologio</string>
-    <string name="title_show_clock">Mostra orologio</string>
-    <string name="title_clock_color">Colore orologio</string>
-
-    <!-- Status Bar, dBm Signal -->
-    <string name="dbm_title">Potenza segnale dBm</string>
-    <string name="title_show_dbm">Mostra dBm</string>
-    <string name="summary_on_show_dbm">La potenza del segnale viene visualizzata in dBm nella status bar</string>
-    <string name="summary_off_show_dbm">La potenza del segnale non viene visualizzato in dBm nella status bar</string>
-    <string name="title_dbm_color">colore dBm</string>
-
-    <!-- Date and Provider -->
-    <string name="dp_title">Data e operatore</string>
-    <string name="dp_summary">Modifiche data e operatore</string>
-
-    <!-- Date and Provider, Date -->
-    <string name="date_title">Data</string>
-    <string name="title_date_color">Colore data</string>
-
-    <!-- Date and Provider, PLMN -->
-    <string name="plmn_title">Stringa operatore</string>
-    <string name="title_show_plmn_ls">Visualizza operatore (lockscreen)</string>
-    <string name="summary_on_show_plmn_ls">L\'operatore viene visualizzato nel lockscreen</string>
-    <string name="summary_off_show_plmn_ls">L\'operatore non viene visualizzato nel lockscreen
+  <string name="battery_status_color_title">لون عرض نسبة البطارية</string>
+  <!-- Status Bar, Clock -->
+  <string name="clock_title">الساعة</string>
+  <string name="title_show_clock">اظهار الساعة</string>
+  <string name="title_clock_color">لون الساعة</string>
+  <!-- Status Bar, dBm Signal -->
+  <string name="dbm_title">عرض قوة الاشارة </string>
+  <string name="title_show_dbm">قوة الاشارة dBm</string>
+  <string name="summary_on_show_dbm">قوة الاشارة تعرض بالديسبل  في شريط العرض</string>
+  <string name="summary_off_show_dbm">قوة الاشارة تعرض بالديسبل في شريط العرض</string>
+  <string name="title_dbm_color">لون الديسبل</string>
+  <!-- Date and Provider -->
+  <string name="dp_title">التاريخ والمزود</string>
+  <string name="dp_summary">اعدادات التاريخ والمزود</string>
+  <!-- Date and Provider, Date -->
+  <string name="date_title">التاريخ</string>
+  <string name="title_date_color">لون التاريخ</string>
+  <!-- Date and Provider, PLMN -->
+  <string name="plmn_title">نصوص شبكة الجوال</string>
+  <string name="title_show_plmn_ls">عرض شبكة الجوال اثناء قفل الشاشة</string>
+  <string name="summary_on_show_plmn_ls">عرض شبكة الجوال اثناء قفل الشاشة</string>
+  <string name="summary_off_show_plmn_ls"> عدم عرض شبكة الجوال اثناء قفل الشاشة</string>
+  <string name="title_show_plmn_sb">عرض شبكة الجوال في شريط العرض</string>
+  <string name="summary_on_show_plmn_sb">عرض شبكة الجوال في شريط العرض</string>
+  <string name="summary_off_show_plmn_sb">عدم عرض شبكة الجوال في شريط العرض</string>
+  <string name="title_plmn_label_color">لون عرض شبكة الجوال</string>
+  <!-- Date and Provider, SPN -->
+  <string name="spn_title">اعدادات شكبة SPN</string>
+  <string name="title_show_spn_ls">عرض الشبكة spn اثناء قبل الشاشة</string>
+  <string name="summary_on_show_spn_ls">عرض الشبكة spn اثناء قبل الشاشة</string>
+  <string name="summary_off_show_spn_ls">عدم عرض الشبكة spn اثناء قبل الشاشة
     </string>
-    <string name="title_show_plmn_sb">Visualizza operatore (status bar)</string>
-    <string name="summary_on_show_plmn_sb">L\'operatore viene visualizzato nella status bar</string>
-    <string name="summary_off_show_plmn_sb">L\'operatore non viene visualizzato nella status bar
+  <string name="title_show_spn_sb">عرض شبكة SPN في شريط العرض</string>
+  <string name="summary_on_show_spn_sb">عرض شبكة SPN في شريط العرض</string>
+  <string name="summary_off_show_spn_sb">عدم عرض شبكة SPN في شريط العرض
     </string>
-    <string name="title_plmn_label_color">Colore etichetta operatore</string>
-
-    <!-- Date and Provider, SPN -->
-    <string name="spn_title">Impostazioni stringa provider</string>
-    <string name="title_show_spn_ls">Visualizza provider (lockscreen)</string>
-    <string name="summary_on_show_spn_ls">Il provider viene visualizzato nel lockscreen</string>
-    <string name="summary_off_show_spn_ls">Il provider non viene visualizzato nel lockscreen
-    </string>
-    <string name="title_show_spn_sb">Visualizza provider (status bar)</string>
-    <string name="summary_on_show_spn_sb">Il provider viene visualizzato nella status bar</string>
-    <string name="summary_off_show_spn_sb">Il provider non viene visualizzato nella status bar
-    </string>
-    <string name="title_spn_label_color">Colore etichetta provider</string>
-
-    <!-- Notifications -->
-    <string name="title_notifications_sb">Notifiche status bar</string>
-    <string name="title_notifications_color_tweaks">Colori notifiche</string>
-    <string name="summary_notifications_color_tweaks">Ticker notifiche, notifiche in corso, ultime notifiche, cancella notifiche, etc.</string>
-    <string name="title_notifications_ticker_color">Ticker notifiche</string>
-    <string name="title_notifications_count_color">Colore conteggio notifiche</string>
-    <string name="title_no_notifications_color">Titolo Nessuna notifica</string>
-    <string name="title_clear_button_label_color">Etichetta Cancella</string>
-    <string name="title_ongoing_notifications_color">Titolo notifiche in corso</string>
-    <string name="title_latest_notifications_color">Titolo ultime notifiche</string>
-    <string name="title_notifications_items">Componenti della notifica</string>
-    <string name="title_notifications_items_title">Titolo</string>
-    <string name="title_notifications_items_text">Testo</string>
-    <string name="title_notifications_items_time">Ora</string>
-
-    <!-- Tweaks Extras -->
-    <string name="te_title">Modifiche extra</string>
-    <string name="te_title_summary">Strumenti extra per modifiche all\'interfaccia</string>
-    <string name="te_reset">Ripristina</string>
-    <string name="title_reset_ui_tweaks_to_defaults">Ripristina UI a valori di default</string>
-    <string name="te_xml">Strumenti XML</string>
-    <string name="title_dialog_ui_interface">Modifiche interfaccia UI</string>
-    <string name="message_dialog_reset">Ripristina tutte le modifiche alla UI a valori di default? Riavvio richiesto</string>
-    <string name="reset_ui_success">Ripristinata la UI a valori di default! Riavvia.</string>
-    <string name="title_export_to_xml">Esporta colori in XML</string>
-    <string name="summary_export_to_xml">Esporta colori in /sdcard/cmparts_ui.xml</string>
-    <string name="message_dialog_export">Esporta colori UI in XML? Il file esistente verrà sovrascritto.</string>
-    <string name="xml_sdcard_unmounted">Scheda SD non montata!</string>
-    <string name="xml_write_error">Errore nello scrivere file XML!</string>
-    <string name="xml_export_success">XML esportato con successo!</string>
-    <string name="title_import_from_xml">Importa colori da XML</string>
-    <string name="summary_import_from_xml">Importa colori da /sdcard/cmparts_ui.xml</string>
-    <string name="message_dialog_import">Importa colori UI da XML? Riavvio richiesto.</string>
-    <string name="xml_file_not_found">File XML non trovato!</string>
-    <string name="xml_io_exception">Errore nel leggere il file!</string>
-    <string name="xml_parse_error">Errore nel parsing del file!</string>
-    <string name="xml_invalid_color">Codice colore non valido!</string>
-    <string name="xml_import_success">File XML importato con successo! Riavvia affinchè le modifiche abbiano effetto.</string>
-
-    <!-- Input Settings -->
-    <string name="input_settings_title">Impostazioni input</string>
-    <string name="input_settings_summary">Scegli il comportamento dei pulsanti</string>
-    <string name="button_settings_title">Impostazioni pulsanti</string>
-    <string name="pref_trackball_wake_title">Trackball wake</string>
-    <string name="pref_trackball_wake_summary">Sveglia il telefono premendo la trackball</string>
-    <string name="pref_trackball_unlock_title">Trackball unlock</string>
-    <string name="pref_trackball_unlock_summary">Sblocca il telefono premendo la trackball</string>
-    <string name="pref_menu_unlock_title">Menu unlock</string>
-    <string name="pref_menu_unlock_summary">Sblocca il telefono premendo il tasto menu</string>
-    <string name="pref_trackball_screen_title">Pulsa sempre</string>
-    <string name="pref_trackball_screen_summary">La trackball pulserà anche a schermo acceso</string>
-
-    <!-- Long Press Home -->
-    <string name="long_press_home_title">Long-press tasto home</string>
-    <string name="long_press_home_summary">Numero di applicazioni recenti, etc.</string>
-    <string name="recent_apps_show_title">Mostra titolo Recenti</string>
-    <string name="recent_apps_num_title">Numero di applicazioni</string>
-    <string name="recent_apps_num_summary">Numero di applicazioni recenti da visualizzare alla pressione prolungata del tasto home</string>
-    <string name="dialog_recent_apps_num_title">Specifica numero di applicazioni recenti</string>
-    <string name="use_custom_app_title">Applicazioni personalizzate</string>
-    <string name="use_custom_app_summary">Visualizza applicazioni personalizzate al posto di quelle recenti</string>
-    <string name="select_custom_app_title">Seleziona applicazioni</string>
-    <string name="group_applications">Applicazioni</string>
-
-    <!-- Performance Settings -->
-    <string name="performance_settings_title">Impostazioni performance</string>
-    <string name="performance_settings_summary">Modifiche performance del dispositivo</string>
-
-    <!-- Performance Settings : Compcache -->
-    <string name="pref_compcache_title">Usa compcache</string>
-    <string name="pref_compcache_summary">Memoria compressa per maggior capacità virtuale</string>
-
-    <!-- Performance Settings : JIT Mode -->
-    <string name="pref_jit_mode_title">Usa JIT</string>
-    <string name="pref_jit_mode_summary">Usa compilatore Dalvik just-in-time (riavvio richiesto)</string>
-
-    <!-- Performance Settings : Dithering -->
-    <string name="pref_use_dithering_title">Abilita dithering</string>
-    <string name="pref_use_dithering_summary">Il dithering migliora la qualità dell\'immagine a scapito delle performance (riavvio richiesto)</string>
-
-    <!-- Performance Settings : VM Heap Size -->
-    <string name="pref_heapsize_title">Dimensione heap VM</string>
-    <string name="pref_heapsize_summary">Massima quantità di memoria per heap VM (riavvio richiesto)</string>
-
-    <!-- Performance Settings : Warning dialog -->
-    <string name="performance_settings_warning_title">WARNING: Dragons Ahead!</string>
-    <string name="performance_settings_warning">Queste opzioni modificheranno le performance del dispositivo, probabilmente anche peggiorandole. Sono incluse per sperimentazione e ti chiediamo di non inviare bug report se hai modificato i valori di default.</string>
-
-    <!-- Application Settings -->
-    <string name="application_settings_title">Impostazioni applicazioni</string>
-    <string name="application_settings_summary">Modifica diverse impostazioni riguardanti le applicazioni</string>
-
-    <!-- Application Settings : Move any app -->
-    <string name="pref_move_all_apps_title">Abilita spostamento applicazioni</string>
-    <string name="pref_move_all_apps_summary">Permette di spostare qualsiasi app nella memoria esterna</string>
-
-    <!-- Application Settings : Install Location -->
-    <string name="pref_install_location_title">Luogo di installazione</string>
-    <string name="pref_install_location_summary">Seleziona dove vuoi che vengano installate le nuove applicazioni</string>
-
-    <!-- HapticTweaks -->
-    <string name="haptic_title">Modifiche feedback aptico</string>
-    <string name="haptic_summary">Scegli quando e con che intensità vuoi che intervenga il feedback aptico</string>
-
-    <string name="title_haptic_feedback">Feedback aptico</string>
-    <string name="summary_on_haptic_feedback">Usa feedback aptico alla pressione delle softkey e per certe interazioni con la UI</string>
-    <string name="summary_off_haptic_feedback">Nessun feedback aptico alla pressione delle softkey e per certe interazioni con la UI</string>
-
-    <string name="title_haptic_feedback_up">Feedback al rilascio</string>
-    <string name="summary_on_haptic_feedback_up">Usa feedback aptico al rilascio delle softkey e per certe interazioni con la UI</string>
-    <string name="summary_off_haptic_feedback_up">Nessun feedback aptico al rilascio delle softkey e per certe interazioni con la UI</string>
-
-    <string name="title_haptic_feedback_all">Feedback per selezioni</string>
-    <string name="summary_on_haptic_feedback_all">Usa feedback aptico per le selezioni sullo schermo</string>
-    <string name="summary_off_haptic_feedback_all">Nessun feedback aptico per le selezioni sullo schermo</string>
-
-    <string name="title_haptic_down_decider">Sequenza pressione</string>
-    <string name="title_haptic_up_decider">Sequenza rilascio</string>
-    <string name="title_haptic_long_decider">Sequenza pressione prol.</string>
-    <string name="title_haptic_tap_decider">Sequenza keypad</string>
-
-    <string name="title_haptic_menu">Aggiusta feedback</string>
-    <string name="title_haptic_notice">RIAVVIO RICHIESTO AFFINCHÈ LE MODIFICHE ABBIANO EFFETTO GLOBALMENTE</string>
-
-    <string name="haptic_delay_desc">ms Off Time</string>
-    <string name="haptic_vibe_desc">ms On Time</string>
-
-    <string name="haptic_down_description">Modifica valori aptici per la pressione dei tasti\n(Hardkey virtuali e certe interazioni UI.)</string>
-    <string name="haptic_up_description">Modifica valori aptici al rilascio dei tasti\n(Hardkey virtuali e certe interazioni UI.)</string>
-    <string name="haptic_long_description">Modifica valori aptici per la pressione prolungata.</string>
-    <string name="haptic_tap_description">Modifica valori aptici per la tastiera virtuale</string>
-
-    <string name="haptic_plus_minus_desc">Premi i pulsanti più o meno per aggiungere o togliere step alla sequenza.</string>
-
-    <string name="haptic_button_plus">+</string>
-    <string name="haptic_button_minus">-</string>
-
-    <string name="haptic_button_save">Salva</string>
-    <string name="haptic_button_test">Testa</string>
-    <string name="haptic_button_cancel">Cancella</string>
-    <string name="haptic_button_revert">Ripristina modifiche</string>
-    <string name="haptic_button_default">Carica default</string>
-
-    <string name="haptic_save_toast">Salvando valori aptici: </string>
-    <string name="haptic_cancel_toast">Valori aptici non modificati</string>
-    <string name="haptic_revert_toast">Ripristino ultimi valori</string>
-    <string name="haptic_default_toast">Caricamento valori di default</string>
-
-    <string name="general_title">Generale</string>
-
-    <!-- UI Settings : Render effect -->
-    <string name="pref_render_effect_title">Effetto Render</string>
-    <string name="pref_render_effect_summary">Scegli che colori utilizzare per visualizzare le immagini sullo schermo (possibili risparmi energetici)</string>
-
-<string name="widget_name">Widget RenderFX</string>
-    <string name="renderfx_temp">RenderFX</string>
-	<string name="prefs_render_effect">Effetto Render</string>
-	<string name="notify_render_effect">Effetto render attivo</string>
-
-	<!--  Widget Types -->
-	<string name="night">Night</string>
-	<string name="terminal">Term</string>
-    <string name="blue">Blu</string>
-	<string name="amber">Ambra</string>
-	<string name="salmon">Salmone</string>
-	<string name="fuscia">Fucsia</string>
+  <string name="title_spn_label_color">لون عرض شبكة spn</string>
+  <!-- Notifications -->
+  <string name="title_notifications_sb">تنبيهات شريط العرض</string>
+  <string name="title_notifications_color_tweaks">لون التنبيهات</string>
+  <string name="summary_notifications_color_tweaks">التنبيهات العادية و التنبيهات الدائمة والتنبيهات الحديثة وغيرها</string>
+  <string name="title_notifications_ticker_color">لون التنبيهات </string>
+  <string name="title_notifications_count_color">لون عدد التنبيهات</string>
+  <string name="title_no_notifications_color">عناوين التنبيهات بدون لون</string>
+  <string name="title_clear_button_label_color">الغاء لون التنبيهات</string>
+  <string name="title_ongoing_notifications_color">لون عناوين التنبيهات الدائمة</string>
+  <string name="title_latest_notifications_color">لون عناوين التنبيهات الحديثة</string>
+  <string name="title_notifications_items">التنبيهات</string>
+  <string name="title_notifications_items_title">لون العناوين</string>
+  <string name="title_notifications_items_text">لون النصوص</string>
+  <string name="title_notifications_items_time">لون الوقت</string>
+  <!-- Tweaks Extras -->
+  <string name="te_title">تحسينات اضافية</string>
+  <string name="te_title_summary">أدوات اضافية لتحسين الواجهة</string>
+  <string name="te_reset">اعادة ضبط</string>
+  <string name="title_reset_ui_tweaks_to_defaults">اعادة ضبط التحسينات للضبط الافتراضي</string>
+  <string name="te_xml">ادوات XML</string>
+  <string name="title_dialog_ui_interface">تحسين اعدادت الواجهة</string>
+  <string name="message_dialog_reset">اعادة ضبط تحسين اعدادت الواجهة للضبط الافتراضي؟  يتطلب اعادة التشغيل</string>
+  <string name="reset_ui_success">تم اعادة ضبط تحسين الاعدادات! اعد تشغيل الجهاز لترى التغييرات</string>
+  <string name="title_export_to_xml">Export colors to XML</string>
+  <string name="summary_export_to_xml">Export colors to /sdcard/cmparts_ui.xml</string>
+  <string name="message_dialog_export">Export UI colors to XML? This will overwrite the existing file</string>
+  <string name="xml_sdcard_unmounted">SD card not mounted!</string>
+  <string name="xml_write_error">Error writing XML!</string>
+  <string name="xml_export_success">XML export successful!</string>
+  <string name="title_import_from_xml">Import colors from XML</string>
+  <string name="summary_import_from_xml">Import colors from /sdcard/cmparts_ui.xml</string>
+  <string name="message_dialog_import">Import UI colors from XML? Reboot to see changes</string>
+  <string name="xml_file_not_found">XML file not found!</string>
+  <string name="xml_io_exception">Error reading file!</string>
+  <string name="xml_parse_error">Error parsing XML!</string>
+  <string name="xml_invalid_color">Invalid color code in XML!</string>
+  <string name="xml_import_success">XML import successful! Reboot to see changes</string>
+  <!-- Input Settings -->
+  <string name="input_settings_title">اعدادت الادخال</string>
+  <string name="input_settings_summary">التحكم بوظائف الازرار</string>
+  <string name="button_settings_title">اعدادت الازرار</string>
+  <string name="pref_trackball_wake_title">تنشيط الشاشة بالكرة المتحرك</string>
+  <string name="pref_trackball_wake_summary">تنشيط الشاشة بالضغط على الكرة المتحركة</string>
+  <string name="pref_trackball_unlock_title">الغاء قفل الشاشة بالكرة المتحركة</string>
+  <string name="pref_trackball_unlock_summary">الغاء قفل الشاشة بالضغط على الكرة المتحركة</string>
+  <string name="pref_menu_unlock_title">الغاء قفل الشاشة بالضغط على القائمة</string>
+  <string name="pref_menu_unlock_summary">الغاء قفل الشاشة بالضغط على القائمة</string>
+  <string name="pref_trackball_screen_title">Always pulse</string>
+  <string name="pref_trackball_screen_summary">Trackball will pulse while screen is on.</string>
+  <!-- Long Press Home -->
+  <string name="long_press_home_title">الضغط المتمسر على Home</string>
+  <string name="long_press_home_summary">اظهار عدد من اخر التطبيقات المنفذة</string>
+  <string name="recent_apps_show_title">عرض عنوان اخبر التطبيقات المنفذة</string>
+  <string name="recent_apps_num_title">عدد التطبيقات المنفذة حديثا</string>
+  <string name="recent_apps_num_summary">عرض عدد التطبيقات المنفذة حديثا عند الضغط المستمر على Home</string>
+  <string name="dialog_recent_apps_num_title">تحديد عدد التطبيقات المنفذة حديثا</string>
+  <string name="use_custom_app_title">استخدام تطبيقات مخصصة</string>
+  <string name="use_custom_app_summary">عرض تطبيقات مخصصة بدلا من عرض آخر التطبيقات الحديثةالتشغيل</string>
+  <string name="select_custom_app_title">اختيار تطبيقات مخصصة</string>
+  <string name="group_applications">التطبيقات</string>
+  <!-- Performance Settings -->
+  <string name="performance_settings_title">اعدادات الأداء</string>
+  <string name="performance_settings_summary">تحسينات أداء الجهاز</string>
+  <!-- Performance Settings : Compcache -->
+  <string name="pref_compcache_title">Use Compcache</string>
+  <string name="pref_compcache_summary">Compress memory for increased virtual capacity</string>
+  <!-- Performance Settings : JIT Mode -->
+  <string name="pref_jit_mode_title">Use JIT</string>
+  <string name="pref_jit_mode_summary">Use the Dalvik just-in-time compiler (requires reboot)</string>
+  <!-- Performance Settings : Dithering -->
+  <string name="pref_use_dithering_title">Enable surface dithering</string>
+  <string name="pref_use_dithering_summary">Dithering surfaces improves image quality at the cost of performance (requires reboot)</string>
+  <!-- Performance Settings : VM Heap Size -->
+  <string name="pref_heapsize_title">VM heap size</string>
+  <string name="pref_heapsize_summary">Maximum amount of memory per VM heap (requires reboot)</string>
+  <!-- Performance Settings : Warning dialog -->
+  <string name="performance_settings_warning_title">انتبه: قدامك شبح</string>
+  <string name="performance_settings_warning">هذه الخيارات سوف تغير من اداء جهازك وربما تكون للأسوأ. وضعت هذه الخيارات للتجارب ونرجوا منك عدم تقديم اي ملاحظات عن هذه الخصائص</string>
+  <!-- Application Settings -->
+  <string name="application_settings_title">Impostazioni applicazioni</string>
+  <string name="application_settings_summary">اعدادات التطبيقات</string>
+  <!-- Application Settings : Move any app -->
+  <string name="pref_move_all_apps_title">تغيير اعدادت متنوعة للتطبيقات مثل مكان تحميل التطبيقات</string>
+  <string name="pref_move_all_apps_summary">السماح بنقل التطبيقات</string>
+  <!-- Application Settings : Install Location -->
+  <string name="pref_install_location_title">السماح بنقل اي تطبيق للذاكرة الخارجية</string>
+  <string name="pref_install_location_summary">اختيار اين سيكون تحميل التطبيقات الجديدة</string>
+  <!-- HapticTweaks -->
+  <string name="haptic_title">Haptic feedback tweaks</string>
+  <string name="haptic_summary">Adjust when and how strong haptic feedback occurs</string>
+  <string name="title_haptic_feedback">Haptic feedback main</string>
+  <string name="summary_on_haptic_feedback">Use haptic feedback on keypress for softkeys and certain UI interactions</string>
+  <string name="summary_off_haptic_feedback">No haptic feedback on keypress for softkeys and certain UI interactions</string>
+  <string name="title_haptic_feedback_up">Haptic feedback up</string>
+  <string name="summary_on_haptic_feedback_up">Use haptic feedback on key release for softkeys and certain UI interactions</string>
+  <string name="summary_off_haptic_feedback_up">No haptic feedback on key release for softkeys and certain UI interactions</string>
+  <string name="title_haptic_feedback_all">Haptic screen items</string>
+  <string name="summary_on_haptic_feedback_all">Use haptic feedback when making screen selections</string>
+  <string name="summary_off_haptic_feedback_all">No haptic feedback when making screen selections</string>
+  <string name="title_haptic_down_decider">Set Down Pattern</string>
+  <string name="title_haptic_up_decider">Set Up Pattern</string>
+  <string name="title_haptic_long_decider">Set Long-Press Pattern</string>
+  <string name="title_haptic_tap_decider">Set Keypad Tap Pattern</string>
+  <string name="title_haptic_menu">Haptic Adjust</string>
+  <string name="title_haptic_notice">REBOOT REQUIRED FOR CHANGES TO APPLY GLOBALLY</string>
+  <string name="haptic_delay_desc">ms Off Time</string>
+  <string name="haptic_vibe_desc">ms On Time</string>
+  <string name="haptic_down_description">Adjusting haptic values for button DOWN-PRESSES\n(Virtual hardkeys and certain UI interactions.)</string>
+  <string name="haptic_up_description">Adjusting haAdjusting haptic values for button RELEASES\n(Virtual hardkeys and most screen presses.)ptic values for on-screen keyboard taps</string>
+  <string name="haptic_long_description">Adjusting haptic values for LONG-PRESSES.</string>
+  <string name="haptic_tap_description">Adjusting haptic values for on-screen keyboard taps</string>
+  <string name="haptic_plus_minus_desc">Press the Plus or Minus Buttons to add or remove steps in the sequence.</string>
+  <string name="haptic_button_plus">+</string>
+  <string name="haptic_button_minus">-</string>
+  <string name="haptic_button_save">Save</string>
+  <string name="haptic_button_test">Test</string>
+  <string name="haptic_button_cancel">Cancel</string>
+  <string name="haptic_button_revert">Revert Changes</string>
+  <string name="haptic_button_default">Load Defaults</string>
+  <string name="haptic_save_toast">Saving haptic values: </string>
+  <string name="haptic_cancel_toast">Haptic values unchanged</string>
+  <string name="haptic_revert_toast">Restoring last-used values</string>
+  <string name="haptic_default_toast">Loading hard-coded defaults</string>
+  <string name="general_title">عام</string>
+  <!-- UI Settings : Render effect -->
+  <string name="pref_render_effect_title">تأثيرات العرض والتقديم</string>
+  <string name="pref_render_effect_summary">اختر الألوان المستخدمة لرسم الشاشية. احتمالية حفظ استهلاك البطارية</string>
+  <string name="widget_name">RenderFX Widget</string>
+  <string name="renderfx_temp">RenderFX</string>
+  <string name="prefs_render_effect">تأثيرات العرض</string>
+  <string name="notify_render_effect">تشغيل تأثيرات العرض</string>
+  <!--  Widget Types -->
+  <string name="night">ليل</string>
+  <string name="terminal">اخضر</string>
+  <string name="blue">ازرق</string>
+  <string name="amber">كهرماني</string>
+  <string name="salmon">لون السالمون</string>
+  <string name="fuscia">فوشي</string>
+<!-- Notification Bar Colors -->
+  <string name="title_notification_bar">Notification bar</string>
+  <string name="title_custom_not_bar">Custom notification bar</string>
+  <string name="summary_custom_not_bar_on">Using customized notification bar color and style</string>
+  <string name="summary_custom_not_bar_off">Using classic CyanogenMod notification bar</string>
+  <string name="title_square_not_bar">Squared bar style</string>
+  <string name="summary_square_not_bar_on">Using squared off notification bar style</string>
+  <string name="summary_square_not_bar_off">Using classic rounded notification bar style</string>
+  <string name="title_not_bar_color_mask">Bar color</string>
+  <string name="summary_not_bar_color_mask">Note: Transparency (alpha) setting will not be applied</string>
 </resources>

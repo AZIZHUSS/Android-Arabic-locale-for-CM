@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- 
  * Copyright (C) 2007 The Android Open Source Project
  *
@@ -14,35 +14,27 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  -->
-
 <resources>
-
-   
-    <string-array name="entries_install_location">
-        <item>Automatica</item>
-        <item>Interna</item>
-        <item>Esterna</item>
-    </string-array>
-   
-    <string-array name="entries_render_effect">
-        <item>Nessun effetto render</item>
-        <item>Night mode (rosso)</item>
-        <item>Terminale (verde)</item>
-        <item>Blu </item>
-        <item>Ambra</item>
-        <item>Salmone</item>
-        <item>Fucsia</item>
-    </string-array>
-
-    <string-array name="render_entries">
-        <item>Night Mode (Rosso)</item>
-        <item>Terminal (Verde)</item>
-        <item>Blu</item>
-        <item>Ambra</item>
-        <item>Salmone</item>
-        <item>Fucsia</item>
-	</string-array>
-
-    
-
+  <string-array name="entries_install_location">
+    <item>تلقائي</item>
+    <item>داخلي</item>
+    <item>خارجي</item>
+  </string-array>
+  <string-array name="entries_render_effect">
+    <item>Nessun effetto render</item>
+    <item>نمط ليلي احمر</item>
+    <item>اخضر</item>
+    <item>ازرق</item>
+    <item>كهرمان</item>
+    <item>لون السالمون</item>
+    <item>فوشي</item>
+  </string-array>
+  <string-array name="render_entries">
+    <item>نمط ليلي احمر</item>
+    <item>اخضر</item>
+    <item>ازرق</item>
+    <item>كهرمان</item>
+    <item>لون السالمون</item>
+    <item>فوشي</item>
+  </string-array>
 </resources>
