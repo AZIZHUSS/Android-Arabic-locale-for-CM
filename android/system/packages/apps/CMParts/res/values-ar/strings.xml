@@ -201,14 +201,14 @@
   <string name="amber">كهرماني</string>
   <string name="salmon">لون السالمون</string>
   <string name="fuscia">فوشي</string>
-<!-- Notification Bar Colors -->
-  <string name="title_notification_bar">Notification bar</string>
-  <string name="title_custom_not_bar">Custom notification bar</string>
-  <string name="summary_custom_not_bar_on">Using customized notification bar color and style</string>
-  <string name="summary_custom_not_bar_off">Using classic CyanogenMod notification bar</string>
-  <string name="title_square_not_bar">Squared bar style</string>
-  <string name="summary_square_not_bar_on">Using squared off notification bar style</string>
-  <string name="summary_square_not_bar_off">Using classic rounded notification bar style</string>
-  <string name="title_not_bar_color_mask">Bar color</string>
+  <!-- Notification Bar Colors -->
+  <string name="title_notification_bar">شريط التنبيهات</string>
+  <string name="title_custom_not_bar">تخصيص شريط التنبيهات</string>
+  <string name="summary_custom_not_bar_on">استخدام الوان ونمط شريط التنبيهات المخصص</string>
+  <string name="summary_custom_not_bar_off">أستخدام شريط سيانوجين التقليدي</string>
+  <string name="title_square_not_bar">نمط مربع للشريط</string>
+  <string name="summary_square_not_bar_on">الغاء النمط المربع لشريط التنبيهات</string>
+  <string name="summary_square_not_bar_off">استخدام النمط التقليدي المنحني لشريط التبيهات</string>
+  <string name="title_not_bar_color_mask">لون الشريط</string>
   <string name="summary_not_bar_color_mask">Note: Transparency (alpha) setting will not be applied</string>
 </resources>
