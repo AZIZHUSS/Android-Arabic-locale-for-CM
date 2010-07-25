@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--  Copyright (C) 2009 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,9 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="widget_name" msgid="5948202656358353180">"Suggerimenti"</string>
-    <string name="pager_footer" msgid="8874468132852452517">"<xliff:g id="CURPAGE">%1$d</xliff:g> di <xliff:g id="NUMPAGES">%2$d</xliff:g>"</string>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="widget_name" msgid="5948202656358353180">"تلميحات الشاشة الأساسية"</string>
+  <string name="pager_footer" msgid="8874468132852452517">"<xliff:g id="CURPAGE">%1$d</xliff:g>من<xliff:g id="NUMPAGES">%2$d</xliff:g>"</string>
 </resources>
