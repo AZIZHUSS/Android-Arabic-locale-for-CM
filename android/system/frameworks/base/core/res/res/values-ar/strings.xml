@@ -588,7 +588,7 @@
   <string name="hour_ampm" msgid="4329881288269772723">"<xliff:g id="HOUR">%-l</xliff:g><xliff:g id="AMPM">%P</xliff:g>"</string>
   <string name="hour_cap_ampm" msgid="1829009197680861107">"<xliff:g id="HOUR">%-l</xliff:g><xliff:g id="AMPM">%p</xliff:g>"</string>
   <string name="status_bar_clear_all_button" msgid="7774721344716731603">"مسح"</string>
-  <string name="status_bar_no_notifications_title" msgid="4755261167193833213">"لا توجد تبيهات"</string>
+  <string name="status_bar_no_notifications_title" msgid="4755261167193833213">"لا توجد تنبيهات"</string>
   <string name="status_bar_ongoing_events_title" msgid="1682504513316879202">"الجارية"</string>
   <string name="status_bar_latest_events_title" msgid="6594767438577593172">"تنبيهات"</string>
   <string name="battery_status_text_percent_format" msgid="7660311274698797147">"<xliff:g id="NUMBER">%d</xliff:g><xliff:g id="PERCENT">%%</xliff:g>"</string>
