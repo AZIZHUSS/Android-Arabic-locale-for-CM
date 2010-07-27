@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2009 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,278 +13,224 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="application_name" msgid="5865630159700533006">"ADW.Launcher"</string>
-    <string name="uid_name" msgid="3371120195364560632">"Android Core Apps"</string>
-    <string name="folder_name" msgid="4588446541914685904">"مجلد"</string>
-    <string name="chooser_wallpaper" msgid="5988031014201479733">"الخلفيات"</string>
-    <string name="wallpaper_instructions" msgid="4215640646180727542">"اختر الخلفية"</string>
-    <string name="pick_wallpaper" msgid="2674908923379130941">"معرض الصور"</string>
-    <string name="activity_not_found" msgid="3571057450431950427">"البرنامج غير مثبت على جهازك"</string>
-    <string name="configure_wallpaper" msgid="2820186271419674623">"يتم الظبط"</string>
-    <string name="rename_folder_label" msgid="5646236631298452787">"اسم المجلد"</string>
-    <string name="rename_folder_title" msgid="4544573104191526550">"إعادة تسمية المجلد"</string>
-    <string name="rename_action" msgid="6016003384693240896">"تم"</string>
-    <string name="cancel_action" msgid="3811860427489435048">"الغاء"</string>
-    <string name="menu_item_add_item" msgid="6233177331075781114">"اضف إلى الصفحة"</string>
-    <string name="group_applications" msgid="4118484163419674240">"البرامج"</string>
-    <string name="group_shortcuts" msgid="9133529424900391877">"روابط"</string>
-    <string name="group_search" msgid="5905328940867162196">"بحث"</string>
-    <string name="group_folder" msgid="5143593791798929193">"مجلد جديد"</string>
-    <string name="group_live_folders" msgid="2664945399140647217">"مجلدات "</string>
-    <string name="group_widgets" msgid="6704978494073105844">"Widget"</string>
-    <string name="group_wallpapers" msgid="1568191644272224858">"خلفيات"</string>
-    <string name="add_folder" msgid="3521088587367839879">"مجلد "</string>
-    <string name="add_clock" msgid="2337943840175865746">"ساعة"</string>
-    <string name="add_photo_frame" msgid="3154058437359487954">"صورة بداخل إطار"</string>
-    <string name="add_search" msgid="7104834713685095105">"بحث "</string>
-    <string name="out_of_space" msgid="8365249326091984698">"لا توجد مساحة خالية في الصفحة"</string>
-    <string name="shortcut_installed" msgid="7071557296331322355">"رابط \"<xliff:g id="NAME">%s</xliff:g>\" تم الإنشاء."</string>
-    <string name="shortcut_uninstalled" msgid="2129499669449749995">"يتم الربط \"<xliff:g id="NAME">%s</xliff:g>\" تم الحذف"</string>
-    <string name="shortcut_duplicate" msgid="4757756326465060694">"رابط \"<xliff:g id="NAME">%s</xliff:g>\" جاهز."</string>
-    <string name="title_select_shortcut" msgid="2858897527672831763">"اختر اختصار"</string>
-    <string name="title_select_live_folder" msgid="3753447798805166749">"اختر مجلد"</string>
-    <string name="menu_add" msgid="3065046628354640854">"أضف"</string>
-    <string name="menu_wallpaper" msgid="5837429080911269832">"الخلفية"</string>
-    <string name="menu_search" msgid="4826514464423239041">"بحث"</string>
-    <string name="menu_notifications" msgid="6424587053194766192">"التنبيهات"</string>
-    <string name="menu_gestures" msgid="514678675575912237">"الإيحائات"</string>
-    <string name="menu_settings" msgid="6233960148378443661">"الخصائص"</string>
-    <string name="permlab_install_shortcut" msgid="1201690825493376489">"إضف اختصار"</string>
-    <string name="permdesc_install_shortcut" msgid="7429365847558984148">"السماح للبرنامج بوضع اختصار "</string>
-    <string name="permlab_uninstall_shortcut" msgid="7696645932555926449">"مسح الإختصار"</string>
-    <string name="permdesc_uninstall_shortcut" msgid="959972195916090900">"السماح للبرنامج بحذف الإختصار"</string>
-    <string name="permlab_read_settings" msgid="3452408290738106747">"أقرأ الخصائص والإختصارات في الواجهة الرئيسية  "</string>
-    <string name="permdesc_read_settings" msgid="8377434937176025492">"السماح بتغييرات اجبارية في الواجهة الرئيسية "</string>
-    <string name="permlab_write_settings" msgid="1360567537236705628">"تخصيص ووضع اختصار في الواجهة الرئيسية "</string>
-    <string name="permdesc_write_settings" msgid="1098648778383349818">"السماح لبرنامج بتغيير الإختصارات في الواجهة الرئيسية "</string>
-    <string name="search_hint" msgid="6974176141372467453">"بحث جوجل "</string>
-    <string name="gadget_error_text" msgid="8359351016167075858">"الإختصار تحميل الأختصار"</string>
-
-    <!-- ADW Settings -->
-    <string name="pref_label_settings">خصائص</string>
-    <!-- Screen preferences -->
-    <string name="pref_title_screen_preferences">صورة من الخصائص</string>
-    <string name="pref_summary_screen_preferences">عدد الصفحات والصفحة الرئيسية</string>
-
-    <string name="pref_title_wallpaper_hack">اختراق الخلفية</string>
-    <string name="pref_summary_wallpaper_hack">إلغي عملها إذا كنت تستخدم خلفية ثقيلة , او اتركها لإنتقال افضل بين الصفحات</string>
-
-    <string name="pref_title_orientation_sensor">حساس الإتجاهات</string>
-    <string name="pref_summary_orientation_sensor">تغيير اتجاه العرض مع تغيير اتجاه الجهاز</string>
-
-    <string name="pref_title_hide_statusbar">أخفاء الشريط العلوي</string>
-    <string name="pref_summary_hide_statusbar">هذا الخيار يخفي المعلومات العلوي</string>
-
-    <string name="pref_title_desktop_screens">صفحات القائمة</string>
-    <string name="pref_summary_desktop_screens">هذا الخيار لتحديد عدد صفحات القائمة الرئيسية</string>
-    <string name="pref_dialog_desktop_screen">اختر عدد الصفحات المطلوبة</string>
-
-    <string name="pref_title_default_screen">الصفحة الرئيسية</string>
-    <string name="pref_summary_default_screen"> هنا اختيار الصفحة الرئيسية من بين الصفحات</string>
-    <string name="pref_dialog_default_screen">اختر الصفحة الرئيسية</string>
-
-    <string name="pref_title_desktop_scrolling_speed">سرعة الإنتقال في الواجهة الرئيسية</string>
-    <string name="pref_summary_desktop_scrolling_speed">هنا تستطيع اختيار سرعة الإنتقال في الواجهة الرئيسية </string>
-    <string name="pref_dialog_desktop_scrolling_speed">اختر سرعة الإنتقال في الواجهة الرئيسية</string>
-
-    <string name="pref_title_desktop_overshoot">نظرة خارجية من الواجهة الرئيسية</string>
-    <string name="pref_summary_desktop_overshoot">فعل ارتدادي عند التغيير من صفحة إلى صفحة </string>
-    <string name="pref_dialog_desktop_overshoot">اختر صفر للإلغاء</string>
-
-    <!-- Drawer Settings -->
-    <string name="pref_title_drawer_settings">خصائص درج القائمة</string>
-    <string name="pref_summary_drawer_settings">خصائص عرض البرنامج</string>
-
-    <string name="pref_title_zoom_effect_speed">السرعة وخاصية التقريب</string>
-    <string name="pref_summary_zoom_effect_speed">هنا تستطيع اختيار الوقت الذي سيتم تفعيل خاصية التقريب فيه </string>
-    <string name="pref_dialog_zoom_effect_speed">اختر الوقت بوحدة الملي ثانية لتفعيل خاصية التقريب</string>
-
-    <string name="pref_title_page_horizontal_margin">التداخل في العرض الأفقي</string>
-    <string name="pref_summary_page_horizontal_margin">هذا الخيار يحدد التداخل عند اختيار العرض الأفقي</string>
-    <string name="pref_dialog_page_horizontal_margin">حدد التداخل </string>
-
-    <string name="pref_title_new_drawer">درج البرامج الأفقي</string>
-    <string name="pref_summary_new_drawer">استخدم الخاصية المشابهة لخاصية الجهاز جلاكسي اس</string>
-
-    <string name="pref_title_animated_drawer">حركة درج البرامج</string>
-    <string name="pref_summary_animated_drawer">فعل خاصية تحريك درج البرامج</string>
-
-    <string name="pref_title_drawer_columns_portrait">درج البرامج بشكل عمودي</string>
-    <string name="pref_summary_drawer_columns_portrait">اختر رقم الأعمدة التي تريد استخدامها في الوضع العمودي</string>
-    <string name="pref_dialog_drawer_columns_portrait">اختر رقم الأعمدة التي تريد استخدامها في الوضع العمودي</string>
-
-    <string name="pref_title_drawer_rows_portrait">خطوط درج البرامج في الوضع العمودي</string>
-    <string name="pref_summary_drawer_rows_portrait">اختر عدد الصفوف في الوضع العمودي</string>
-    <string name="pref_dialog_drawer_rows_portrait">اختر عدد الصفوف في الوضع العمودي</string>
-
-    <string name="pref_title_drawer_columns_landscape">اعمدة درج البرامج في الوضع الأفقي</string>
-    <string name="pref_summary_drawer_columns_landscape">اختر عدد الأعمدة في الوضع الأفقي</string>
-    <string name="pref_dialog_drawer_columns_landscape">اختر عدد الأعمدة في الوضع الأفقي</string>
-
-    <string name="pref_title_drawer_rows_landscape">خطوط درج البرامج في الوضع الأفقي</string>
-    <string name="pref_summary_drawer_rows_landscape">اختر عدد الصفوف المستخدمة في درج البرامج في الوضع الأفقي</string>
-    <string name="pref_dialog_drawer_rows_landscape">اختر عدد الصفوف المستخدمة في درج البرامج في الوضع الأفقي</string>
-
-    <!-- Previews preferences -->
-    <string name="pref_title_previews_preferences">معاينة الخصائص </string>
-    <string name="pref_summary_previews_preferences">معاينة خصائص الواجهة </string>
-
-    <string name="pref_title_sense_previews">معاينة الواجهة المشابهة للسينس</string>
-    <string name="pref_summary_sense_previews">استخدم الخصائص المشابهة لواجهة السينس</string>
-
-    <string name="pref_title_clean_screen_mode">وضع الواجهة الخالية </string>
-    <string name="pref_summary_clean_screen_mode">اخفاء الإختصارات عند المعاينة</string>
-
-    <!-- Button preferences -->
-    <string name="pref_title_ui_settings">خصائص الواجهة</string>
-    <string name="pref_summary_ui_settings">تفعيل او تعطيل بعض خصائص الواجهة</string>
-
-    <string name="pref_title_home_button_binding">زر الرجوع للصفحة الرئيسية (هوم)</string>
-    <string name="pref_summary_home_button_binding">اختر وظيفة زر (هوم)</string>
-
-    <string name="pref_title_desktop_dots">نقاط الواجهة  الرئيسية</string>
-    <string name="pref_summary_desktop_dots">اخفي او اظهر النقاط </string>
-
-    <string name="pref_title_dockbar">الإطار السفلي</string>
-    <string name="pref_summary_dockbar">تفعيل او تعطيل الإطار السفلي </string>
-
-    <string name="pref_title_closing_dockbar">اغلاق الإطار السفلي</string>
-    <string name="pref_summary_closing_dockbar">اغلاق الإطار السفلي بشكل تلقائي بعد فتح اي برنامج</string>
-
-    <string name="pref_title_lab">اختصار الزر الأيسر</string>
-    <string name="pref_summary_lab">تفعيل وتعطيل اختصار الزر الأيسر</string>
-
-    <string name="pref_title_rab">زر الإختصار الأيمن</string>
-    <string name="pref_summary_rab">تفعيل وتعطيل زر الإختصار الأيمن</string>
-
-    <string name="pref_title_ab2">زر الإختصار الثانوي</string>
-    <string name="pref_summary_ab2">تفعيل او تعطيل زر الإختصار الثانوي </string>
-
-    <string name="pref_title_tint_ab">تدرج ازرار التفعيل</string>
-    <string name="pref_summary_tint_ab">تفعيل او تعطيل  خاصية تدرج ازرار التفعيل</string>
-
-    <string name="pref_title_ab_scale_factor">عامل قياس زر التفعيل</string>
-    <string name="pref_summary_ab_scale_factor">اختر عامل قياس زر التفعيل </string>
-    <string name="pref_dialog_ab_scale_factor">اختر عامل قياس زر التفعيل</string>
-
-    <string name="pref_title_hide_allapps_ab">اخفي الخلفية في جميع البرامج</string>
-    <string name="pref_summary_hide_allapps_ab">اخفاء الخلفية عند الضغط على زر تفعيل اظهار البرامج </string>
-
-    <string name="pref_title_hide_ab_bg">اخفاء الخلفية عند الضغط على زر تاتفعيل  </string>
-    <string name="pref_summary_hide_ab_bg">اخفي الأزرار عند الضغط على زر التفعيل </string>
-
-    <string name="pref_title_hide_icon_labels">اخفي اسماء الأيقونات</string>
-    <string name="pref_summary_hide_icon_labels">اخفاء اسماء الأيقونات في الواجهة الرئيسية </string>
-
-    <string name="pref_title_build_info">انشئ المعلومات</string>
-    <string name="pref_title_adw_version">نسخة البرنامج</string>
-
-    <string name="pref_title_icon_highlights">إبراز الأيقونات</string>
-    <string name="pref_summary_icon_highlights">اختر لون الخلفية عند اختيار الأيقونات</string>
-    <string name="pref_title_icon_highlights_focus">الألوان</string>
-    <string name="pref_summary_icon_highlights_focus">اختر اللون للأيقونة المختارة</string>
-    <string name="pref_title_new_selectors">استخدم ايقونات جديدة </string>
-    <string name="pref_summary_new_selectors">تعطيل استخدام الإختيارات القديمة</string>
-    <string name="pref_title_drawer_color">لون خلفية درج البرامج</string>
-    <string name="pref_summary_drawer_color">اختر لون خلفية درج البرامج </string>
-
-
-    <string name="pref_dialog_title_color_picker">اختر لون</string>
-    <string name="pref_dialog_message_color_picker">اضغط على اللون الذي في المنتصف للتأكيد او اضغط سهم الرجوع للتراجع عن الخيار </string>
-    <string name="pref_dialog_color_picker_alpha">الفا</string>
-    <string name="pref_message_restart_normal">تغيير هذا الخيار سينتج عنه إعادة تشغيل الواجهة </string>
-    <string name="pref_message_restart_froyo">تغيير هذا الخيار سينتج عنه إعادة تشغيل الواجهة </string>
-    <string name="drop_to_uninstall">حذف </string>
-    
-    <string name="pref_title_import_export">عمل نسخة احتياطية واستعادة النسخ الإحتياطية</string>
-    <string name="pref_title_xml">ADW خصائص</string>
-    <string name="pref_title_xml_import">استعادة الخصائص</string>
-    <string name="pref_summary_xml_import">استعادة النسخة الإحتياطية من /sdcard/adw_settings.xml</string>
-    <string name="pref_title_xml_export">اعمل نسخة احتياطية من خصائص البرنامج</string>
-    <string name="pref_summary_xml_export">اعمل نسخة احتياطية في  /sdcard/adw_settings.xml</string>
-    
-    <string name="pref_title_db">ضبط الواجهة</string>
-    <string name="pref_title_db_import">استعادة الواجهة</string>
-    <string name="pref_summary_db_import">استعادة من/sdcard/adw_launcher.db</string>
-    <string name="pref_title_db_export">اعمل نسخة احتياطية من خصائص الواجهة </string>
-    <string name="pref_summary_db_export">اعمل نسخة احتياطية في /sdcard/adw_launcher.db</string>
-    
-    <string name="title_dialog_xml">ADW خصائص برنامج </string>
-    <string name="import_export_sdcard_unmounted">كرت الذاكرة غير مثبت</string>
-    
-    <!-- XML Import/Export strings -->
-    <string name="message_dialog_export">اعمل نسخة احتياطية من الخصائص ,اي نسخة احتياطية قديمة سيتم مسحها</string>
-    <string name="xml_export_dialog">يتم عمل النسخة الإحتياطية ...</string>
-    <string name="xml_export_success">انتهت عملية النسخ الإحتياطي بنجاح</string>
-    <string name="xml_export_error">حدث خطأ اثناء عمل النسخة الإحتياطية</string>    
-    
-    <string name="message_dialog_import">هل تريد استعادة نسخة احتياطية ؟ سيتم إعادة تشغيل الواجهة </string>
-    <string name="xml_import_dialog">يتم استعادة الخصائص ...</string>  
-    <string name="xml_file_not_found">لا يوجد ملف نسخة احتياطية</string>
-    <string name="xml_not_readable">غير قادر على قراءة الملف</string>
-    <string name="xml_import_success">تم استعادة واجهة المستخدم بنجاح </string>
-    <string name="xml_import_error">حدث خطأ عند محاولة استعادة النسخة الإحتياطية</string>
-    
-    <!-- Config Import/Export strings -->
-    <string name="message_dialog_export_config">عمل نسخة احتياطية من الخصائص</string>
-    <string name="dbfile_export_dialog">يتم عمل نسخة احتياطية من واجهة المستخدم ... </string>
-    <string name="dbfile_export_success">تم عمل النسخة الإحتياطية بنجاح </string>
-    <string name="dbfile_export_error">حدث خطأ اثناء عملية النسخ</string>
-    
-    <string name="message_dialog_import_config">استعادة نسخة واجهة المستخدم القديمة ,  سيتم إعادة تشغيل الواجهة </string>
-    <string name="dbfile_import_dialog">يتم استعادة الواجهة القديمة</string>
-    <string name="dbfile_not_found">ملف النسخة الإحتية غير موجود</string>
-    <string name="dbfile_not_readable">غير قادر على قراءة الملف</string>
-    <string name="dbfile_import_success">انتهت عملية استعادة النسخة الإحتياطية بنجاح</string>
-    <string name="dbfile_import_error">حدث خطأ اثناء عملية الإستعادة</string>
-        <!--  Desktop columns/Rows -->
-    <string name="pref_title_desktop_columns">اعمدة سطح المكتب </string>
-    <string name="pref_summary_desktop_columns">اختر عدد الأعمدة المستخدمة في سطح المكتب</string>
-    <string name="pref_dialog_desktop_columns">اختر عدد الأعمدة المستخدمة في سطح المكتب</string>
-
-    <string name="pref_title_desktop_rows">صفوف سطح المكتب</string>
-    <string name="pref_summary_desktop_rows">اختر عدد الصفوف المستخدمة في سطح المكتب</string>
-    <string name="pref_dialog_desktop_rows">اختر عدد الصفوف المستخدمة في سطح المكتب</string>
-
-    <string name="pref_title_autosize_icons">تغيير احجام الأيقونات بشكل تلقائي</string>
-    <string name="pref_summary_autosize_icons">تعديل احجام الأيقونات بشكل تلقائي </string>
-
-    <string name="pref_title_scrollable_widgets">الإنتقال في الإختصارات (widget ) </string>
-    <string name="pref_summary_scrollable_widgets">تعطيل خاصية الإنتقال في الإختصارات (widget )</string>
-
-    <string name="pref_title_drawer_labels">رؤية الأسماء في درج البرامج</string>
-    <string name="pref_summary_drawer_labels">رؤية الأسماء في درج البرامج</string>
-    <string name="pref_title_fade_drawer_labels">خاصية تخافي اسماء البرامج في درج البرامج</string>
-    <string name="pref_summary_fade_drawer_labels">خاصية تخافي الأسماء  , هذه الخاصية تستخدم مساحة اكبر في الرام</string>
-
-        <string name="widget_config_dialog_title">ضبط عرض الإختصارات</string>
-        <string name="widget_config_dialog_summary">كم عدد الصفوف والأعمدة المراد استخدامها في الإختصارات (widgets)</string>
-        <string name="widget_columns">اعمدة</string>
-        <string name="widget_rows">صفوف</string>
-
-    <string name="pref_title_screen_cache">استخدم صفحات محفوظة</string>
-    <string name="pref_summary_screen_cache">هذه الخاصية تجعل الإنتقال بين االلصفحات اسهل , ولكن يفضل تعطيلها عند استخدام اختصارات ويدجيتس كثيرة </string>
-
-    <string name="pref_title_desktop_indicator">عرض مؤشرات سطح المكتب</string>
-    <string name="pref_summary_desktop_indicator">رؤية اقتراحات اثناء النتقل في سطح المكتب </string>
-    <string name="pref_title_desktop_indicator_autohide">اخفاء المؤشرات بشكل تلقائي </string>
-    <string name="pref_summary_desktop_indicator_autohide">اخفاء المؤشرات بشكل تلقائي </string>
-    <string name="pref_title_desktop_indicator_type">نوع المؤشر</string>
-    <string name="pref_summary_desktop_indicator_type">اختر من بين مجموعة مختلفة من المؤشرات</string>
-
-        <!-- Category titles -->
-        <string name="pref_title_system_preferences">خصائص النظام</string>
-        <string name="pref_summary_system_preferences">الخصائص العامة لنظام الواجهة</string>
-        <string name="pref_title_screens_preferencecategory">صفحات سطح المكتب </string>
-        <string name="pref_title_screens_layout_preferencecategory">تخطيط سطح المكتب</string>
-        <string name="pref_title_screens_behaviour_preferencecategory">نشاط سطح المكتب</string>
-        <string name="pref_title_drawer_preferencecategory">درج البرامج</string>
-        <string name="pref_title_drawer_visuals_preferencecategory">مظهر درج البرامج</string>
-        <string name="pref_title_highlights_preferencecategory">إظهار الأيقونات</string>
-        <string name="pref_title_indicators_preferencecategory">مظهر المؤشر</string>
-
-    <string name="pref_title_system_persistent">استمرار النظام</string>
-    <string name="pref_summary_system_persistent">جعل النظام يعارض اوامر برنامج الواجهة </string>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="application_name" msgid="5865630159700533006">"ADW.Launcher"</string>
+  <string name="uid_name" msgid="3371120195364560632">"Android Core Apps"</string>
+  <string name="folder_name" msgid="4588446541914685904">"مجلد"</string>
+  <string name="chooser_wallpaper" msgid="5988031014201479733">"الخلفيات"</string>
+  <string name="wallpaper_instructions" msgid="4215640646180727542">"اختر الخلفية"</string>
+  <string name="pick_wallpaper" msgid="2674908923379130941">"معرض الصور"</string>
+  <string name="activity_not_found" msgid="3571057450431950427">"البرنامج غير مثبت على جهازك"</string>
+  <string name="configure_wallpaper" msgid="2820186271419674623">"يتم الضبط"</string>
+  <string name="rename_folder_label" msgid="5646236631298452787">"اسم المجلد"</string>
+  <string name="rename_folder_title" msgid="4544573104191526550">"إعادة تسمية المجلد"</string>
+  <string name="rename_action" msgid="6016003384693240896">"موافق"</string>
+  <string name="cancel_action" msgid="3811860427489435048">"إلغاء"</string>
+  <string name="menu_item_add_item" msgid="6233177331075781114">"اضف إلى الصفحة"</string>
+  <string name="group_applications" msgid="4118484163419674240">"البرامج"</string>
+  <string name="group_shortcuts" msgid="9133529424900391877">"روابط"</string>
+  <string name="group_search" msgid="5905328940867162196">"بحث"</string>
+  <string name="group_folder" msgid="5143593791798929193">"مجلد جديد"</string>
+  <string name="group_live_folders" msgid="2664945399140647217">"مجلدات "</string>
+  <string name="group_widgets" msgid="6704978494073105844">"عناصر واجهة"</string>
+  <string name="group_wallpapers" msgid="1568191644272224858">"خلفيات"</string>
+  <string name="add_folder" msgid="3521088587367839879">"مجلد "</string>
+  <string name="add_clock" msgid="2337943840175865746">"ساعة"</string>
+  <string name="add_photo_frame" msgid="3154058437359487954">"صورة بداخل إطار"</string>
+  <string name="add_search" msgid="7104834713685095105">"بحث "</string>
+  <string name="out_of_space" msgid="8365249326091984698">"لا توجد مساحة خالية في الصفحة"</string>
+  <string name="shortcut_installed" msgid="7071557296331322355">"رابط \"<xliff:g id="NAME">%s</xliff:g>\" تم الإنشاء."</string>
+  <string name="shortcut_uninstalled" msgid="2129499669449749995">"يتم الربط \"<xliff:g id="NAME">%s</xliff:g>\" تم الحذف"</string>
+  <string name="shortcut_duplicate" msgid="4757756326465060694">"رابط \"<xliff:g id="NAME">%s</xliff:g>\" جاهز."</string>
+  <string name="title_select_shortcut" msgid="2858897527672831763">"اختر اختصار"</string>
+  <string name="title_select_live_folder" msgid="3753447798805166749">"اختر مجلد"</string>
+  <string name="menu_add" msgid="3065046628354640854">"أضف"</string>
+  <string name="menu_wallpaper" msgid="5837429080911269832">"الخلفية"</string>
+  <string name="menu_search" msgid="4826514464423239041">"بحث"</string>
+  <string name="menu_notifications" msgid="6424587053194766192">"التنبيهات"</string>
+  <string name="menu_gestures" msgid="514678675575912237">"الإيحائات"</string>
+  <string name="menu_settings" msgid="6233960148378443661">"الخصائص"</string>
+  <string name="permlab_install_shortcut" msgid="1201690825493376489">"أضف اختصار"</string>
+  <string name="permdesc_install_shortcut" msgid="7429365847558984148">"السماح للبرنامج بوضع اختصار "</string>
+  <string name="permlab_uninstall_shortcut" msgid="7696645932555926449">"مسح الإختصار"</string>
+  <string name="permdesc_uninstall_shortcut" msgid="959972195916090900">"السماح للبرنامج بحذف الإختصار"</string>
+  <string name="permlab_read_settings" msgid="3452408290738106747">"أقرأ الخصائص والإختصارات في الواجهة الرئيسية  "</string>
+  <string name="permdesc_read_settings" msgid="8377434937176025492">"السماح بتغييرات اجبارية في الواجهة الرئيسية "</string>
+  <string name="permlab_write_settings" msgid="1360567537236705628">"تخصيص ووضع اختصار في الواجهة الرئيسية "</string>
+  <string name="permdesc_write_settings" msgid="1098648778383349818">"السماح لبرنامج بتغيير الإختصارات في الواجهة الرئيسية "</string>
+  <string name="search_hint" msgid="6974176141372467453">"بحث جوجل "</string>
+  <string name="gadget_error_text" msgid="8359351016167075858">"الإختصار تحميل الأختصار"</string>
+  <!-- ADW Settings -->
+  <string name="pref_label_settings">خصائص</string>
+  <!-- Screen preferences -->
+  <string name="pref_title_screen_preferences">صورة من الخصائص</string>
+  <string name="pref_summary_screen_preferences">عدد الصفحات والصفحة الرئيسية</string>
+  <string name="pref_title_wallpaper_hack">اختراق الخلفية</string>
+  <string name="pref_summary_wallpaper_hack">إلغي عملها إذا كنت تستخدم خلفية ثقيلة , او اتركها لإنتقال افضل بين الصفحات</string>
+  <string name="pref_title_orientation_sensor">حساس الإتجاهات</string>
+  <string name="pref_summary_orientation_sensor">تغيير اتجاه العرض مع تغيير اتجاه الجهاز</string>
+  <string name="pref_title_hide_statusbar">أخفاء الشريط العلوي</string>
+  <string name="pref_summary_hide_statusbar">هذا الخيار يخفي المعلومات العلوي</string>
+  <string name="pref_title_desktop_screens">صفحات القائمة</string>
+  <string name="pref_summary_desktop_screens">هذا الخيار لتحديد عدد صفحات القائمة الرئيسية</string>
+  <string name="pref_dialog_desktop_screen">اختر عدد الصفحات المطلوبة</string>
+  <string name="pref_title_default_screen">الصفحة الرئيسية</string>
+  <string name="pref_summary_default_screen"> هنا اختيار الصفحة الرئيسية من بين الصفحات</string>
+  <string name="pref_dialog_default_screen">اختر الصفحة الرئيسية</string>
+  <string name="pref_title_desktop_scrolling_speed">سرعة الإنتقال في الواجهة الرئيسية</string>
+  <string name="pref_summary_desktop_scrolling_speed">هنا تستطيع اختيار سرعة الإنتقال في الواجهة الرئيسية </string>
+  <string name="pref_dialog_desktop_scrolling_speed">اختر سرعة الإنتقال في الواجهة الرئيسية</string>
+  <string name="pref_title_desktop_overshoot">نظرة خارجية من الواجهة الرئيسية</string>
+  <string name="pref_summary_desktop_overshoot">فعل ارتدادي عند التغيير من صفحة إلى صفحة </string>
+  <string name="pref_dialog_desktop_overshoot">اختر صفر للإلغاء</string>
+  <!-- Drawer Settings -->
+  <string name="pref_title_drawer_settings">خصائص درج القائمة</string>
+  <string name="pref_summary_drawer_settings">خصائص عرض البرنامج</string>
+  <string name="pref_title_zoom_effect_speed">السرعة وخاصية التقريب</string>
+  <string name="pref_summary_zoom_effect_speed">هنا تستطيع اختيار الوقت الذي سيتم تفعيل خاصية التقريب فيه </string>
+  <string name="pref_dialog_zoom_effect_speed">اختر الوقت بوحدة الملي ثانية لتفعيل خاصية التقريب</string>
+  <string name="pref_title_page_horizontal_margin">التداخل في العرض الأفقي</string>
+  <string name="pref_summary_page_horizontal_margin">هذا الخيار يحدد التداخل عند اختيار العرض الأفقي</string>
+  <string name="pref_dialog_page_horizontal_margin">حدد التداخل </string>
+  <string name="pref_title_new_drawer">درج البرامج الأفقي</string>
+  <string name="pref_summary_new_drawer">استخدم الخاصية المشابهة لخاصية الجهاز جلاكسي اس</string>
+  <string name="pref_title_animated_drawer">حركة درج البرامج</string>
+  <string name="pref_summary_animated_drawer">فعل خاصية تحريك درج البرامج</string>
+  <string name="pref_title_drawer_columns_portrait">درج البرامج بشكل عمودي</string>
+  <string name="pref_summary_drawer_columns_portrait">اختر رقم الأعمدة التي تريد استخدامها في الوضع العمودي</string>
+  <string name="pref_dialog_drawer_columns_portrait">اختر رقم الأعمدة التي تريد استخدامها في الوضع العمودي</string>
+  <string name="pref_title_drawer_rows_portrait">خطوط درج البرامج في الوضع العمودي</string>
+  <string name="pref_summary_drawer_rows_portrait">اختر عدد الصفوف في الوضع العمودي</string>
+  <string name="pref_dialog_drawer_rows_portrait">اختر عدد الصفوف في الوضع العمودي</string>
+  <string name="pref_title_drawer_columns_landscape">اعمدة درج البرامج في الوضع الأفقي</string>
+  <string name="pref_summary_drawer_columns_landscape">اختر عدد الأعمدة في الوضع الأفقي</string>
+  <string name="pref_dialog_drawer_columns_landscape">اختر عدد الأعمدة في الوضع الأفقي</string>
+  <string name="pref_title_drawer_rows_landscape">خطوط درج البرامج في الوضع الأفقي</string>
+  <string name="pref_summary_drawer_rows_landscape">اختر عدد الصفوف المستخدمة في درج البرامج في الوضع الأفقي</string>
+  <string name="pref_dialog_drawer_rows_landscape">اختر عدد الصفوف المستخدمة في درج البرامج في الوضع الأفقي</string>
+  <!-- Previews preferences -->
+  <string name="pref_title_previews_preferences">معاينة الخصائص </string>
+  <string name="pref_summary_previews_preferences">معاينة خصائص الواجهة </string>
+  <string name="pref_title_sense_previews">معاينة الواجهة المشابهة للسينس</string>
+  <string name="pref_summary_sense_previews">استخدم الخصائص المشابهة لواجهة السينس</string>
+  <string name="pref_title_clean_screen_mode">وضع الواجهة الخالية </string>
+  <string name="pref_summary_clean_screen_mode">اخفاء الإختصارات عند المعاينة</string>
+  <!-- Button preferences -->
+  <string name="pref_title_ui_settings">خصائص الواجهة</string>
+  <string name="pref_summary_ui_settings">تفعيل او تعطيل بعض خصائص الواجهة</string>
+  <string name="pref_title_home_button_binding">زر الرجوع للصفحة الرئيسية (هوم)</string>
+  <string name="pref_summary_home_button_binding">اختر وظيفة زر (هوم)</string>
+  <string name="pref_title_desktop_dots">نقاط الواجهة  الرئيسية</string>
+  <string name="pref_summary_desktop_dots">اخفي او اظهر النقاط </string>
+  <string name="pref_title_dockbar">الإطار السفلي</string>
+  <string name="pref_summary_dockbar">تفعيل او تعطيل الإطار السفلي </string>
+  <string name="pref_title_closing_dockbar">اغلاق الإطار السفلي</string>
+  <string name="pref_summary_closing_dockbar">اغلاق الإطار السفلي بشكل تلقائي بعد فتح اي برنامج</string>
+  <string name="pref_title_lab">اختصار الزر الأيسر</string>
+  <string name="pref_summary_lab">تفعيل وتعطيل اختصار الزر الأيسر</string>
+  <string name="pref_title_rab">زر الإختصار الأيمن</string>
+  <string name="pref_summary_rab">تفعيل وتعطيل زر الإختصار الأيمن</string>
+  <string name="pref_title_ab2">زر الإختصار الثانوي</string>
+  <string name="pref_summary_ab2">تفعيل او تعطيل زر الإختصار الثانوي </string>
+  <string name="pref_title_tint_ab">تدرج ازرار التفعيل</string>
+  <string name="pref_summary_tint_ab">تفعيل او تعطيل  خاصية تدرج ازرار التفعيل</string>
+  <string name="pref_title_ab_scale_factor">عامل قياس زر التفعيل</string>
+  <string name="pref_summary_ab_scale_factor">اختر عامل قياس زر التفعيل </string>
+  <string name="pref_dialog_ab_scale_factor">اختر عامل قياس زر التفعيل</string>
+  <string name="pref_title_hide_allapps_ab">اخفي الخلفية في جميع البرامج</string>
+  <string name="pref_summary_hide_allapps_ab">اخفاء الخلفية عند الضغط على زر تفعيل اظهار البرامج </string>
+  <string name="pref_title_hide_ab_bg">اخفاء الخلفية عند الضغط على زر تاتفعيل  </string>
+  <string name="pref_summary_hide_ab_bg">اخفي الأزرار عند الضغط على زر التفعيل </string>
+  <string name="pref_title_hide_icon_labels">اخفي اسماء الأيقونات</string>
+  <string name="pref_summary_hide_icon_labels">اخفاء اسماء الأيقونات في الواجهة الرئيسية </string>
+  <string name="pref_title_build_info">انشئ المعلومات</string>
+  <string name="pref_title_adw_version">نسخة البرنامج</string>
+  <string name="pref_title_icon_highlights">إبراز الأيقونات</string>
+  <string name="pref_summary_icon_highlights">اختر لون الخلفية عند اختيار الأيقونات</string>
+  <string name="pref_title_icon_highlights_focus">الألوان</string>
+  <string name="pref_summary_icon_highlights_focus">اختر اللون للأيقونة المختارة</string>
+  <string name="pref_title_new_selectors">استخدم ايقونات جديدة </string>
+  <string name="pref_summary_new_selectors">تعطيل استخدام الإختيارات القديمة</string>
+  <string name="pref_title_drawer_color">لون خلفية درج البرامج</string>
+  <string name="pref_summary_drawer_color">اختر لون خلفية درج البرامج </string>
+  <string name="pref_dialog_title_color_picker">اختر لون</string>
+  <string name="pref_dialog_message_color_picker">اضغط على اللون الذي في المنتصف للتأكيد او اضغط سهم الرجوع للتراجع عن الخيار </string>
+  <string name="pref_dialog_color_picker_alpha">الفا</string>
+  <string name="pref_message_restart_normal">تغيير هذا الخيار سينتج عنه إعادة تشغيل الواجهة </string>
+  <string name="pref_message_restart_froyo">تغيير هذا الخيار سينتج عنه إعادة تشغيل الواجهة </string>
+  <string name="drop_to_uninstall">حذف </string>
+  <string name="pref_title_import_export">عمل نسخة احتياطية واستعادة النسخ الإحتياطية</string>
+  <string name="pref_title_xml">ADW خصائص</string>
+  <string name="pref_title_xml_import">استعادة الخصائص</string>
+  <string name="pref_summary_xml_import">استعادة النسخة الإحتياطية من /sdcard/adw_settings.xml</string>
+  <string name="pref_title_xml_export">اعمل نسخة احتياطية من خصائص البرنامج</string>
+  <string name="pref_summary_xml_export">اعمل نسخة احتياطية في  /sdcard/adw_settings.xml</string>
+  <string name="pref_title_db">ضبط الواجهة</string>
+  <string name="pref_title_db_import">استعادة الواجهة</string>
+  <string name="pref_summary_db_import">استعادة من/sdcard/adw_launcher.db</string>
+  <string name="pref_title_db_export">اعمل نسخة احتياطية من خصائص الواجهة </string>
+  <string name="pref_summary_db_export">اعمل نسخة احتياطية في /sdcard/adw_launcher.db</string>
+  <string name="title_dialog_xml">ADW خصائص برنامج </string>
+  <string name="import_export_sdcard_unmounted">كرت الذاكرة غير مثبت</string>
+  <!-- XML Import/Export strings -->
+  <string name="message_dialog_export">اعمل نسخة احتياطية من الخصائص ,اي نسخة احتياطية قديمة سيتم مسحها</string>
+  <string name="xml_export_dialog">يتم عمل النسخة الإحتياطية ...</string>
+  <string name="xml_export_success">انتهت عملية النسخ الإحتياطي بنجاح</string>
+  <string name="xml_export_error">حدث خطأ اثناء عمل النسخة الإحتياطية</string>
+  <string name="message_dialog_import">هل تريد استعادة نسخة احتياطية ؟ سيتم إعادة تشغيل الواجهة </string>
+  <string name="xml_import_dialog">يتم استعادة الخصائص ...</string>
+  <string name="xml_file_not_found">لا يوجد ملف نسخة احتياطية</string>
+  <string name="xml_not_readable">غير قادر على قراءة الملف</string>
+  <string name="xml_import_success">تم استعادة واجهة المستخدم بنجاح </string>
+  <string name="xml_import_error">حدث خطأ عند محاولة استعادة النسخة الإحتياطية</string>
+  <!-- Config Import/Export strings -->
+  <string name="message_dialog_export_config">عمل نسخة احتياطية من الخصائص</string>
+  <string name="dbfile_export_dialog">يتم عمل نسخة احتياطية من واجهة المستخدم ... </string>
+  <string name="dbfile_export_success">تم عمل النسخة الإحتياطية بنجاح </string>
+  <string name="dbfile_export_error">حدث خطأ اثناء عملية النسخ</string>
+  <string name="message_dialog_import_config">استعادة نسخة واجهة المستخدم القديمة ,  سيتم إعادة تشغيل الواجهة </string>
+  <string name="dbfile_import_dialog">يتم استعادة الواجهة القديمة</string>
+  <string name="dbfile_not_found">ملف النسخة الإحتية غير موجود</string>
+  <string name="dbfile_not_readable">غير قادر على قراءة الملف</string>
+  <string name="dbfile_import_success">انتهت عملية استعادة النسخة الإحتياطية بنجاح</string>
+  <string name="dbfile_import_error">حدث خطأ اثناء عملية الإستعادة</string>
+  <!--  Desktop columns/Rows -->
+  <string name="pref_title_desktop_columns">اعمدة سطح المكتب </string>
+  <string name="pref_summary_desktop_columns">اختر عدد الأعمدة المستخدمة في سطح المكتب</string>
+  <string name="pref_dialog_desktop_columns">اختر عدد الأعمدة المستخدمة في سطح المكتب</string>
+  <string name="pref_title_desktop_rows">صفوف سطح المكتب</string>
+  <string name="pref_summary_desktop_rows">اختر عدد الصفوف المستخدمة في سطح المكتب</string>
+  <string name="pref_dialog_desktop_rows">اختر عدد الصفوف المستخدمة في سطح المكتب</string>
+  <string name="pref_title_autosize_icons">تغيير احجام الأيقونات بشكل تلقائي</string>
+  <string name="pref_summary_autosize_icons">تعديل احجام الأيقونات بشكل تلقائي </string>
+  <string name="pref_title_scrollable_widgets">الإنتقال في الإختصارات (widget ) </string>
+  <string name="pref_summary_scrollable_widgets">تعطيل خاصية الإنتقال في الإختصارات (widget )</string>
+  <string name="pref_title_drawer_labels">رؤية الأسماء في درج البرامج</string>
+  <string name="pref_summary_drawer_labels">رؤية الأسماء في درج البرامج</string>
+  <string name="pref_title_fade_drawer_labels">خاصية تخافي اسماء البرامج في درج البرامج</string>
+  <string name="pref_summary_fade_drawer_labels">خاصية تخافي الأسماء  , هذه الخاصية تستخدم مساحة اكبر في الرام</string>
+  <string name="widget_config_dialog_title">ضبط عرض الإختصارات</string>
+  <string name="widget_config_dialog_summary">كم عدد الصفوف والأعمدة المراد استخدامها في الإختصارات (widgets)</string>
+  <string name="widget_columns">اعمدة</string>
+  <string name="widget_rows">صفوف</string>
+  <string name="pref_title_screen_cache">استخدم صفحات محفوظة</string>
+  <string name="pref_summary_screen_cache">هذه الخاصية تجعل الإنتقال بين االلصفحات اسهل , ولكن يفضل تعطيلها عند استخدام اختصارات ويدجيتس كثيرة </string>
+  <string name="pref_title_desktop_indicator">عرض مؤشرات سطح المكتب</string>
+  <string name="pref_summary_desktop_indicator">رؤية اقتراحات اثناء النتقل في سطح المكتب </string>
+  <string name="pref_title_desktop_indicator_autohide">اخفاء المؤشرات بشكل تلقائي </string>
+  <string name="pref_summary_desktop_indicator_autohide">اخفاء المؤشرات بشكل تلقائي </string>
+  <string name="pref_title_desktop_indicator_type">نوع المؤشر</string>
+  <string name="pref_summary_desktop_indicator_type">اختر من بين مجموعة مختلفة من المؤشرات</string>
+  <!-- Category titles -->
+  <string name="pref_title_system_preferences">خصائص النظام</string>
+  <string name="pref_summary_system_preferences">الخصائص العامة لنظام الواجهة</string>
+  <string name="pref_title_screens_preferencecategory">صفحات سطح المكتب </string>
+  <string name="pref_title_screens_layout_preferencecategory">تخطيط سطح المكتب</string>
+  <string name="pref_title_screens_behaviour_preferencecategory">نشاط سطح المكتب</string>
+  <string name="pref_title_drawer_preferencecategory">درج البرامج</string>
+  <string name="pref_title_drawer_visuals_preferencecategory">مظهر درج البرامج</string>
+  <string name="pref_title_highlights_preferencecategory">إظهار الأيقونات</string>
+  <string name="pref_title_indicators_preferencecategory">مظهر المؤشر</string>
+  <string name="pref_title_system_persistent">استمرار النظام</string>
+  <string name="pref_summary_system_persistent">جعل النظام يعارض اوامر برنامج الواجهة </string>
 </resources>
