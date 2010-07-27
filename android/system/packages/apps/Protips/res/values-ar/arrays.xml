@@ -23,15 +23,18 @@
     <!-- Tip: blamewes -->
     <item>#blamewes\n
         Avoid wesgarner at all costs. @drawable/wesgarner</item>
-    <item msgid="8903218961940756528">"Riorganizza la schermata Home."\n" Tieni premuto un elemento e quando vibra trascinalo dove vuoi."</item>
+    <item msgid="8903218961940756528">"Rearrange your Home screen.\n
+        Touch &amp; hold an item and when it vibrates, drag it where you want."</item>
     <!-- Tip: Teach them how to become better programmers -->
     <item>Ballmer Peak\n
         Optimal coding ability takes place between a BAC of .129 and .138.</item>
-    <item msgid="3123213860439458492">"Rimuovi gli elementi."\n" Tieni premuto un elemento e quando vibra trascinalo sull\'icona Cestino. @drawable/trash"</item>
+    <item msgid="3123213860439458492">"Remove items.\n
+        Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash"</item>
     <!-- Tip: Explain what is wrong with the iPhone. -->
     <item>آيفون\n
-        حملك له خطأ. هذا هو الواقع</item>
-    <item msgid="1000948398885889319">"Schermate Home multiple."\n" Scorri a sinistra o a destra per passare da una all\'altra. Trascina elementi in altre schermate."</item>
+        حملك له خاطئ. هذا هو الواقع</item>
+    <item msgid="1000948398885889319">Multiple Home screens.\n
+        Swipe left or right to switch. Drag items to other screens.</item>
     <!-- Tip: Winzip must be kept up to date. -->
     <item>Number 1 Priority\n
         Don\'t forget to keep your winzip up to date.</item>

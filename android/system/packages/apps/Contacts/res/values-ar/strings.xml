@@ -47,7 +47,7 @@
   <string name="menu_splitAggregate" msgid="8368636463748691868">"فصل"</string>
   <string name="contactsSplitMessage" msgid="5253490235863170269">"فصل جهات الاتصال"</string>
   <string name="splitConfirmation_title" msgid="6716467920283502570">"تاكيد الفصل"</string>
-  <string name="splitConfirmation" msgid="1150797297503944823">"هل حقا ستفصل جهات الاتصال في كثير من الحالات عن كل مجموعة من المعلومات أو المرتبطة بهذا الاتصال واحد :؟"</string>
+  <string name="splitConfirmation" msgid="1150797297503944823">"هل حقا ستفصل جهات الاتصال في كثير من الحالات عن كل مجموعة من المعلومات أو المرتبطة بهذا الاتصال واحد؟"</string>
   <string name="menu_joinAggregate" msgid="5027981918265667970">"الانضمام الكلي"</string>
   <string name="titleJoinContactDataWith" msgid="7684875775798635354">"الانضمام لجهة الاتصالات"</string>
   <string name="blurbJoinContactDataWith" msgid="995870557595050304">"حدد جهة الاتصال التي تريد اقترانه <xliff:g id="NAME">%s</xliff:g>."</string>
@@ -68,7 +68,7 @@
   <string name="editContact_title_insert" msgid="9125600232291405757">"جهة اتصال جديدة"</string>
   <string name="label_phonetic_name" msgid="2288082649573927286">"نطق صوتي"</string>
   <string name="label_notes" msgid="8337354953278341042">"ملاحظات"</string>
-  <string name="label_ringtone" msgid="8833166825330686244">"رنة"</string>
+  <string name="label_ringtone" msgid="8833166825330686244">"نغمة"</string>
   <string name="ghostData_name" msgid="6490954238641157585">"الاسم الكامل"</string>
   <string name="ghostData_phonetic_name" msgid="7852749081984070902">"اسم لفظي"</string>
   <string name="ghostData_company" msgid="5414421120553765775">"المؤسسة"</string>
@@ -139,13 +139,11 @@
   <string name="recentCalls_callNumber" msgid="1756372533999226126">"إتصل<xliff:g id="NAME">%s</xliff:g>"</string>
   <string name="recentCalls_editNumberBeforeCall" msgid="7756171675833267857">"تغير الرقم قبل أن يتم الاتصال"</string>
   <string name="recentCalls_addToContact" msgid="1429899535546487008">"إضافة إلى جهات الاتصال"</string>
-  <string name="recentCalls_removeFromRecentList" msgid="401662244636511330">"إزالة من سجل
- d\
-المكالمات"</string>
+  <string name="recentCalls_removeFromRecentList" msgid="401662244636511330">"إزالة من سجل المكالمات"</string>
   <string name="recentCalls_deleteAll" msgid="6352364392762163704">"محو جميع سجل المكالمات"</string>
   <string name="recentCalls_empty" msgid="247053222448663107">"لا يوجد سجل للمكالمات"</string>
-  <string name="clearCallLogConfirmation_title" msgid="718072843006222703">"مسح سجل d\المكالمة"</string>
-  <string name="clearCallLogConfirmation" msgid="7625927669136267636">"هل حقا تريد حذف سجل هذي d\المكالمة؟ "</string>
+  <string name="clearCallLogConfirmation_title" msgid="718072843006222703">"مسح سجل المكالمة"</string>
+  <string name="clearCallLogConfirmation" msgid="7625927669136267636">"هل حقا تريد حذف سجل هذي المكالمة؟ "</string>
   <string name="imei" msgid="3045126336951684285">"رمز IMEI"</string>
   <string name="meid" msgid="6210568493746275750">"MEID"</string>
   <string name="voicemail" msgid="3851469869202611441">"البريد الصوتي"</string>
@@ -156,30 +154,30 @@
   <string name="dialerDialpadHintText" msgid="5824490365898349041">"إنشاء"</string>
   <string name="simContacts_emptyLoading" msgid="6700035985448642408">"تحميل من شريحة الهاتف"</string>
   <string name="simContacts_title" msgid="27341688347689769">"جهات اتصال على شريحة الهاتف"</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut" msgid="801504710275614594">"ليس لديكn\ جهات اتصال لعرضها، لو كان لديكd\ اضف جهة الاتصال المزامنة قد تستغرق بضع دقائق"</string>
-  <string name="noContactsHelpTextForCreateShortcut" msgid="3081286388667108335">"ليس لديك n\ جهة اتصال كي تعرض"</string>
-  <string name="noContactsHelpText" msgid="6788487368878712350">"ليس لديك n\ جهة اتصال للعرض"\n\n" لإضافة جهة اتصال اضغط على "<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم اختار :"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>"لإضافة أو تكوين حساب يمكنك مزامنة جهات الاتصال على الهاتف ،"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء جهة الاتصال ؛"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد / تصدير"</b></font>\n</li></string>
-  <string name="noContactsHelpTextWithSync" msgid="3734101165712848179">"ليس لديك n\ جهات اتصال كي تعرض لوكنت d\ اضفت جهة اتصال, المزامنة قد تستغرق عدة دقائق" \ N \ n "كي تضيف جهة اتصال اضغط"<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم حدد :"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>" لإضافة أو تكوين حساب مع اتصالات يمكنك مزامنة الهاتف ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"خيارات d\'عرض"</b></font>" لتغيير إعداد رؤية جهات الاتصالات ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء مقدمة ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد / تصدير"</b></font>\n</li></string>
-  <string name="noContactsNoSimHelpText" msgid="6553845386917463292">\n\n"لإضافةn\ جهة اتصال اضغط " "ليس لديك جهة اتصال كعرض"<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم حدد :"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>" لإضافة وتكوين حساب يمكنك مزامنة جهات الاتصال على الهاتف ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء جهة اتصال ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد / تصدير"</b></font>\n</li></string>
-  <string name="noContactsNoSimHelpTextWithSync" msgid="1122296298361373488">"ليس لديك n\ جهات اتصال لعرضها، لو كان لديك d\ اضف جهة الاتصال المزامنة قد تستغرق بضع دقائق "\n\n"لإيضافة جهة اتصال اضغط هلى"<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم حدد:"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>" لإضافة أو تكوين حساب يمكنك مزامنة جهات الاتصال على الهاتف ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"خيارات d\'عرض"</b></font>" لتغيير إعداد رؤية جهات الاتصالات ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء جهة اتصال ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد / تصدير"</b></font>\n</li></string>
-  <string name="noFavoritesHelpText" msgid="3744655776704833277">"ليس لديك المفضلة"\n\n"لإضافة جهة اتصال d\ إلى قائمة المفضلة :"\n\n"        "<li>"اضغط على \التبويب "<b>"جهات الاتصال"</b>"."\n</li>" "\n<li>"اضغط على جهة الاتصال لإضافتها إلى المفضلة لديك"\n</li>" "\n<li>"اضغط على \النجمة بجوار اسم جهة الاتصال"\n</li></string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut" msgid="801504710275614594">"ليس لديك جهات اتصال لعرضها، إذا كنت للتو اضفت الحساب فقد يستغرق هذا وقت طويل للمزمانة"</string>
+  <string name="noContactsHelpTextForCreateShortcut" msgid="3081286388667108335">"ليس لديك  جهة اتصال كي تعرض"</string>
+  <string name="noContactsHelpText" msgid="6788487368878712350">"ليس لديك  جهة اتصال للعرض"\n\n" لإضافة جهة اتصال اضغط على "<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم اختار :"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>"لإضافة أو تكوين حساب يمكنك مزامنة جهات الاتصال على الهاتف ،"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء جهة الاتصال ؛"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد و تصدير"</b></font>\n</li></string>
+  <string name="noContactsHelpTextWithSync" msgid="3734101165712848179">"لايوجد لديك جهات إتصال. إذا كنت للتو اضفت الحساب فقد يستغرق هذا وقت طويل للمزمانة."\n\n"لإضافة جهة اتصال اضغط على  "<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم حدد :"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>" لإضافة أو تكوين حساب مع اتصالات يمكنك مزامنة الهاتف ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"خيارات عرض"</b></font>" لتغيير إعداد رؤية جهات الاتصالات ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء مقدمة ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد و تصدير"</b></font>\n</li></string>
+  <string name="noContactsNoSimHelpText" msgid="6553845386917463292">"لايوجد لديك جهات إتصال."\n\n"لإضافة جهة إتصال أضغط على  "<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم حدد :"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>" لإضافة وتكوين حساب يمكنك مزامنة جهات الاتصال على الهاتف ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء جهة اتصال ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد و تصدير"</b></font>\n</li></string>
+  <string name="noContactsNoSimHelpTextWithSync" msgid="1122296298361373488">"ليس لديك  جهات اتصال لعرضها، لو كان لديك  اضف جهة الاتصال المزامنة قد تستغرق بضع دقائق "\n\n"لإضافة جهة اتصال اضغط هلى"<font fgcolor="#ffffffff"><b>"قائمة"</b></font>" ثم حدد:"\n" "\n<li><font fgcolor="#ffffffff"><b>"الحسابات"</b></font>" لإضافة أو تكوين حساب يمكنك مزامنة جهات الاتصال على الهاتف ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"خيارات عرض"</b></font>" لتغيير إعداد رؤية جهات الاتصالات ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة"</b></font>" لإنشاء جهة اتصال ;"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"استيراد / تصدير"</b></font>\n</li></string>
+  <string name="noFavoritesHelpText" msgid="3744655776704833277">"ليس لديك المفضلة"\n\n"لإضافة جهة اتصال  إلى قائمة المفضلة :"\n\n"        "<li>"اضغط على \التبويب "<b>"جهات الاتصال"</b>"."\n</li>" "\n<li>"اضغط على جهة الاتصال لإضافتها إلى المفضلة لديك"\n</li>" "\n<li>"اضغط على النجمة بجوار اسم جهة الاتصال"\n</li></string>
   <string name="liveFolder_all_label" msgid="5961411940473276616">"جميع جهات الاتصالات"</string>
   <string name="liveFolder_favorites_label" msgid="2674341514070517105">"يتبع"</string>
   <string name="liveFolder_phones_label" msgid="1709786878793436245">"الهاتف"</string>
   <string name="dialer_useDtmfDialpad" msgid="1707548397435075040">"استخدام لوحة المفاتيح DTMF"</string>
-  <string name="dialer_returnToInCallScreen" msgid="3719386377550913067">"استئناف \المكالمة الحالية"</string>
+  <string name="dialer_returnToInCallScreen" msgid="3719386377550913067">"استئناف المكالمة الحالية"</string>
   <string name="dialer_addAnotherCall" msgid="4205688819890074468">"مكالمة جديدة"</string>
-  <string name="callDetailTitle" msgid="5340227785196217938">"تفاصيل \ عن المكالمة"</string>
+  <string name="callDetailTitle" msgid="5340227785196217938">"تفاصيل  عن المكالمة"</string>
   <string name="toast_call_detail_error" msgid="7200975244804730096">"غير قادر على رؤية تفاصيل \ طلب المكالمة"</string>
   <string name="type_incoming" msgid="6502076603836088532">"مكالمة واردة"</string>
   <string name="type_outgoing" msgid="343108709599392641">"مكالمة صادرة"</string>
   <string name="type_missed" msgid="2720502601640509542">"مكالمة لم يرد عليها"</string>
   <string name="actionIncomingCall" msgid="6028930669817038600">"مكالمات واردة"</string>
   <string name="callBack" msgid="5498224409038809224">"إعادة المكالمة"</string>
-  <string name="callAgain" msgid="3197312117049874778">"تجديد \ المكالمة"</string>
+  <string name="callAgain" msgid="3197312117049874778">"تجديد المكالمة"</string>
   <string name="returnCall" msgid="8171961914203617813">"إعادة المكالمة"</string>
   <string name="callDetailsDurationFormat" msgid="8157706382818184268">"<xliff:g id="MINUTES">%1$s</xliff:g> mn <xliff:g id="SECONDS">%2$s</xliff:g> s"</string>
-  <string name="favoritesFrquentSeparator" msgid="8107518433381283736">"اتصلت بشكل متكرر"</string>
+  <string name="favoritesFrquentSeparator" msgid="8107518433381283736">"اتصال بشكل متكرر"</string>
   <string name="add_contact_dlg_title" msgid="2896685845822146494">"إضافة جهة اتصال"</string>
   <string name="add_contact_dlg_message_fmt" msgid="7986472669444326576">"أضف\"<xliff:g id="EMAIL">%s</xliff:g>\" جهات الاتصال؟"</string>
   <string name="all_tab_label" msgid="4003124364397916826">"الكل"</string>
@@ -203,7 +201,7 @@
   <string name="description_minus_button" msgid="387136707700230172">"ناقص"</string>
   <string name="description_plus_button" msgid="515164827856229880">"زائد"</string>
   <string name="no_sdcard_title" msgid="5911758680339949273">"لم يتم العثور على بطاقة الذاكرة الخارجية"</string>
-  <string name="no_sdcard_message" msgid="6019391476490445358">"لم يتم الكشف n\ عن بطاقة الذاكرة الخارجية"</string>
+  <string name="no_sdcard_message" msgid="6019391476490445358">"لم يتم الكشف  عن بطاقة الذاكرة الخارجية"</string>
   <string name="searching_vcard_title" msgid="4970508055399376813">"بيانات بحوث بصيغة بطاقة"</string>
   <string name="import_from_sim" msgid="3859272228033941659">"إستيراد من شريحة الهاتف"</string>
   <string name="import_from_sdcard" msgid="8550360976693202816">"إستيراد من بطاقة الذاكرة الخارجية"</string>
@@ -213,13 +211,13 @@
   <string name="import_multiple_vcard_string" msgid="3810226492811062392">"استيراد ملفات بصيغة بطاقة متعددة vCard"</string>
   <string name="import_all_vcard_string" msgid="5518136113853448474">"استيراد جميع الملفات بصيغة بطاقة vCard "</string>
   <string name="searching_vcard_message" msgid="6917522333561434546">"البحث عن البيانات بصيغة بطاقة على بطاقة الذاكرة الخارجية VCard "</string>
-  <string name="scanning_sdcard_failed_title" msgid="3506782007953167180">"فشل في \ تحليل بطاقة الذاكرة الخارجية"</string>
-  <string name="scanning_sdcard_failed_message" msgid="3761992500690182922">"السبب: \ في فشل \ تحليل بطاقة الذاكرة الخارجية"<xliff:g id="FAIL_REASON">%s</xliff:g>\")"</string>
-  <string name="fail_reason_io_error" msgid="5922864781066136340">"خطأ d\'E/S"</string>
-  <string name="fail_reason_vcard_parse_error" msgid="1201233722762680214">"فشل في \ تحليل لسبب غير متوقع في بطاقة vCard "</string>
-  <string name="fail_reason_vcard_not_supported_error" msgid="655208100451286027">'فشل \ بصيغة بطاقة التحليل. الشكل يبدو صحيحا ، ولكن \ التنفيذ الحالي لا يعتمد".</string>
-  <string name="fail_reason_no_vcard_file" msgid="6376516175882881595">"  لا يوجد ملف على هذه البطاقد n\ الملف موجود في الذاكرة الخارجية "</string>
-  <string name="fail_reason_failed_to_read_files" msgid="3659521123567134029">"فشل في \استيراد d\ الملف او الملفات (%s)"</string>
+  <string name="scanning_sdcard_failed_title" msgid="3506782007953167180">"فشل في  تحليل بطاقة الذاكرة الخارجية"</string>
+  <string name="scanning_sdcard_failed_message" msgid="3761992500690182922">"فشل تحليل بطاقة الذاكرة الخارجية. السبب:"<xliff:g id="FAIL_REASON">%s</xliff:g>\")"</string>
+  <string name="fail_reason_io_error" msgid="5922864781066136340">"خطأ في I/O "</string>
+  <string name="fail_reason_vcard_parse_error" msgid="1201233722762680214">"فشل في vCard تحليل لسبب غير متوقع  "</string>
+  <string name="fail_reason_vcard_not_supported_error" msgid="655208100451286027">"Failed to parse vCard though it seems in valid format, since the current implementation does not support it"</string>
+  <string name="fail_reason_no_vcard_file" msgid="6376516175882881595">"  لايوجد ملف بطاقة في الذكر الخاريجة"</string>
+  <string name="fail_reason_failed_to_read_files" msgid="3659521123567134029">"One or more files failed to be imported (%s)."</string>
   <string name="fail_reason_unknown" msgid="999034019513096768">"خطأ غير معروف"</string>
   <string name="select_vcard_title" msgid="3968948173786172468">"حدد ملف بصيغة بطاقة vCard"</string>
   <string name="progress_shower_message" msgid="5636525578293752526">"<xliff:g id="ACTION">%1$s</xliff:g>"\n"<xliff:g id="FILENAME">%2$s</xliff:g>"</string>
@@ -228,21 +226,21 @@
   <string name="reading_vcard_failed_title" msgid="4923008144735294994">"فشل في قراءة البيانات بصيغة بطاقة vCard"</string>
   <string name="reading_vcard_contacts" msgid="3066834102042012868">"<xliff:g id="CURRENT_NUMBER">%1$s</xliff:g>في<xliff:g id="TOTAL_NUMBER">%2$s</xliff:g>جهات الاتصال"</string>
   <string name="reading_vcard_files" msgid="34180143726972661">"<xliff:g id="CURRENT_NUMBER">%1$s</xliff:g>في<xliff:g id="TOTAL_NUMBER">%2$s</xliff:g>ملفات "</string>
-  <string name="confirm_export_title" msgid="7648747763127442983">"تاكيد \ التصدير"</string>
-  <string name="confirm_export_message" msgid="3875683519257829750">"هل حقا تريد تصدير قائمة جهات الاتصال الى \"<xliff:g id="VCARD_FILENAME">%s</xliff:g>\" ?"</string>
-  <string name="exporting_contact_failed_title" msgid="585823094820602526">"فشل في \ تصدير بيانات من جهات الاتصال"</string>
-  <string name="exporting_contact_failed_message" msgid="4151348002470298092">"فشل في l\'تصدير بينات جهات الاتصال"\n"السبب : \"<xliff:g id="FAIL_REASON">%s</xliff:g>\""</string>
+  <string name="confirm_export_title" msgid="7648747763127442983">"تاكيد التصدير"</string>
+  <string name="confirm_export_message" msgid="3875683519257829750">"هل حقا تريد تصدير قائمة جهات الاتصال الى"<xliff:g id="VCARD_FILENAME">%s</xliff:g>\" ?"</string>
+  <string name="exporting_contact_failed_title" msgid="585823094820602526">"فشل في  تصدير بيانات من جهات الاتصال"</string>
+  <string name="exporting_contact_failed_message" msgid="4151348002470298092">"فشل فيتصدير بينات جهات الاتصال"\n"السبب : \"<xliff:g id="FAIL_REASON">%s</xliff:g>\""</string>
   <string name="fail_reason_no_exportable_contact" msgid="4919714086648344495">"لا جهات اتصال للتصدير"</string>
   <string name="fail_reason_too_many_vcard" msgid="7084146295639672658">"بطاقة الذاكرة الخارجية  تحتوي على ملفات كثيرة جدا بصيغة بطاقة vCard".</string>
   <string name="fail_reason_too_long_filename" msgid="1915716071321839166">"اسم الملف المطلوب طويل جدا (\"<xliff:g id="FILENAME">%s</xliff:g>\")."</string>
   <string name="exporting_contact_list_title" msgid="9072240631534457415">"تصدير البيانات من جهات الاتصالات"</string>
   <string name="exporting_contact_list_message" msgid="5640326540405486055">"تصدير بيانات جهات الاتصال الى \"<xliff:g id="FILE_NAME">%s</xliff:g>\""</string>
-  <string name="fail_reason_could_not_initialize_exporter" msgid="4943708332700987376">"فشل \ التهيئة تصدير \ النمطية \"<xliff:g id="EXACT_REASON">%s</xliff:g>\""</string>
-  <string name="fail_reason_error_occurred_during_export" msgid="2151165129433831202">"وينتج خطأ أثناء \" التصدير \ "<xliff:g id="EXACT_REASON">%s</xliff:g>\""</string>
-  <string name="composer_failed_to_get_database_infomation" msgid="3723109558155169053">"هل يمكن ان \' الحصول على معلومات عن قاعدة بيانات "</string>
-  <string name="composer_has_no_exportable_contact" msgid="754734132189369094">"لا يوجد جهات اتصال n\ فابلة للتصدير. إذا كان الهاتف لديها حاليا جهات اتصالات ، والتي قد توفر \البيانات يمنع تصديرها من هاتفك ".</string>
-  <string name="composer_not_initialized" msgid="8041534450748388843">"صيغة بطاقة تكوين نظام ليست مهيئة n\ بشكل صحيح ".</string>
-  <string name="fail_reason_could_not_open_file" msgid="4013520943128739511">"لا يمكن فتح \ \"<xliff:g id="FILE_NAME">%1$s</xliff:g>\" : <xliff:g id="EXACT_REASON">%2$s</xliff:g>"</string>
+  <string name="fail_reason_could_not_initialize_exporter" msgid="4943708332700987376">"فشل التهيئة تصديرالنمطية "<xliff:g id="EXACT_REASON">%s</xliff:g>\""</string>
+  <string name="fail_reason_error_occurred_during_export" msgid="2151165129433831202">"نتج خطأ اثناء التصدير\"<xliff:g id="EXACT_REASON">%s</xliff:g>\""</string>
+  <string name="composer_failed_to_get_database_infomation" msgid="3723109558155169053">"فشل في الحصول على معلومات قاعدة البيانات "</string>
+  <string name="composer_has_no_exportable_contact" msgid="754734132189369094">"لا يوجد جهات اتصال  فابلة للتصدير. إذا كان الهاتف لديها حاليا جهات اتصالات ، والتي قد توفر البيانات يمنع تصديرها من هاتفك ".</string>
+  <string name="composer_not_initialized" msgid="8041534450748388843">"صيغة بطاقة تكوين نظام ليست مهيئة  بشكل صحيح ".</string>
+  <string name="fail_reason_could_not_open_file" msgid="4013520943128739511">"لا يمكن فتح\"<xliff:g id="FILE_NAME">%1$s</xliff:g>\" : <xliff:g id="EXACT_REASON">%2$s</xliff:g>"</string>
   <string name="exporting_contact_list_progress" msgid="560522409559101193">"<xliff:g id="CURRENT_NUMBER">%1$s</xliff:g>في<xliff:g id="TOTAL_NUMBER">%2$s</xliff:g>جهات الاتصال"</string>
   <string name="search_settings_description" msgid="2675223022992445813">"أسماء جهات الاتصال الخاصة بك"</string>
   <string name="add_2sec_pause" msgid="9214012315201040129">"إضافة إلى وقفة من 2 ق"</string>
@@ -254,8 +252,8 @@
   <string name="quickcontact_remember_choice" msgid="5964536411579749424">"تذكر هذا الاختيار"</string>
   <string name="quickcontact_missing_name" msgid="5590266114306996632">"غير معروف"</string>
   <string name="menu_accounts" msgid="8499114602017077970">"الحسابات"</string>
-  <string name="menu_import_export" msgid="3765725645491577190">"استيراد / تصدير"</string>
-  <string name="dialog_import_export" msgid="4771877268244096596">"استيراد / تصدير جهات الاتصال"</string>
+  <string name="menu_import_export" msgid="3765725645491577190">"استيراد و تصدير"</string>
+  <string name="dialog_import_export" msgid="4771877268244096596">"استيراد و تصدير جهات الاتصال"</string>
   <string name="menu_share" msgid="943789700636542260">"مشاركة"</string>
   <string name="share_via" msgid="563121028023030093">"مشاركة جهات الاتصال عن طريق"</string>
   <string name="share_error" msgid="4374508848981697170">"لا يمكن أن تكون جهةالاتصال مشتركة"</string>
@@ -278,7 +276,7 @@
   <string name="display_more_groups" msgid="2682547080423434170">"مجموعات أخرى"</string>
   <string name="display_ungrouped" msgid="4602580795576261158">"كل جهات الاتصالات الأخرى"</string>
   <string name="display_all_contacts" msgid="6846131371214707956">"كل جهات الاتصالات"</string>
-  <string name="display_warn_remove_ungrouped" msgid="2314043155909167610">"الانسحاب من المجموعة \"<xliff:g id="GROUP">%s</xliff:g>\ "تزامن أيضا حذف جميع مجمعة الاتصالات التزامن"</string>
+  <string name="display_warn_remove_ungrouped" msgid="2314043155909167610">"الانسحاب من المجموعة \"<xliff:g id="GROUP">%s</xliff:g>\"تزامن أيضا حذف جميع مجمعة الاتصالات التزامن"</string>
   <string name="account_phone" msgid="4025734638492419713">"هاتف فقط بدون التزامن"</string>
   <string name="call_custom" msgid="7756571794763171802">"إتصال <xliff:g id="CUSTOM">%s</xliff:g>"</string>
   <string name="call_home" msgid="1990519474420545392">"اتصال بالمنزل "</string>
@@ -330,7 +328,7 @@
   <string name="email" msgid="5668400997660065897">"إرسال رسالة عبر البريد الالكتروني"</string>
   <string name="map_home" msgid="1243547733423343982">"أظهر العنوان"</string>
   <string name="map_work" msgid="1360474076921878088">"أظهر عنوان الاستاذ"</string>
-  <string name="map_other" msgid="3817820803587012641">"إظهار العنوان \"</string>
+  <string name="map_other" msgid="3817820803587012641">"إظهار العنوان "</string>
   <string name="map_custom" msgid="6184363799976265281">"إظهار عنوان<xliff:g id="CUSTOM">%s</xliff:g>"</string>
   <string name="chat_aim" msgid="2588492205291249142">"الدردشة عبر مراسل"</string>
   <string name="chat_msn" msgid="8041633440091073484">"الدردشة عبر قناة ويندوز لايف"</string>
