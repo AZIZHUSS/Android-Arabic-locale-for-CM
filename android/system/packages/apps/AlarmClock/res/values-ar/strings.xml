@@ -54,7 +54,7 @@ limitations under the License.
   <string name="analog_gadget" msgid="1670505720837152766">"ساعة تناظرية"</string>
   <string name="settings" msgid="5849739030579520686">"الإعدادات"</string>
   <string name="alarm_in_silent_mode_title" msgid="3892612644543516705">"المنبه في الوضع الصامت"</string>
-  <string name="alarm_in_silent_mode_summary" msgid="6042500263899922832">"تشغيل المتبه حتى اذا كان الهاتف في وضع الصامت"</string>
+  <string name="alarm_in_silent_mode_summary" msgid="6042500263899922832">"تشغيل المنبه حتى اذا كان الهاتف في وضع الصامت"</string>
   <string name="snooze_duration_title" msgid="1471249885139952670">"مدة الغفوة"</string>
   <string-array name="snooze_duration_entries">
     <item msgid="8337408933053603125">"5 دقائق"</item>
@@ -77,9 +77,9 @@ limitations under the License.
   <string name="alarm_volume_title" msgid="8506245173912428522">"صوت المنبه"</string>
   <string name="alarm_volume_summary" msgid="8957440373896242438">"تعين مستوى صوت المنبه"</string>
   <string name="silent_alarm_summary" msgid="8605302849408279221">"صامت"</string>
-  <string name="alarm_notify_text" msgid="4146350965933990093">"حدد إيقاف التنبه او غفوة"</string>
+  <string name="alarm_notify_text" msgid="4146350965933990093">"حدد أيقاف المنبه او غفوة"</string>
   <string name="alarm_notify_snooze_label" msgid="5404083762646377829">"<xliff:g id="LABEL">%s</xliff:g> (غفوة)"</string>
-  <string name="alarm_notify_snooze_text" msgid="8004830999152609519">"المنبه عُين لـ <xliff:g id="TIME">%s</xliff:g>. حدد للإلغاء."</string>
+  <string name="alarm_notify_snooze_text" msgid="8004830999152609519">"تم نعيين المنبه لـ <xliff:g id="TIME">%s</xliff:g>. حدد للإلغاء"</string>
   <string name="volume_button_setting_title" msgid="1892885285888644234">"سلوك الزر الجانبي"</string>
   <string name="volume_button_setting_summary" msgid="1594641247799573198">"تعين السلوك المطلوب من الأزرار الجانبية عند الضغط عليها اثناء تنبيه ما"</string>
   <string name="default_ringtone_setting_title" msgid="4549726190682964245">"ضبط النغمة الافتراضية"</string>

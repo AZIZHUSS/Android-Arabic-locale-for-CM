@@ -48,7 +48,7 @@
   <string name="set_image" msgid="2331476809308010401">"وضع الصورة كـ"</string>
   <string name="wallpaper" msgid="9222901738515471972">"خلفية"</string>
   <string name="camera_setas_wallpaper" msgid="797463183863414289">"خلفية كاميرا"</string>
-  <string name="details_ok" msgid="6848594369924424312">"OK"</string>
+  <string name="details_ok" msgid="6848594369924424312">"موافق"</string>
   <string name="loading_new" msgid="7893793767294787579">"...تحميل"</string>
   <string name="initializing" msgid="2374228157398540466">"تحليل"</string>
   <string name="pick_prompt" msgid="576608096149718121">"إختر عنصر من القائمة"</string>
@@ -78,7 +78,7 @@
   <string name="type" msgid="4329478642546287192">"النوع"</string>
   <string name="taken_on" msgid="3269486910757192479">"إلتقاط الصور والفيديو"</string>
   <string name="added_on" msgid="5194321063173381814">"أضف"</string>
-  <string name="show_on_map" msgid="6157544221201750980">"أظهر الموقع على الخريطة"</string>
+  <string name="show_on_map" msgid="6157544221201750980">"أعرض الموقع على الخريطة"</string>
   <string name="rotate_left" msgid="7412075232752726934">"التفاف لليسار"</string>
   <string name="rotate_right" msgid="7340681085011826618">"التفاف لليمين"</string>
   <string name="crop" msgid="7970750655414797277">"إقتطاع"</string>
@@ -88,5 +88,5 @@
   <string name="items" msgid="6403254716052150916">"عناصر"</string>
   <string name="around" msgid="2223906282110417412">"حول"</string>
   <string name="date_unknown" msgid="4277113471036917386">"التاريخ غير معلوم"</string>
-  <string name="video_err" msgid="7917736494827857757">"غير ممكن أخذ فيديو"</string>
+  <string name="video_err" msgid="7917736494827857757">"غير قادر على  تصوير الفيديو"</string>
 </resources>

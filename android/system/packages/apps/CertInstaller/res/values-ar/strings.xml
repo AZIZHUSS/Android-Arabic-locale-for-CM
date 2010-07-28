@@ -43,6 +43,6 @@
     <string name="cert_too_large_error" msgid="8806716564341320607">"فشل التثبيت. حجم الشهادة كبير."</string>
     <string name="cert_missing_error" msgid="4220080091005628628">"فشل التثبيت. تعذر تحديد موقع ملف الشهادة."</string>
     <string name="cert_read_error" msgid="9120813657318906215">"فشل التثبيت. تعذر قراءة ملف الشهادة."</string>
-    <string name="no_cert_file_found" msgid="1942077544887243999">"تعذر العثور على ملف الشهادة. على بطاقة SD"</string>
-    <string name="sdcard_not_present" msgid="1567335300760018448">"بطاقة SD غير موجودة."</string>
+    <string name="no_cert_file_found" msgid="1942077544887243999">"تعذر العثور على ملف الشهادةعلى  الذاكرة الخارجية"</string>
+    <string name="sdcard_not_present" msgid="1567335300760018448">" الذاكرة الخارجية غير موجودة"</string>
 </resources>

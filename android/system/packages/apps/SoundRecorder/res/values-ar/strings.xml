@@ -30,7 +30,7 @@
     <string name="accept" msgid="7770652589312551402">"موافقة"</string>
     <string name="discard" msgid="761613433029406319">"تجاهل"</string>
     <string name="button_ok" msgid="3004911343723076226">"موافق"</string>
-    <string name="press_record" msgid="5039711805290780494">"انقر للتسجيل"</string>
+    <string name="press_record" msgid="5039711805290780494">"أضغط للتسجيل"</string>
     <!-- no translation found for audio_db_title_format (7912182366970749312) -->
     <skip />
     <string name="audio_db_artist_name" msgid="961640229118120080">"الفنان"</string>
@@ -38,5 +38,5 @@
     <string name="audio_db_playlist_name" msgid="5592939050047058162">"قائمة التشغيل"</string>
     <string name="error_sdcard_access" msgid="8005660724361043509">"لايمكن الوصول للذاكرة"</string>
     <string name="error_app_internal" msgid="2365923237657572011">"يوجد خلل في الذكرة الداخلية"</string>
-    <string name="error_mediadb_new_record" msgid="2225774949947938064">"لايمكن بدا التسجيل لخطأ ما"</string>
+    <string name="error_mediadb_new_record" msgid="2225774949947938064">"لايمكن بدء التسجيل لخطأ ما"</string>
 </resources>

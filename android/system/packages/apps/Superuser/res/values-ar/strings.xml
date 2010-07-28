@@ -20,7 +20,7 @@
   <string name="request_app_name">التطبيق:</string>
   <string name="preferences">"إعدادات"</string>
   <string name="preference_category_whitelist_title">"القائمة البيضاء للإعدادات"</string>
-  <string name="preference_tap_action_title">"العمل المطلوب"</string>
+  <string name="preference_tap_action_title">"العمل  المطلوب"</string>
   <string name="preference_tap_action_summary">"الإجراءات التي يجب اتخاذها عند النقر فوق التطبيق"</string>
   <string name="preference_category_notification_title">"معلومات التصريح المحدد"</string>
   <string name="preference_notification_title">"تنبيه"</string>
