@@ -83,7 +83,7 @@
   <string name="bookmark_needs_title" msgid="6245900436119218187">"يجب ا ن تضع اسم للصفحة المفضلة"</string>
   <string name="bookmark_needs_url" msgid="7809876865972755158">"يجب ان تضع  رابط للصفحة المفضلة"</string>
   <string name="bookmark_url_not_valid" msgid="6719785633980202419">"الرابط غير صالح"</string>
-  <string name="bookmark_cannot_save_url" msgid="791722768778386941">"لايمكن اضافة هذا الرابط للمفضلة"</string>
+  <string name="bookmark_cannot_save_url" msgid="791722768778386941">"لايمكن إضافة هذا الرابط للمفضلة"</string>
   <string name="delete_bookmark" msgid="2422989994934201992">"حذف"</string>
   <string name="bookmark_page" msgid="6845189305130307274">"أضف آخر صفحة تم زيراتها إلى المفضلة "</string>
   <string name="switch_to_thumbnails" msgid="5493351529609043151">"عرض مصغر"</string>
@@ -92,7 +92,7 @@
   <string name="delete_bookmark_warning" msgid="758043186202032205">"تم حذف \"<xliff:g id="BOOKMARK">%s</xliff:g>\" من المفضلة"</string>
   <string name="open_in_new_window" msgid="6596775546468054510">"افتح الصفحة في إطار جديد"</string>
   <string name="goto_dot" msgid="3895839050522602723">"أذهب"</string>
-  <string name="find_dot" msgid="6259312434696611957">"أبحث في الصفحة"</string>
+  <string name="find_dot" msgid="6259312434696611957">"إبحث في الصفحة"</string>
   <string name="select_dot" msgid="6299170761900561967">"أختيار نص"</string>
   <string name="tab_picker_title" msgid="864478399057782913">"الإطارات الحالية"</string>
   <string name="tab_picker_remove_tab" msgid="630087809802479397">"إغلاق"</string>
@@ -104,7 +104,7 @@
   <string name="share_page" msgid="593756995297268343">"المشاركة في الصفحة"</string>
   <string name="contextmenu_openlink" msgid="7237961252214188935">"فتتح"</string>
   <string name="contextmenu_openlink_newwindow" msgid="992765050093960353">"فتح في إطار جديد"</string>
-  <string name="contextmenu_bookmark_thislink" msgid="8095373680616870021">"إضف الرابط إلى المفضلة"</string>
+  <string name="contextmenu_bookmark_thislink" msgid="8095373680616870021">"أضف الرابط إلى المفضلة"</string>
   <string name="contextmenu_savelink" msgid="5508554930832538184">"حفظ الرابط"</string>
   <string name="contextmenu_sharelink" msgid="5392275392280130331">"المشاركة في الرابط"</string>
   <string name="contextmenu_copy" msgid="398860586635404030">"نسخ"</string>
@@ -190,9 +190,9 @@
   <string name="pref_content_load_page_summary" msgid="8792093504054149369">"اظهار لمحة عن الصفحات المتصفحة حديثا"</string>
   <string name="pref_extras_title" msgid="3091250467679722382">"خيارات متقدمة"</string>
   <string name="pref_extras_website_settings" msgid="67866640052455549">"إعدادات الصفحات"</string>
-  <string name="pref_extras_website_settings_summary" msgid="1656771443223494406">"اعدادت متقدمة لكل الصفحات"</string>
+  <string name="pref_extras_website_settings_summary" msgid="1656771443223494406">"إعدادت متقدمة لكل الصفحات"</string>
   <string name="pref_extras_reset_default" msgid="8904000515846202110">"الوضع الافتراضي"</string>
-  <string name="pref_extras_reset_default_summary" msgid="4247870778270414501">"إعادة ضبط الاعدادات الافتراضية"</string>
+  <string name="pref_extras_reset_default_summary" msgid="4247870778270414501">"إعادة ضبط الإعدادات الافتراضية"</string>
   <string name="pref_extras_reset_default_dlg" msgid="6640261575874704022">"سيتم اعادة الضبط للإعدادات الافتراضية"</string>
   <string name="pref_extras_reset_default_dlg_title" msgid="2250334970728938936">"أعادة ضبط للافتراضي"</string>
   <string name="pref_development_title" msgid="3263854204533056480">"تصحيح ومراجعة"</string>
@@ -245,7 +245,7 @@
   <string name="download_no_sdcard_dlg_title" msgid="605904452159416792">"لايوجد ذاكرة خارجية"</string>
   <string name="download_no_sdcard_dlg_msg" msgid="2616399456116301518">"يتطلب ذاكرة خارجية لتحميل الملف <xliff:g id="FILENAME">%s</xliff:g>"</string>
   <string name="download_sdcard_busy_dlg_title" msgid="6877712666046917741">"الذاكرة غير متوفرة"</string>
-  <string name="download_sdcard_busy_dlg_msg" msgid="3473883538192835204">"الذاكرة الخارجة قيد الاستخدام. قم أطفاء ذاكرة التخزين من التبيهات "</string>
+  <string name="download_sdcard_busy_dlg_msg" msgid="3473883538192835204">"الذاكرة الخارجة قيد الاستخدام. قم أطفاء ذاكرة التخزين من التنبيهات "</string>
   <string name="download_no_application_title" msgid="1286056729168874295">"لم يتمكن من فتح الملف"</string>
   <string name="retry" msgid="1835923075542266721">"حاول مرة أخرى"</string>
   <string name="no_downloads" msgid="3947445710685021498">"لايوجد ملفات محفوظة"</string>
@@ -284,8 +284,8 @@
   <string name="geolocation_settings_page_dialog_ok_button" msgid="4789434178048077287">"إلغاء"</string>
   <string name="geolocation_settings_page_dialog_cancel_button" msgid="7941036504673409747">"تجاهل"</string>
   <string name="website_settings_clear_all" msgid="8739804325997655980">"الغاء الكل"</string>
-  <string name="website_settings_clear_all_dialog_title" msgid="7791826325122461718">"مسح جميع اعدادات الصفحات؟"</string>
-  <string name="website_settings_clear_all_dialog_message" msgid="6150502090601476333">"سيمت حذف جميع اعداد الصفحات وشروط معرفةالمواقع "</string>
+  <string name="website_settings_clear_all_dialog_title" msgid="7791826325122461718">"مسح جميع إعدادات الصفحات؟"</string>
+  <string name="website_settings_clear_all_dialog_message" msgid="6150502090601476333">"سيمت حذف جميع إعداد الصفحات وشروط معرفةالمواقع "</string>
   <string name="website_settings_clear_all_dialog_ok_button" msgid="6401582240627669431">"حذف جميع البيانات"</string>
   <string name="website_settings_clear_all_dialog_cancel_button" msgid="1896757051856611674">"إلغاء"</string>
   <string name="progress_dialog_setting_wallpaper" msgid="4871900779338536674">"جاري إعداد الخلفية"</string>
