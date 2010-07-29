@@ -18,29 +18,28 @@
     <item msgid="4457112202911142877">"لترى جميع برامجك اضغط على  @drawable/all_apps"</item>
     <!-- Tip: How to survive in CyanogenMod. -->
     <item>قواعد\n
-       القاعدة الوحيدة في روم سيانوجين. لاتسأل عن متى سيكون الاصدار بالتحديد</item>
-    <item msgid="8842580895829057430">"Trascina le applicazioni sulla schermata Home."\n" Tocca e tieni premuta un\'applicazione finché non vibra."</item>
+       القاعدة الوحيدة في روم سيانوجين. لاتسأل عن الوقت المتوقع للإصدار الجديد</item>
+    <item msgid="8842580895829057430">"نشكر من ساهم في تعريب القوائم"</item>
     <!-- Tip: blamewes -->
     <item>#blamewes\n
         Avoid wesgarner at all costs. @drawable/wesgarner</item>
-    <item msgid="8903218961940756528">"Rearrange your Home screen.\n
-        Touch &amp; hold an item and when it vibrates, drag it where you want."</item>
+    <item msgid="8903218961940756528">"أعد ترتيب الشاشة الرئيسة.\n
+        اضغط مع الاستمرار على عنصر، وعندما يهتز اسحبه إلى المكان الذي تريد."</item>
     <!-- Tip: Teach them how to become better programmers -->
     <item>Ballmer Peak\n
         Optimal coding ability takes place between a BAC of .129 and .138.</item>
-    <item msgid="3123213860439458492">"Remove items.\n
-        Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash"</item>
+    <item msgid="3123213860439458492">"حذف العناصر.\n
+        اضغط مع الاستمرار على عنصر، وعندما يهتز اسحبه إلى سلة المحذوفات. @drawable/trash"</item>
     <!-- Tip: Explain what is wrong with the iPhone. -->
     <item>آيفون\n
         حملك له خاطئ. هذا هو الواقع</item>
-    <item msgid="1000948398885889319">Multiple Home screens.\n
+    <item msgid="1000948398885889319">شاشات رئيسة متعددة.\n
         Swipe left or right to switch. Drag items to other screens.</item>
     <!-- Tip: Winzip must be kept up to date. -->
-    <item>Number 1 Priority\n
-        Don\'t forget to keep your winzip up to date.</item>
-    <item msgid="424487960942281801">"Done with this widget?\n
-        Touch &amp; hold it and when it vibrates, drag it to the Trash icon.Done with this widget?\n
-        Touch &amp; hold it and when it vibrates, drag it to the Trash icon."</item>
+    <item>الأولوية رقم 1\n
+        لا تنس أن تحافظ على winzip محدثا.</item>
+    <item msgid="424487960942281801">"انتهيت من عنصر الواجهة هذا؟\n
+        اضغط مع الاستمرار عليه، وعندما يهتز اسحبه إلى سلة المحذوفات."</item>
     <!-- Tip: Find out what it means to kang. -->
     <item>Kang [kayng] - (verb)\n
         Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck</item>

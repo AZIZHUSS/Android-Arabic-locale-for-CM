@@ -1,29 +1,29 @@
-๏ปฟ<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">"ุงุณุชุฎุฏุงู… ุงู…ุชูุงุฒ"</string>
-  <string name="app_name_request">"ุทูุจ ุชุตุฑูุญ ู…ุญุฏุฏ"</string>
-  <string name="app_name_perms">"ุงุฐู ุชุตุฑูุญ ู…ุญุฏุฏ"</string>
-  <string name="allow">"ุงูุณู…ุงุญ ูุทูุจ ุชุตุฑูุญ ู…ุญุฏุฏ"</string>
-  <string name="forget">"ุญุฐู"</string>
-  <string name="cancel">"ุงูุบุงุก"</string>
-  <string name="deny">"ุฑูุถ"</string>
-  <string name="remember">"ุชุฐูุฑ"</string>
-  <string name="uid">(uid: %d)</string>
-  <string name="request">%s as %s (uid: %d)</string>
-  <string name="detail_package">ุงูุญุฒู…ุฉ :</string>
-  <string name="detail_request">ุทูุจ ุฑู…ุฒ ุงูู…ุณุชุฎุฏู…:</string>
-  <string name="detail_command">ุงูุงู…ุฑ:</string>
-  <string name="detail_status">ุงูุญุงูุฉ:</string>
-  <string name="detail_created">ุชุงุฑูุฎ ุงูุฅูุดุงุก :</string>
-  <string name="detail_last_accessed">ุงูุงุฎูุฑุฉ:</string>
-  <string name="request_message">ูุฐุง ุงูุชุทุจูู ูุชุทูุจ ูุตูู ุงุณุชุฎุฏุงู… ู…ุชู…ูุฒ</string>
-  <string name="request_app_name">ุงูุชุทุจูู:</string>
-  <string name="preferences">"ุฅุนุฏุงุฏุงุช"</string>
-  <string name="preference_category_whitelist_title">"ุงููุงุฆู…ุฉ ุงูุจูุถุงุก ููุฅุนุฏุงุฏุงุช"</string>
-  <string name="preference_tap_action_title">"ุงูุนู…ู  ุงูู…ุทููุจ"</string>
-  <string name="preference_tap_action_summary">"ุงูุฅุฌุฑุงุกุงุช ุงูุชู ูุฌุจ ุงุชุฎุงุฐูุง ุนูุฏ ุงูููุฑ ููู ุงูุชุทุจูู"</string>
-  <string name="preference_category_notification_title">"ู…ุนููู…ุงุช ุงูุชุตุฑูุญ ุงูู…ุญุฏุฏ"</string>
-  <string name="preference_notification_title">"ุชูุจูู"</string>
-  <string name="preference_notification_summary">"ุนุฑุถ ุฑุณุงูุฉ ุนูู ุดุฑูุท ุงูุชูุจููุงุช ุนูุฏ ุงูุญุตูู ุนูู ุงูุชุตุงุฑูุญ ุงูู…ุญุฏุฏุฉ"</string>
-  <string name="notification_text">%s ุชู… ุงูุณู…ุงุญ ูุทูุจ ุชุตุฑูุญ ู…ุญุฏุฏ</string>
+    <string name="app_name">ีแวอํวส วแฬะั</string>
+    <string name="app_name_request">ุแศ ีแวอํวส</string>
+    <string name="app_name_perms">ีแวอํวส วแฬะั</string>
+    <string name="allow">ำใวอ</string>
+    <string name="forget">ไำํวไ</string>
+    <string name="cancel">ลแÛวม</string>
+    <string name="deny">ัÝึ</string>
+    <string name="remember">สะ฿ั</string>
+    <string name="uid">(uid: %d)</string>
+    <string name="request">%s as %s (uid: %d)</string>
+    <string name="detail_package">package:</string>
+    <string name="detail_request">Requested UID:</string>
+    <string name="detail_command">Command:</string>
+    <string name="detail_status">วแๆึฺ:</string>
+    <string name="detail_created">รไิฦ Ýํ:</string>
+    <string name="detail_last_accessed">วแใำสฮฯใษ ใฤฮัว:</string>
+    <string name="request_message">วแศัไวใฬ วแสวแํ ํุแศ ีแวอํวส วแฬะั:</string>
+    <string name="request_app_name">ศัไวใฬ:</string>
+    <string name="preferences">สÝึํแวส</string>
+    <string name="preference_category_whitelist_title">สÝึํแวส วแÞวฦใษ วแศํึวม</string>
+    <string name="preference_tap_action_title">ฺใแ วแไÞั</string>
+    <string name="preference_tap_action_summary">วแฺใแ วแะํ ํÞวใ ศๅ ฺไฯ ไÞั ฺไีั</string>
+    <string name="preference_category_notification_title">สไศํๅวส</string>
+    <string name="preference_notification_title">สไศํๅ</string>
+    <string name="preference_notification_summary">ฺัึ ัำวแษ Ýํ ิัํุ วแสไศํๅวส ฺไฯ ลฺุวม ีแวอํวส วแฬะั แศัไวใฬ </string>
+    <string name="notification_text">%s สใ ลฺุวฤๅ ีแวอํวส วแฬะั</string>
 </resources>

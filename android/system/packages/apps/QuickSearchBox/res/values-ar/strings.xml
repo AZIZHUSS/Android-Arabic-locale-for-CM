@@ -16,33 +16,33 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name" msgid="1504397077706378597">"بحث"</string>
   <string name="search_widget" msgid="323244086853110381">"بحث"</string>
-  <string name="search_widget_config_ok" msgid="5928098252637988527">"تم"</string>
+  <string name="search_widget_config_ok" msgid="5928098252637988527">"موافق"</string>
   <string name="corpus_selection_heading" msgid="6673422146423301360">"بحث"</string>
-  <string name="corpus_label_global" msgid="8787849559975296772">"جميع"</string>
-  <string name="corpus_label_web" msgid="3551946782975352067">"موقع"</string>
-  <string name="corpus_description_web" msgid="5553049179123250409">"بحث مواقع, بحث مفضلات, بحث مواقع تمت زيارتها"</string>
+  <string name="corpus_label_global" msgid="8787849559975296772">"الجميع"</string>
+  <string name="corpus_label_web" msgid="3551946782975352067">"إنترنت"</string>
+  <string name="corpus_description_web" msgid="5553049179123250409">"بحث مواقع والمفضلة وتاريخ المتصفح"</string>
   <string name="corpus_label_apps" msgid="73123028704144731">"تطبيقات"</string>
   <string name="corpus_description_apps" msgid="7434542427108237469">"أسماء التطبيقات المثبتة"</string>
   <string name="corpus_hint_apps" msgid="4230401643970165739">"البحث عن تطبيقات"</string>
   <string name="corpus_label_apps_market" msgid="7625179316335589490">"التطبيقات والماركت"</string>
   <string name="corpus_description_apps_market" msgid="6676825865398169853">"التطبيقات المثبتة والتطبيقات من الماركت"</string>
   <string name="corpus_hint_apps_market" msgid="627025611326022658">"بحث في التطبيقات والماركت"</string>
-  <string name="menu_settings" msgid="5600043319144155953">"اعدادات البحث"</string>
-  <string name="search_settings" msgid="4101951238194600323">"اعدادات البحث"</string>
-  <string name="web_search_category_title" msgid="3696363552067530526">"موقع"</string>
-  <string name="system_search_category_title" msgid="1507902891285388819">"هاتف"</string>
+  <string name="menu_settings" msgid="5600043319144155953">"إعدادات البحث"</string>
+  <string name="search_settings" msgid="4101951238194600323">"إعدادات البحث"</string>
+  <string name="web_search_category_title" msgid="3696363552067530526">"الإنترنت"</string>
+  <string name="system_search_category_title" msgid="1507902891285388819">"الهاتف"</string>
   <string name="search_sources" msgid="505874718206340313">"العناصر القابلة للبحث"</string>
-  <string name="search_sources_summary" msgid="9181194249796408374">"اختر ما الذي تبحث عنه على هاتفك النقال"</string>
-  <string name="clear_shortcuts" msgid="1964107586205103593">"اختصارات لحذف"</string>
+  <string name="search_sources_summary" msgid="9181194249796408374">"اختر ما الذي تبحث عنه على هاتفك"</string>
+  <string name="clear_shortcuts" msgid="1964107586205103593">"مسح الاختصارات"</string>
   <string name="clear_shortcuts_summary" msgid="7407553488405249541">"حذف اختصارات نتائج البحث المقترحة"</string>
   <string name="clear_shortcuts_prompt" msgid="1383427830703301130">"سيتم حذف جميع اختصارات نتائج البحث المقترحة."\n\n"لمسح المواقع اللتي تمت زيارتها, استخدم اعدادات المتصفح."</string>
-  <string name="agree" msgid="5918867532928233161">"تم"</string>
-  <string name="disagree" msgid="4631189706900617900">"الغاء"</string>
+  <string name="agree" msgid="5918867532928233161">"موافق"</string>
+  <string name="disagree" msgid="4631189706900617900">"إلغاء"</string>
   <string name="google_search_label" msgid="2312345472131797361">"قوقل"</string>
   <string name="google_app_label" msgid="7877830942664670350">"بحث قوقل"</string>
   <string name="google_search_hint" msgid="8374014384681586649">"بحث قوقل"</string>
   <string name="google_search_settings" msgid="4169698045412400949">"بحث قوقل"</string>
-  <string name="google_show_web_suggestions" msgid="9018281734662733247">"اظهار اقتراحات"</string>
-  <string name="google_show_web_suggestions_summary_enabled" msgid="6978457517649501505">"عرض اقتراحات في بحث قوقل"</string>
-  <string name="google_show_web_suggestions_summary_disabled" msgid="3768151514600543003">"لا تعرض اقتراحات في بحث قوقل"</string>
+  <string name="google_show_web_suggestions" msgid="9018281734662733247">"إظهار اقتراحات البحث"</string>
+  <string name="google_show_web_suggestions_summary_enabled" msgid="6978457517649501505">"عرض اقتراحات بحث قوقل حال كتابتك."</string>
+  <string name="google_show_web_suggestions_summary_disabled" msgid="3768151514600543003">"لا تعرض اقتراحات في بحث قوقل."</string>
 </resources>
