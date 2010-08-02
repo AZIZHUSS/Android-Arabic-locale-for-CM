@@ -16,167 +16,167 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="contactsIconLabel" msgid="9129800048701196916">"قائمة الاتصال"</string>
+    <string name="contactsIconLabel" msgid="9129800048701196916">"الأسماء"</string>
     <string name="contactsFavoritesLabel" msgid="5360050972935451505">"المفضلة"</string>
     <string name="dialerIconLabel" msgid="1761864493312440268">"اتصال"</string>
     <string name="emergencyDialerIconLabel" msgid="7812140032168171053">"مكالمة طوارئ"</string>
     <string name="phoneIconLabel" msgid="2331230813161304895">"الهاتف"</string>
     <string name="recentCallsIconLabel" msgid="8717350893637245164">"آخر مكالمة"</string>
-    <string name="fdnListLabel" msgid="8630418672279521003">"Elenco FDN"</string>
+    <string name="fdnListLabel" msgid="8630418672279521003">"قائمة FDN"</string>
     <string name="unknown" msgid="6878797917991465859">"غير معروف"</string>
     <string name="private_num" msgid="6713286113000232309">"خاص"</string>
     <string name="payphone" msgid="1931775086311769314">"تلفون العملة"</string>
-    <string name="onHold" msgid="9035493194749959955">"البث"</string>
-    <string name="ongoing" msgid="8300874342848721367">"دعوة الحالي"</string>
+    <string name="onHold" msgid="9035493194749959955">"انتظار"</string>
+    <string name="ongoing" msgid="8300874342848721367">"المكالمة الحالية"</string>
     <string name="callFailed_userBusy" msgid="8851106999809294904">"مشغول"</string>
     <string name="callFailed_congestion" msgid="8737761615702718375">"الشبكة مشغولة"</string>
     <string name="callFailed_noSignal" msgid="1889803273616031933">"لا إشارة"</string>
     <string name="callFailed_limitExceeded" msgid="4958065157970101491">"تجاوز حد ACM"</string>
-    <string name="callFailed_powerOff" msgid="2766035859391549713">"إيقاف التشغيل"</string>
-    <string name="callFailed_simError" msgid="5652345589458834655">"خطأ في الشريحة"</string>
+    <string name="callFailed_powerOff" msgid="2766035859391549713">"الهوائي لا يعمل"</string>
+    <string name="callFailed_simError" msgid="5652345589458834655">"لا توجد شريحة أو خطأ في الشريحة"</string>
     <string name="callFailed_outOfService" msgid="4825791466557236225">"خارج التغطية"</string>
     <string name="callFailed_fdn_only" msgid="2850204579765430641">"المكالمات الصادرة محجوبة"</string>
     <string name="callFailed_cb_enabled" msgid="3057131228725500761">"غير قادر على إجراء المكالمة فضلا افحص حظر المكالمات"</string>
-    <string name="callFailed_dsac_restricted" msgid="2180223622768522345">"المكالمات مقتصرة على التحكم بالوصول"</string>
-    <string name="callFailed_dsac_restricted_emergency" msgid="4353654268813314466">"مكالمة الطوارئ محدودة."</string>
-    <string name="callFailed_dsac_restricted_normal" msgid="2680774510252408620">"المكالمات مقتصرة على التحكم بالوصول"</string>
-    <string name="callFailed_cdma_lockedUntilPowerCycle" msgid="775483211928061084">"CDMA: الهاتف مغلق لأسباب أمنية"</string>
-    <string name="callFailed_cdma_drop" msgid="6030084920001082496">"CDMA:انقطاع"</string>
+    <string name="callFailed_dsac_restricted" msgid="2180223622768522345">"جميع المكالمات محدودة بالتحكم بالوصول"</string>
+    <string name="callFailed_dsac_restricted_emergency" msgid="4353654268813314466">"مكالمة الطوارئ محدودة بالتحكم بالوصول."</string>
+    <string name="callFailed_dsac_restricted_normal" msgid="2680774510252408620">"المكالمات محدودة بالتحكم بالوصول"</string>
+    <string name="callFailed_cdma_lockedUntilPowerCycle" msgid="775483211928061084">"CDMA: الهاتف مقفل حتى إعادة التشغيل"</string>
+    <string name="callFailed_cdma_drop" msgid="6030084920001082496">"CDMA:انقطعت المكالمة"</string>
     <string name="callFailed_cdma_intercept" msgid="8402269373120277330">"CDMA:مكالمة معترضة"</string>
-    <string name="callFailed_cdma_reorder" msgid="5605791471418711552">"CDMA: اعادة الترتيب"</string>
+    <string name="callFailed_cdma_reorder" msgid="5605791471418711552">"CDMA: إعادة الترتيب"</string>
     <string name="callFailed_cdma_SO_reject" msgid="8969174256492763555">"CDMA: رفض خيار الخدمة"</string>
-    <string name="callFailed_cdma_retryOrder" msgid="5848488692485148804">"CDMA: riprova ordinamento."</string>
-    <string name="callFailed_cdma_accessFailure" msgid="2844306027616452215">"CDMA: اعادة الترتيب"</string>
-    <string name="callFailed_cdma_preempted" msgid="1097095321180029879">"CDMA:الغيت"</string>
+    <string name="callFailed_cdma_retryOrder" msgid="5848488692485148804">"CDMA: أعد محاولة إعادة الترتيب."</string>
+    <string name="callFailed_cdma_accessFailure" msgid="2844306027616452215">"CDMA: فشل الوصول"</string>
+    <string name="callFailed_cdma_preempted" msgid="1097095321180029879">"CDMA: مستبقة"</string>
     <string name="callFailed_cdma_notEmergency" msgid="2347377816822720761">"مكالمة الطوارئ فقط ممكنة"</string>
-    <string name="confCall" msgid="1904840547188336828">"مؤتمر صوتي"</string>
-    <string name="call_lost" msgid="317670617901479594">"المكالمة ضائعة"</string>
-    <string name="retry" msgid="8462986804300767852">"إعادة"</string>
-    <string name="call_lost_title" msgid="6696949678847938515">"مكالمة لم يرد عليها"</string>
-    <string name="mmiStarted" msgid="6347869857061147003">"بدأ MMI"</string>
-    <string name="ussdRunning" msgid="485588686340541690">"تشغيل التعليمات: USSD..."</string>
-    <string name="mmiCancelled" msgid="2771923949751842276">"الغي MMI"</string>
+    <string name="confCall" msgid="1904840547188336828">"مكالمة جماعية"</string>
+    <string name="call_lost" msgid="317670617901479594">"تم فقد المكالمة"</string>
+    <string name="retry" msgid="8462986804300767852">"إعادة المحاولة"</string>
+    <string name="call_lost_title" msgid="6696949678847938515">"مكالمة مفقودة"</string>
+    <string name="mmiStarted" msgid="6347869857061147003">"MMI code started"</string>
+    <string name="ussdRunning" msgid="485588686340541690">"USSD code running\u2026"</string>
+    <string name="mmiCancelled" msgid="2771923949751842276">"MMI code canceled"</string>
     <string name="cancel" msgid="5044513931633602634">"الغاء"</string>
-    <string name="menu_speaker" msgid="6069700688651964705">"مكبر الصوت"</string>
-    <string name="menu_bluetooth" msgid="8842523654717305695">"Bluetooth"</string>
+    <string name="menu_speaker" msgid="6069700688651964705">"السماعة"</string>
+    <string name="menu_bluetooth" msgid="8842523654717305695">"بلوتوث"</string>
     <string name="menu_mute" msgid="4399723633363773145">"كتم"</string>
     <string name="menu_hold" msgid="6970441130344786273">"انتظار"</string>
-    <string name="menu_endCall" msgid="2142958047156634241">"انهاء المكالمة"</string>
-    <string name="menu_swapCalls" msgid="1548647524816600795">"سحب المكالمات"</string>
-    <string name="menu_mergeCalls" msgid="6414754941392181303">"دمج أكثر من مكالمة"</string>
-    <string name="menu_addCall" msgid="7829255032442131930">"مكالمة أخرى"</string>
-    <string name="menu_manageConference" msgid="3770984362002266733">"إدارة المؤتمر"</string>
-    <string name="menu_showDialpad" msgid="5198200217528406980">"إظهار الارقام"</string>
-    <string name="menu_hideDialpad" msgid="2733813546746296771">"إخفاء الارقام"</string>
-    <string name="menu_answerAndHold" msgid="8830891495953688905">"Sospendi chiamata corrente"\n"e rispondi"</string>
-    <string name="menu_answerAndEnd" msgid="2071708281281611854">"الاجابة ثم الانهاء"</string>
+    <string name="menu_endCall" msgid="2142958047156634241">"إنهاء المكالمة"</string>
+    <string name="menu_swapCalls" msgid="1548647524816600795">"تبديل المكالمات"</string>
+    <string name="menu_mergeCalls" msgid="6414754941392181303">"دمج المكالمات"</string>
+    <string name="menu_addCall" msgid="7829255032442131930">"إضافة مكالمة"</string>
+    <string name="menu_manageConference" msgid="3770984362002266733">"إدارة مكالمة جماعية"</string>
+    <string name="menu_showDialpad" msgid="5198200217528406980">"إظهار لوحة الارقام"</string>
+    <string name="menu_hideDialpad" msgid="2733813546746296771">"إخفاء لوحة الارقام"</string>
+    <string name="menu_answerAndHold" msgid="8830891495953688905">"حول المكالمة الحالية إلى انتظار"\n"و قم بالرد"</string>
+    <string name="menu_answerAndEnd" msgid="2071708281281611854">"أنه المكالمة الحالية"\n"و قم بالرد"</string>
     <string name="ok" msgid="3811371167865772377">"موافق"</string>
-    <string name="menuButtonHint" msgid="4853215496220101699">"زر التلميح"</string>
-    <string name="menuButtonKeyboardDialHint" msgid="2869270434715312458">"زر تلميح الطلب"</string>
-    <string name="menu_answer" msgid="116686205042231098">"إجابة"</string>
+    <string name="menuButtonHint" msgid="4853215496220101699">"اضغط زر القائمة لإظهار خيارات الاتصال"</string>
+    <string name="menuButtonKeyboardDialHint" msgid="2869270434715312458">"اضغط زر القائمة لإظهار خيارات الاتصال \u2022  استخدم لوحة الأرقام للاتصال"</string>
+    <string name="menu_answer" msgid="116686205042231098">"رد"</string>
     <string name="menu_ignore" msgid="2112030835852537344">"تجاهل"</string>
-    <string name="wait_prompt_str" msgid="7601815427707856238">"إرسال الارقام التالية ؟"\n</string>
-    <string name="pause_prompt_str" msgid="341477243019906241">"إيقاف "\n</string>
+    <string name="wait_prompt_str" msgid="7601815427707856238">"إرسال الرموز التالية؟"\n</string>
+    <string name="pause_prompt_str" msgid="341477243019906241">"إرسال الرموز"\n</string>
     <string name="send_button" msgid="4106860097497818751">"إرسال"</string>
     <string name="pause_prompt_yes" msgid="3564467212025151797">"نعم"</string>
     <string name="pause_prompt_no" msgid="6686238803236884877">"لا"</string>
-    <string name="wild_prompt_str" msgid="1585989144582892543">"Sostituisci carattere jolly con"</string>
-    <string name="no_vm_number" msgid="4164780423805688336">"عدد الارقام المفقودة"</string>
-    <string name="no_vm_number_msg" msgid="1300729501030053828">"عدد الارقام التي تم نقلها من بطاقة SIM"</string>
+    <string name="wild_prompt_str" msgid="1585989144582892543">"بدل رمز * بـ"</string>
+    <string name="no_vm_number" msgid="4164780423805688336">"رقم البريد الصوتي غير موجود"</string>
+    <string name="no_vm_number_msg" msgid="1300729501030053828">"لا يوجد بريد صوتي مخزن في شريح SIM"</string>
     <string name="add_vm_number_str" msgid="4676479471644687453">"إضافة رقم"</string>
-    <string name="dialer_emptyListWorking" msgid="6022498519770859790">"إتصال..."</string>
+    <string name="dialer_emptyListWorking" msgid="6022498519770859790">"يرجى الانتظار..."</string>
     <string name="enterPin" msgid="4753300834213388397">"أدخل الرمز السري لبطاقة SIM"</string>
     <string name="pinUnlocked" msgid="3260617001055506794">"تم القبول"</string>
     <string name="enterNewPin" msgid="5311243769004752401">"أدخل الرقم السري الجديد لبطاقة SIM"</string>
-    <string name="verifyNewPin" msgid="2593629913010458867">"أعد الادخال"</string>
-    <string name="verifyFailed" msgid="3875778795754857903">"إعادة الادخال خاطئة"</string>
+    <string name="verifyNewPin" msgid="2593629913010458867">"أعد إدخال الرقم السري"</string>
+    <string name="verifyFailed" msgid="3875778795754857903">"الرقمان غير متوافقان.. الرجاء إعادة المحاولة"</string>
     <string name="enterPuk" msgid="6144749655582862324">"أدخل رمز PUK"</string>
     <string name="badPuk" msgid="3213017898690275965">"رمز PUK خاطئ"</string>
     <string name="buttonTxtContinue" msgid="863271214384739936">"استمرار"</string>
-    <string name="puk_unlocked" msgid="2284912838477558454">"تم القبول"</string>
-    <string name="label_ndp" msgid="780479633159517250">"رقم تعريف SIM"</string>
-    <string name="sim_ndp_unlock_text" msgid="683628237760543009">"إدخال SIM"</string>
-    <string name="sim_ndp_dismiss_text" msgid="1604823375752456947">"إخراج SIM"</string>
-    <string name="requesting_unlock" msgid="6412629401033249351">"جاري البحث عن شبكة ..."</string>
-    <string name="unlock_failed" msgid="6490531697031504225">"فشل فتح القفل"</string>
-    <string name="unlock_success" msgid="6770085622238180152">"تم فتح القفل"</string>
+    <string name="puk_unlocked" msgid="2284912838477558454">"تم قبول الرمز"</string>
+    <string name="label_ndp" msgid="780479633159517250">"رقم فتح قفل SIM"</string>
+    <string name="sim_ndp_unlock_text" msgid="683628237760543009">"فتح القفل"</string>
+    <string name="sim_ndp_dismiss_text" msgid="1604823375752456947">"إلغاء"</string>
+    <string name="requesting_unlock" msgid="6412629401033249351">"طلب فتح القفل عبر الشبكة..."</string>
+    <string name="unlock_failed" msgid="6490531697031504225">"فشل فتح قفل الشريحة"</string>
+    <string name="unlock_success" msgid="6770085622238180152">"تم فتح قفل الشريحة"</string>
     <string name="imei" msgid="8552502717594321281">"IMEI"</string>
     <string name="meid" msgid="66004808679046045">"MEID"</string>
-    <string name="labelGSMMore" msgid="5930842194056092106">"ضبط مكالمة GSM"</string>
-    <string name="labelCDMAMore" msgid="1630676740428229339">"ضبط مكالمة CDMA"</string>
+    <string name="labelGSMMore" msgid="5930842194056092106">"ضبط مكالمات GSM"</string>
+    <string name="labelCDMAMore" msgid="1630676740428229339">"ضبط مكالمات CDMA"</string>
     <string name="apn_settings" msgid="9043423184895642077">"أسماء نقاط الوصول"</string>
-    <string name="settings_label" msgid="3876743539816984008">"شبكة إعدادات"</string>
+    <string name="settings_label" msgid="3876743539816984008">"إعدادات الشبكة"</string>
     <string name="voicemail" msgid="8693759337917898954">"البريد الصوتي"</string>
     <string name="voicemail_abbreviated" msgid="2215592488517217448">"اختصار البريد الصوتي:"</string>
     <string name="networks" msgid="8873030692174541976">"الشبكات"</string>
     <string name="call_settings" msgid="6112441768261754562">"إعدادات المكالمات"</string>
-    <string name="additional_gsm_call_settings" msgid="1391795981938800617">" الاعدادات الاخرى GSM"</string>
-    <string name="sum_gsm_call_settings" msgid="4076647190996778012">"مجموع إعدادات مكالمات GSM"</string>
-    <string name="additional_cdma_call_settings" msgid="8628958775721886909">"Altre impostazioni chiamata CDMA"</string>
-    <string name="sum_cdma_call_settings" msgid="284753265979035549">"Altre impostazioni chiamata solo CDMA"</string>
+    <string name="additional_gsm_call_settings" msgid="1391795981938800617">"إعدادات أخرى"</string>
+    <string name="sum_gsm_call_settings" msgid="4076647190996778012">"إعدادات إضافية للمكالمات GSM"</string>
+    <string name="additional_cdma_call_settings" msgid="8628958775721886909">"إعدادات إضافية للمكالمات CDMA"</string>
+    <string name="sum_cdma_call_settings" msgid="284753265979035549">"إعدادات إضافية للمكالمات فقط لـ CDMA"</string>
     <string name="labelNwService" msgid="4699970172021870983">"ضبط خدمة الشبكة"</string>
     <string name="labelCallerId" msgid="3888899447379069198">"هوية المتصل"</string>
-    <string name="sum_hide_caller_id" msgid="1071407020290873782">"عدد المكالمات الصادرة المخفية"</string>
-    <string name="sum_show_caller_id" msgid="6768534125447290401">"عدد المكالمات الصادرة الغير مخفية"</string>
-    <string name="sum_default_caller_id" msgid="1954518825510901365">"ضبط إظهار رقم هاتفي في المكالمات الصادرة"</string>
+    <string name="sum_hide_caller_id" msgid="1071407020290873782">"إخفاء الرقم في المكالمات الصادرة"</string>
+    <string name="sum_show_caller_id" msgid="6768534125447290401">"إظهار الرقم في المكالمات الصادرة"</string>
+    <string name="sum_default_caller_id" msgid="1954518825510901365">"استخدم إعدادت مشغل الشبكة في إظهار رقم هاتفي في المكالمات الصادرة"</string>
     <string name="labelCW" msgid="6120513814915920200">"انتظار المكالمات"</string>
-    <string name="sum_cw_enabled" msgid="8083061901633671397">"تفعيل اشعار المكالمات الواردة"</string>
-    <string name="sum_cw_disabled" msgid="3648693907300104575">"ابطال تفعيل المكالمات الواردة"</string>
+    <string name="sum_cw_enabled" msgid="8083061901633671397">"خلال المكالمة، نبهني بالمكالمات الواردة"</string>
+    <string name="sum_cw_disabled" msgid="3648693907300104575">"خلال المكالمة، نبهني بالمكالمات الواردة"</string>
     <string name="call_forwarding_settings" msgid="3378927671091537173">"ضبط تحويل المكالمات"</string>
     <string name="labelCF" msgid="2574386948026924737">"تحويل المكالمات"</string>
     <string name="labelCFU" msgid="8147177368148660600">"التحويل دائما"</string>
     <string name="messageCFU" msgid="3560082430662923687">"استخدم دوما هذا الرقم"</string>
     <string name="sum_cfu_enabled_indicator" msgid="4014187342724130197">"تحويل جميع المكالمات"</string>
-    <string name="sum_cfu_enabled" msgid="956178654350554451">"{0} تحويل جميع المكالمات للرقم"</string>
+    <string name="sum_cfu_enabled" msgid="956178654350554451">"{0} تحويل جميع المكالمات إلى"</string>
     <string name="sum_cfu_enabled_no_number" msgid="6591985777096823616">"الرقم غير متوفر"</string>
-    <string name="sum_cfu_disabled" msgid="3698472522160364904">"قبول"</string>
+    <string name="sum_cfu_disabled" msgid="3698472522160364904">"معطل"</string>
     <string name="labelCFB" msgid="218938523102207587">"تحويل المكالمة إذا كان الخط مشغول"</string>
     <string name="messageCFB" msgid="3711089705936187129">"الرقم مشغول"</string>
-    <string name="sum_cfb_enabled" msgid="2501948432392255856">"   {0} رقم التحويل "</string>
-    <string name="sum_cfb_disabled" msgid="227440009979537651">"قبول"</string>
-    <string name="disable_cfb_forbidden" msgid="4524424437001441832">"هاتفك المحمول لا يدعم تحويل المكالمات عندما يكون الخط مشغول"</string>
-    <string name="labelCFNRy" msgid="3646316323834351390">"تحويل إذا لم تتم الاجابة"</string>
-    <string name="messageCFNRy" msgid="672317899884380374">"الرقم إذا لم تتم الاجابة"</string>
-    <string name="sum_cfnry_enabled" msgid="3473526018876802076">" {0} رقم التحويل"</string>
-    <string name="sum_cfnry_disabled" msgid="8422350929957344729">"قبول"</string>
-    <string name="disable_cfnry_forbidden" msgid="7041605706777677935">"هاتفك المحمول لا يدعم تحويل المكالمات عندما لا تتم الاجابة"</string>
-    <string name="labelCFNRc" msgid="47183615370850000">"التحويل إذا لم يمكن الوصول"</string>
-    <string name="messageCFNRc" msgid="6380695421020295119">"عدد المكالمات التي لم يمكن الوصول"</string>
+    <string name="sum_cfb_enabled" msgid="2501948432392255856">"   {0} إلى التحويل "</string>
+    <string name="sum_cfb_disabled" msgid="227440009979537651">"معطل"</string>
+    <string name="disable_cfb_forbidden" msgid="4524424437001441832">"مشغل الشبكة لديك لا يدعم إيقاف تحويل المكالمات عندما يكون الهاتف مشغولا"</string>
+    <string name="labelCFNRy" msgid="3646316323834351390">"تحويل عند عدم الرد"</string>
+    <string name="messageCFNRy" msgid="672317899884380374">"الرقم إذا لم يتم الرد"</string>
+    <string name="sum_cfnry_enabled" msgid="3473526018876802076">" {0} إلى التحويل"</string>
+    <string name="sum_cfnry_disabled" msgid="8422350929957344729">"معطل"</string>
+    <string name="disable_cfnry_forbidden" msgid="7041605706777677935">"مشغل الشبكة لديك لا يدعم إيقاف تحويل المكالمات عندما لا يرد على الهاتف"</string>
+    <string name="labelCFNRc" msgid="47183615370850000">"التحويل إذا كان خارج التغطية"</string>
+    <string name="messageCFNRc" msgid="6380695421020295119">"الرقم خارج التغطية"</string>
     <string name="sum_cfnrc_enabled" msgid="3528648673654636587">" {0} التحويل إلى"</string>
-    <string name="sum_cfnrc_disabled" msgid="7222141261321276464">"قبول"</string>
-    <string name="disable_cfnrc_forbidden" msgid="1093527570652781997">"هاتفك المحمول لا دعم تحويل المكالمات عندما لا يتم الوصول اليه"</string>
+    <string name="sum_cfnrc_disabled" msgid="7222141261321276464">"معطل"</string>
+    <string name="disable_cfnrc_forbidden" msgid="1093527570652781997">"مشغل الشبكة لديك لا يدعم إيقاف تحويل المكالمات عندما لا يكون الهاتف خارج التغطية"</string>
     <string name="updating_title" msgid="6146755386174019046">"ضبط المكالمات"</string>
-    <string name="error_updating_title" msgid="7970259216988931777">"خطأ في تحديث العنوان"</string>
-    <string name="reading_settings" msgid="1920291699287055284">"قراءة الاعدادات..."</string>
-    <string name="updating_settings" msgid="8171225533884883252">"تحديث الاعدادات..."</string>
-    <string name="reverting_settings" msgid="4752151682666912828">"العودة للإعدادات..."</string>
-    <string name="response_error" msgid="6674110501330139405">"خطأ في الاستجابة."</string>
-    <string name="exception_error" msgid="7027667130619518211">"خطأ في الشبكة أو في SIM"</string>
-    <string name="radio_off_error" msgid="6717116288405111269">"تنشيط إشارة الخلوي لعرض هذه الاعدادات"</string>
+    <string name="error_updating_title" msgid="7970259216988931777">"خطأ في ضبط المكالمات"</string>
+    <string name="reading_settings" msgid="1920291699287055284">"قراءة الإعدادات\u2026"</string>
+    <string name="updating_settings" msgid="8171225533884883252">"تحديث الإعدادات\u2026"</string>
+    <string name="reverting_settings" msgid="4752151682666912828">"العودة إلى الإعدادات السابقة\u2026"</string>
+    <string name="response_error" msgid="6674110501330139405">"رد غير متوقع من الشبكة."</string>
+    <string name="exception_error" msgid="7027667130619518211">"خطأ في الشبكة أو في شريحة SIM"</string>
+    <string name="radio_off_error" msgid="6717116288405111269">"قم بتنشيط إشارة الهوائي لعرض هذه الاعدادات"</string>
     <string name="close_dialog" msgid="2365884406356986917">"موافق"</string>
     <string name="enable" msgid="1059008390636773574">"تمكين"</string>
     <string name="disable" msgid="7274240979164762320">"تعطيل"</string>
-    <string name="change_num" msgid="239476305819844391">"تغيير الاسم"</string>
+    <string name="change_num" msgid="239476305819844391">"تحديث"</string>
     <string-array name="clir_display_values">
-        <item msgid="5560134294467334594">"Rete predefinita"</item>
-        <item msgid="7876195870037833661">"Nascondi numero"</item>
-        <item msgid="1108394741608734023">"Mostra numero"</item>
+        <item msgid="5560134294467334594">"إعداد الشبكة الافتراضي"</item>
+        <item msgid="7876195870037833661">"إخفاء الرقم"</item>
+        <item msgid="1108394741608734023">"إظهار الرقم"</item>
     </string-array>
-    <string name="vm_save_number" msgid="4579969432544566719">"حفظ الرقم"</string>
-    <string name="vm_changed" msgid="380744030726254139">"تغيير"</string>
-    <string name="vm_change_failed" msgid="6912718596496220653">"فشل التغيير"</string>
-    <string name="fw_change_failed" msgid="4437005899675054038">"فشل التغيير"</string>
-    <string name="fw_get_in_vm_failed" msgid="6776365552098929353">"Recupero e salvataggio impostazioni numero di deviazione attuale non riusciti."\n"Passare comunque al nuovo provider?"</string>
+    <string name="vm_save_number" msgid="4579969432544566719">"حفظ رقم البريد الصوتي"</string>
+    <string name="vm_changed" msgid="380744030726254139">"تم تغيير رقم البريد الصوتي"</string>
+    <string name="vm_change_failed" msgid="6912718596496220653">"فشل تغيير رقم البريد الصوتي، فضلا خاطب موفر الخدمة في حال استمرار المشكلة."</string>
+    <string name="fw_change_failed" msgid="4437005899675054038">"فشل تغيير رقم تحويل المكالمات، فضلا خاطب موفر الخدمة في حال استمرار المشكلة."</string>
+    <string name="fw_get_in_vm_failed" msgid="6776365552098929353">"فشل في جلب وتخزين إعدادات رقم تحويل المكالمات."\n"هل تريد أن تنتقل إلى مقدم جديد على كل حال؟"</string>
     <string name="no_change" msgid="3186040086622435212">"لا تغيير"</string>
     <string name="sum_voicemail_choose_provider" msgid="59911196126278922">"اختيار خدمة البريد الصوتي"</string>
     <string name="voicemail_default" msgid="5902099213882352338">"البريد الصوتي الافتراضي"</string>
-    <string name="mobile_networks" msgid="5540397602919106177">"شبكات الهاتف"</string>
-    <string name="label_available" msgid="1181658289009300430">"الشبكات المتوفرة"</string>
-    <string name="load_networks_progress" msgid="5230707536168902952">"بحث..."</string>
+    <string name="mobile_networks" msgid="5540397602919106177">"إعدادت شبكات الهاتف"</string>
+    <string name="label_available" msgid="1181658289009300430">"الشبكات المتاحة"</string>
+    <string name="load_networks_progress" msgid="5230707536168902952">"بحث...\u2026"</string>
     <string name="empty_networks_list" msgid="4249426905018815316">"لم يتم العثور على شبكات"</string>
     <string name="search_networks" msgid="1601136049300882441">"البحث عن شبكات"</string>
-    <string name="network_query_error" msgid="6828516148953325006">"خطأعند البحث عن شبكات"</string>
-    <string name="register_on_network" msgid="9055203954040805084">"التسجيل في الشبكة..."
+    <string name="network_query_error" msgid="6828516148953325006">"خطأ عند البحث عن شبكات"</string>
+    <string name="register_on_network" msgid="9055203954040805084">"التسجيل في الشبكة... <xliff:g id="network">%s</xliff:g>\u2026
     </string>
     <string name="not_allowed" msgid="3540496123717833833">"بطاقة SIM لا تسمح بالربط مع هذه الشبكة"</string>
     <string name="connect_later" msgid="500090982903469816">"غير قادر على الاتصال بهذه الشبكة الآن .. يرجى المحاولة مرة أخرى"</string>
@@ -516,7 +516,7 @@
     <string name="onscreenHideDialpadText" msgid="2572388822571686252">"إخفاء الارقام"</string>
     <string name="onscreenSpeakerText" msgid="9013795366801657948">"مكبر الصوت"</string>
     <string name="onscreenMuteText" msgid="5011369181754261374">"تصميت"</string>
-    <string name="onscreenBluetoothText" msgid="2479639597725504499">"Bluetooth"</string>
+    <string name="onscreenBluetoothText" msgid="2479639597725504499">"بلوتوث"</string>
     <string name="onscreenAddCallText" msgid="5140385634712287403">"إضافة مكالمة"</string>
     <string name="onscreenMergeCallsText" msgid="6640195098064538950">"دمج المكالمات"</string>
     <string name="onscreenSwapCallsText" msgid="1602990689244030047">"سحب المكالمات"</string>
@@ -534,115 +534,115 @@
         <item msgid="1937509904407445684">"TTY HCO"</item>
         <item msgid="5644925873488772224">"TTY VCO"</item>
     </string-array>
-    <string name="eri_text_label" msgid="4326942349915331461">"Testo ERI"</string>
-    <string name="dtmf_tones_title" msgid="3866923093113274152">"Toni DTMF"</string>
-    <string name="dtmf_tones_summary" msgid="3351820372864020331">"Imposta la lunghezza dei toni DTMF"</string>
+    <string name="eri_text_label" msgid="4326942349915331461">"نص ERI"</string>
+    <string name="dtmf_tones_title" msgid="3866923093113274152">"نغمات الاتصال في الهاتف"</string>
+    <string name="dtmf_tones_summary" msgid="3351820372864020331">"حدد طول نغمات الاتصال في الهاتف"</string>
     <string-array name="dtmf_tone_entries">
-        <item msgid="899650777817315681">"Normali"</item>
-        <item msgid="2883365539347850535">"Lunghi"</item>
+        <item msgid="899650777817315681">"عادي"</item>
+        <item msgid="2883365539347850535">"طويل"</item>
     </string-array>
     <string name="network_message" msgid="5673682885938122239">"رسالة الشبكة"</string>
-    <string name="ota_title_activate" msgid="8616918561356194398">"Attiva il telefono"</string>
-    <string name="ota_touch_activate" msgid="6553212803262586244">"È necessario effettuare una chiamata speciale per attivare il servizio telefonico. "\n\n"Dopo avere premuto \"Attiva\", ascolta le istruzioni fornite per attivare il telefono."</string>
-    <string name="ota_touch_activate_new" msgid="4508197891732183852">"Tocca \"Attiva\" per effettuare una chiamata speciale che attiva il telefono sulla rete cellulare del tuo gestore, in modo da poter effettuare chiamate e poterti connettere a reti di dati mobili."</string>
-    <string name="ota_skip_activation_dialog_title" msgid="2943366608272261306">"Saltare l\'attivazione?"</string>
-    <string name="ota_skip_activation_dialog_message" msgid="2440770373498870550">"Se salti l\'attivazione, non potrai effettuare chiamate o connetterti a reti di dati mobili (ma potrai connetterti a reti Wi-Fi). Finché non attiverai il telefono, ti verrà chiesto di attivarlo ogni volta che lo accendi."</string>
-    <string name="ota_skip_activation_dialog_skip_label" msgid="3458532775091563208">"Salta"</string>
-    <string name="ota_skip_activation_dialog_continue_label" msgid="4343765820509664362">"Attiva"</string>
-    <string name="ota_activate" msgid="1368528132525626264">"Attiva"</string>
-    <string name="ota_title_activate_success" msgid="3344632328991980578">"Il telefono è attivo."</string>
-    <string name="ota_title_problem_with_activation" msgid="7095824491970084367">"Problema con l\'attivazione"</string>
-    <string name="ota_listen" msgid="162923839877584937">"Segui le istruzioni vocali fino al segnale di attivazione completata."</string>
-    <string name="ota_dialpad" msgid="3530900997110658409">"Tastierino"</string>
-    <string name="ota_speaker" msgid="6904589278542719647">"المكبر الصوتي"</string>
-    <string name="ota_progress" msgid="4644512049143969504">"تقدم التحديث السحابي"</string>
-    <string name="ota_failure" msgid="8600027551822478181">"Programmazione non riuscita"</string>
-    <string name="ota_successful" msgid="1880780692887077407">"Il telefono è attivo. L\'avvio del servizio potrebbe richiedere fino a 15 minuti."</string>
-    <string name="ota_unsuccessful" msgid="623361244652068739">"Il telefono non è stato attivato. "\n"Potrebbe essere necessario trovare una zona con copertura migliore (vicino a una finestra o all\'esterno). "\n\n"Riprova o contatta l\'assistenza tecnica per conoscere altre soluzioni."</string>
-    <string name="ota_spc_failure" msgid="3909983542575030796">"TROPPI ERRORI SPC"</string>
-    <string name="ota_call_end" msgid="4537279738134612388">"Indietro"</string>
-    <string name="ota_try_again" msgid="7685477206465902290">"Riprova"</string>
-    <string name="ota_next" msgid="3904945374358235910">"Avanti"</string>
-    <string name="ota_back" msgid="2190038043403850052">"Indietro"</string>
-    <string name="ecm_exit_dialog" msgid="4448531867763097533">"EcmExitDialog"</string>
-    <string name="phone_entered_ecm_text" msgid="6266424252578731203">"Modalità di richiamata di emergenza attivata"</string>
-    <string name="phone_in_ecm_notification_title" msgid="3226896828951687085">"Modalità di richiamata di emergenza"</string>
-    <string name="phone_in_ecm_call_notification_text" msgid="4611608947314729773">"Connessione dati disabilitata"</string>
+    <string name="ota_title_activate" msgid="8616918561356194398">"قم بتفعيل هاتفك"</string>
+    <string name="ota_touch_activate" msgid="6553212803262586244">"مكالمة خاصة يجب أن تنفذ لتفعيل خدمة الهاتف لديك. "\n\n"بعد أن تضغط على \"Activate\", استمع إلى التعليمات لتفعيل هاتفك."</string>
+    <string name="ota_touch_activate_new" msgid="4508197891732183852">"المس \"Activate\" للقيام بمكالمة خاصة تقوم بتفعيل هاتفك على شبكة الهاتف، لتستطيع عمل مكالمات والاتصال بشبكات البيانات المحمولة."</string>
+    <string name="ota_skip_activation_dialog_title" msgid="2943366608272261306">"هل تريد تخطي التفعيل؟"</string>
+    <string name="ota_skip_activation_dialog_message" msgid="2440770373498870550">"إذا تخطيت عملية التفعيل فلن تستطيع عمل مكالمات أوالاتصال بشبكات البيانات المحمولة (لكن تستطيع الاتصال بـwifi). إلى أن تفعل الهاتف سوف يطلب منك تفعيله في كل مرة تقوم بتشغيله."</string>
+    <string name="ota_skip_activation_dialog_skip_label" msgid="3458532775091563208">"تخطي"</string>
+    <string name="ota_skip_activation_dialog_continue_label" msgid="4343765820509664362">"تفعيل"</string>
+    <string name="ota_activate" msgid="1368528132525626264">"تفعيل"</string>
+    <string name="ota_title_activate_success" msgid="3344632328991980578">"تم تفعيل الهاتف."</string>
+    <string name="ota_title_problem_with_activation" msgid="7095824491970084367">"مشكلة في التفعيل"</string>
+    <string name="ota_listen" msgid="162923839877584937">"اتبع التعليمات الصوتية إلى أن يتم إخبارك بانتهاء التفعيل."</string>
+    <string name="ota_dialpad" msgid="3530900997110658409">"لوحة المفاتيح"</string>
+    <string name="ota_speaker" msgid="6904589278542719647">"السماعة"</string>
+    <string name="ota_progress" msgid="4644512049143969504">"الرجاء الانتظار ريثما تتم برمجة هاتفك."</string>
+    <string name="ota_failure" msgid="8600027551822478181">"فشلت برمجة الهاتف"</string>
+    <string name="ota_successful" msgid="1880780692887077407">"هاتفك مفعل الآن، قد يستغرق بدء الخدمة 15 دقيقة."</string>
+    <string name="ota_unsuccessful" msgid="623361244652068739">"لم يتم تفعيل هاتفك. "\n"ربما تحتاج إلى أن تجد منطقة ذات تغطية أفضل (قرب النافذة أو في الخارج). "\n\n"حاول ثانية أو اتصل بخدمة العملاء لخيارات أكثر."</string>
+    <string name="ota_spc_failure" msgid="3909983542575030796">"EXCESS SPC FAILURES"</string>
+    <string name="ota_call_end" msgid="4537279738134612388">"السابق"</string>
+    <string name="ota_try_again" msgid="7685477206465902290">"حاول ثانية"</string>
+    <string name="ota_next" msgid="3904945374358235910">"التالي"</string>
+    <string name="ota_back" msgid="2190038043403850052">"السابق"</string>
+    <string name="ecm_exit_dialog" msgid="4448531867763097533">"إنهاء وضع الطوارئ"</string>
+    <string name="phone_entered_ecm_text" msgid="6266424252578731203">"تم دخول وضع رد الاتصال في حالات الطوارئ"</string>
+    <string name="phone_in_ecm_notification_title" msgid="3226896828951687085">"وضع رد الاتصال في حالات الطوارئ"</string>
+    <string name="phone_in_ecm_call_notification_text" msgid="4611608947314729773">"تم إيقاف اتصال البيانات"</string>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="one" msgid="4866221796252472622">"Nessuna connessione dati per <xliff:g id="COUNT">%s</xliff:g> minuto"
+        <item quantity="one" msgid="4866221796252472622">"لم يوجد اتصال بيانات لمدة <xliff:g id="COUNT">%s</xliff:g> دقيقة"
         </item>
-        <item quantity="other" msgid="3122217344579273583">"Nessuna connessione dati per <xliff:g id="COUNT">%s</xliff:g> minuti"
+        <item quantity="other" msgid="3122217344579273583">"لم يوجد اتصال بيانات لمدة <xliff:g id="COUNT">%s</xliff:g> دقائق"
         </item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="one" msgid="2181569650640386253">"Il telefono sarà in modalità di richiamata di emergenza per <xliff:g id="COUNT">%s</xliff:g> minuto. In questa modalità non è possibile utilizzare alcuna applicazione che richiede una connessione dati. Uscire ora?"
+        <item quantity="one" msgid="2181569650640386253">"الهاتف سيكون في وضع رد الاتصال في حالات الطوارئ لمدة <xliff:g id="COUNT">%s</xliff:g> دقيقة. خلال هذا الوضع لا يمكن استخدام البرامج اللي تتطلب اتصال بيانات، هل تود الخروج الآن؟"
         </item>
-        <item quantity="other" msgid="3231879566243957821">"Il telefono sarà in modalità di richiamata di emergenza per <xliff:g id="COUNT">%s</xliff:g> minuti. In questa modalità non è possibile utilizzare alcuna applicazione che richiede una connessione dati. Uscire ora?"
+        <item quantity="other" msgid="3231879566243957821">"الهاتف سيكون في وضع رد الاتصال في حالات الطوارئ لمدة <xliff:g id="COUNT">%s</xliff:g> دقائق. خلال هذا الوضع لا يمكن استخدام البرامج اللي تتطلب اتصال بيانات، هل تود الخروج الآن؟"
         </item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="one" msgid="8939225905428421722">"L\'azione selezionata non è disponibile in modalità di richiamata di emergenza. Il telefono sarà in questa modalità per <xliff:g id="COUNT">%s</xliff:g> minuto. Uscire ora?"
+        <item quantity="one" msgid="8939225905428421722">"الخيار المحدد غير متوفر في وضع رد الاتصال في حالات الطوارئ، الهاتف سيظل في هذا الوضع لمدة <xliff:g id="COUNT">%s</xliff:g> دقيقة، هل تود الخروج الآن؟"
         </item>
-        <item quantity="other" msgid="3489076611710869904">"L\'azione selezionata non è disponibile in modalità di richiamata di emergenza. Il telefono sarà in questa modalità per <xliff:g id="COUNT">%s</xliff:g> minuti. Uscire ora?"
+        <item quantity="other" msgid="3489076611710869904">"الخيار المحدد غير متوفر في وضع رد الاتصال في حالات الطوارئ، الهاتف سيظل في هذا الوضع لمدة <xliff:g id="COUNT">%s</xliff:g> دقائق، هل تود الخروج الآن؟"
         </item>
     </plurals>
-    <string name="alert_dialog_in_ecm_call" msgid="2334477874583086142">"L\'azione selezionata non è disponibile in modalità di chiamata di emergenza"</string>
-    <string name="progress_dialog_exiting_ecm" msgid="8751952246695857820">"Uscita dalla modalità di richiamata di emergenza in corso"</string>
-    <string name="alert_dialog_yes" msgid="6674268047820703974">"Sì"</string>
-    <string name="alert_dialog_no" msgid="1476091437797628703">"No"</string>
-    <string name="alert_dialog_dismiss" msgid="2491494287075907171">"Ignora"</string>
-    <string name="voicemail_settings" msgid="2288633492587133022">"Impostazioni segreteria"</string>
-    <string name="voicemail_number_not_set" msgid="1604580506447265808">"&lt;non impostato>"</string>
-    <string name="voicemail_provider" msgid="6299679757491942924">"Servizio di segreteria"</string>
-    <string name="voicemail_settings_for" msgid="9018656268027893088">"Impostazioni per <xliff:g id="PROVIDER_NAME">%s</xliff:g>"
+    <string name="alert_dialog_in_ecm_call" msgid="2334477874583086142">"الخيار المحدد غير متوفر أثناء مكالمة طوارئ"</string>
+    <string name="progress_dialog_exiting_ecm" msgid="8751952246695857820">"إنهاء وضع رد الاتصال في حالات الطوارئ</string>
+    <string name="alert_dialog_yes" msgid="6674268047820703974">"نعم"</string>
+    <string name="alert_dialog_no" msgid="1476091437797628703">"لا"</string>
+    <string name="alert_dialog_dismiss" msgid="2491494287075907171">"رفض"</string>
+    <string name="voicemail_settings" msgid="2288633492587133022">"إعدادات البريد الصوتي"</string>
+    <string name="voicemail_number_not_set" msgid="1604580506447265808">"&lt;غير محدد>"</string>
+    <string name="voicemail_provider" msgid="6299679757491942924">"خدمة البريد الصوتي"</string>
+    <string name="voicemail_settings_for" msgid="9018656268027893088">"إعدادت <xliff:g id="PROVIDER_NAME">%s</xliff:g>"
     </string>
-    <string name="other_settings" msgid="3672912580359716394">"Altre impostazioni chiamate"</string>
-    <string name="dial_button_label" msgid="5551611636419190229">"Componi"</string>
-    <string name="calling_via_template" msgid="7374498518104190489">"Chiamata in corso tramite ^1"\n<b>"^2"</b>
+    <string name="other_settings" msgid="3672912580359716394">"خيارات أخرى"</string>
+    <string name="dial_button_label" msgid="5551611636419190229">"اتصال"</string>
+    <string name="calling_via_template" msgid="7374498518104190489">"الاتصال عن طريق قالب ^1"\n<b>"^2"</b>
     </string>
-    <string name="slide_to_answer" msgid="255903188611244476">"Trascina a destra per rispondere"</string>
-    <string name="slide_to_silence" msgid="2224982696981131553">"Trascina a sinistra per disattivare la suoneria"</string>
-    <string name="slide_to_decline" msgid="7342094219435077069">"Trascina a sinistra per rifiutare"</string>
-    <string name="slide_to_answer_and_hold" msgid="9212596323067601245">"Trascina a destra per rispondere e"\n"mettere in attesa la chiamata attiva"</string>
-    <string name="slide_to_answer_and_end_active" msgid="6473719408670133380">"Trascina a destra per rispondere e"\n"terminare la chiamata attiva"</string>
-    <string name="slide_to_answer_and_end_onhold" msgid="638748048960663506">"Trascina a destra per rispondere e"\n"terminare la chiamata in attesa"</string>
-    <string name="slide_to_answer_hint" msgid="4901042355463593903">"Risposta"</string>
-    <string name="slide_to_decline_hint" msgid="4484576372463030324">"Rifiuta"</string>
+    <string name="slide_to_answer" msgid="255903188611244476">"انزلق يمينا للرد"</string>
+    <string name="slide_to_silence" msgid="2224982696981131553">"انزلق يسارا لإيقاف الرنين"</string>
+    <string name="slide_to_decline" msgid="7342094219435077069">"انزلق يسارا لرفض المكالمة"</string>
+    <string name="slide_to_answer_and_hold" msgid="9212596323067601245">"انزلق يمينا للرد"\n"و جعل المكالمة الحالية في وضع الانتظار"</string>
+    <string name="slide_to_answer_and_end_active" msgid="6473719408670133380">"انزلق يمينا للرد"\n"و أنه المكالمة الحالية"</string>
+    <string name="slide_to_answer_and_end_onhold" msgid="638748048960663506">"انزلق يمينا للرد"\n"و أنه المكالمة المنتظرة"</string>
+    <string name="slide_to_answer_hint" msgid="4901042355463593903">"رد"</string>
+    <string name="slide_to_decline_hint" msgid="4484576372463030324">"رفض"</string>
     <!-- added by cytown@gmail.com -->
-    <string name="notification_ongoing_calling_format">Chiamata (<xliff:g id="duration">%s</xliff:g>)
+    <string name="notification_ongoing_calling_format">جاري الاتصال (<xliff:g id="duration">%s</xliff:g>)
     </string>
-    <string name="advanced_setting">Impostazioni avanzate v.30.1</string>
-    <string name="vibrate_outgoing">Vibra alla risposta</string>
-    <string name="vibrate_outgoing_sum">Vibra quando rispondi a una chiamata</string>
-    <string name="vibrate_45">Vibra ogni 45 sec</string>
-    <string name="vibrate_45_sum">Vibra ogni 45 secondi durante le chiamate in uscita</string>
-    <string name="vibrate_hangup">Vibra al termine</string>
-    <string name="vibrate_hangup_sum">Vibra quando termini una chiamata</string>
-    <string name="vibrate_call_waiting">Vibra quando in attesa</string>
-    <string name="vibrate_call_waiting_sum">Vibra quando c\'è una chiamata in attesa</string>
-    <string name="screen_awake">Tieni lo schermo acceso</string>
-    <string name="screen_awake_sum">Lo schermo restera acceso più del normale durante una chiamata</string>
-    <string name="return_home">Ritorno elenco chiamate</string>
-    <string name="return_home_sum">Forza il ritorno all\'elenco delle chiamate dopo che termini una chiamata</string>
-    <string name="led_notify_call">Led di notifica</string>
-    <string name="led_notify_call_sum">Il Led lampeggia in presenza di una chiamata persa</string>
-    <string name="led_show_organ">Visualizza organizzazioni</string>
-    <string name="led_show_organ_sum">Le organizzazioni saranno visualizzate nella schermata delle chiamate</string>
-    <string name="menu_addBlackList">Aggiungi ai Contatti Bloccati</string>
-    <string name="black_list">Contatti Bloccati</string>
-    <string name="black_list_sum">Le chiamate in arrivo dai contatti bloccati verranno rifiutate</string>
-    <string name="add_black">Aggiungi numero di telefono</string>
-    <string name="remove_black">Rimuovi %s dall\'elenco</string>
-    <string name="turn_silence">Gira per disatt. suoneria</string>
-    <string name="turn_silence_sum">Gira il telefono per disattivare la suoneria quando ricevi una chiamata</string>
-    <string name="left_hand">Usa mano sinistra</string>
-    <string name="left_hand_sum">Usa la mano sinistra per tenere il telefono, richiede riavvio.</string>
-    <string name="set_force_touch">Forza Tastiera Touch</string>
-    <string name="set_force_touch_sum">Forza la visualizzazione del Touch UI senza individuare il sensore di prossimità</string>
+    <string name="advanced_setting">إعدادات متقدمة v.30.1</string>
+    <string name="vibrate_outgoing">الاهتزاز عند الرد</string>
+    <string name="vibrate_outgoing_sum">تشغيل الهزاز عند الرد على المكالمة</string>
+    <string name="vibrate_45">الاهتزاز كل 45 ثانية</string>
+    <string name="vibrate_45_sum">تشغيل الهزاز كل 45 ثانية في المكالمات الصادرة</string>
+    <string name="vibrate_hangup">الاهتزاز عند إغلاق الخط</string>
+    <string name="vibrate_hangup_sum">تشغيل الهزاز عندما تنتهي المكالمة</string>
+    <string name="vibrate_call_waiting">الاهتزاز عند الانتظار</string>
+    <string name="vibrate_call_waiting_sum">تشغيل الهزاز عند انتظار مكالمة</string>
+    <string name="screen_awake">الحفاظ على يقظة الشاشة</string>
+    <string name="screen_awake_sum">الشاشة سوف تظل يقظة مدة أطول خلال الاتصال</string>
+    <string name="return_home">العودة دائما إلى سجل المكالمات</string>
+    <string name="return_home_sum">فرض العودة إلى سجل المكالمات بعد نهاية المكالمة</string>
+    <string name="led_notify_call">تنبيه LED للمكالمات الفائتة</string>
+    <string name="led_notify_call_sum">عندما تفوت مكالمة LED وميض</string>
+    <string name="led_show_organ">عرض اللقب/المنظمة</string>
+    <string name="led_show_organ_sum">اللقب/المنظمة سوف يعرض في شاشة الاتصال</string>
+    <string name="menu_addBlackList">أضف إلى قائمة الحظر</string>
+    <string name="black_list">قائمة الحظر</string>
+    <string name="black_list_sum">المكلمات الواردة من قائمة الحضر سوف ترفض.</string>
+    <string name="add_black">أضف رقم هاتف</string>
+    <string name="remove_black">احذف %s من القائمة</string>
+    <string name="turn_silence">حول إلى صامت</string>
+    <string name="turn_silence_sum">حول وضع نغمة الرنين إلى الصامت</string>
+    <string name="left_hand">وضع اليد اليسرى</string>
+    <string name="left_hand_sum">استخدم يدك اليسرى لحمل الهاتف، يحتاج لإعادة تشغيل كي يعمل.</string>
+    <string name="set_force_touch">واجهة اللمس أثناء الاتصال</string>
+    <string name="set_force_touch_sum">فرض واجهة اللمس بدون مستشعر المكان</string>
     <!-- Use this as a default to describe the contact photo; currently for screen readers through accessibility. -->
-    <string name="contactPhoto">foto contatto</string>
+    <string name="contactPhoto">صورة جهة الاتصال</string>
     <!-- Use this to describe the separate conference call button; currently for screen readers through accessibility. -->
-    <string name="goPrivate">vai in privato</string>
+    <string name="goPrivate">وضع خاص</string>
     <!--  Use this to describe the select contact button in EditPhoneNumberPreference; currently for screen readers through accessibility. -->
-    <string name="selectContact">seleziona contatto</string>
+    <string name="selectContact">اختر جهة اتصال</string>
 </resources>
