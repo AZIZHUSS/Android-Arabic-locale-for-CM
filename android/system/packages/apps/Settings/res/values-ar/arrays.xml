@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
 /*
 **
 ** Copyright 2007 The Android Open Source Project
@@ -16,156 +16,389 @@
 ** See the License for the specific language governing permissions and
 ** limitations under the License.
 */
- -->
-
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="incorrect_delay_entries">
+    <item>No delay</item>
+    <item>0.5 seconds</item>
+    <item>1 second</item>
+    <item>1.5 seconds</item>
+    <item>2 seconds</item>
+  </string-array>
+  <string-array name="incorrect_delay_values">
+    <item>0</item>
+    <item>500</item>
+    <item>1000</item>
+    <item>1500</item>
+    <item>2000</item>
+  </string-array>
+  <!-- Choices for timezone picker first level.
+         These values will be used as search terms for TimeZone displayName
+         strings. -->
+  <skip />
+  <!-- The time zone picker screen has two levels.  The first level allows the user to choose a region. -->
   <string-array name="timezone_filters">
-    <item msgid="5296756001147094692">"America"</item>
-    <item msgid="3005562397632768392">"Europa"</item>
-    <item msgid="5696915123093701218">"Africa"</item>
-    <item msgid="4439789052790868249">"Asia"</item>
-    <item msgid="956915953069815961">"Australia"</item>
-    <item msgid="5345178126174698955">"Pacifico"</item>
-    <item msgid="8392017019801393511">"Tutte"</item>
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+    <item>امريكا</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+    <item>اوروبا</item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+    <item>افريقيا</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+    <item>اسيا</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+    <item>استراليا</item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+    <item>الباسيفيك</item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+    <item>الجميع</item>
   </string-array>
+  <!-- There is a setting to control the format of dates displayed throughout the system.  This is in the Date & Time Settings screen.  These will be adjusted to use punctuation appropriate to the user's locale. -->
+  <string-array name="date_format_values" translatable="false">
+    <!-- The blank item means to use whatever the locale calls for. -->
+    <item></item>
+    <item>MM-dd-yyyy</item>
+    <item>dd-MM-yyyy</item>
+    <item>yyyy-MM-dd</item>
+  </string-array>
+  <!-- Display settings.  The type of animations to show. -->
   <string-array name="animations_entries">
-    <item msgid="207790005475613429">"Nessuna animazione"</item>
-    <item msgid="6291186755504776720">"Alcune animazioni"</item>
-    <item msgid="3856065399819979491">"Tutte le animazioni"</item>
+    <item>بدون حركة</item>
+    <item>بعض الحركات</item>
+    <item>جميع الحركات</item>
   </string-array>
+  <!-- Display settings.  Summary for each type of animation. -->
   <string-array name="animations_summaries">
-    <item msgid="4569165952409350897">"Non viene visualizzata alcuna animazione delle finestre"</item>
-    <item msgid="4460915688877708508">"Vengono visualizzate alcune animazioni delle finestre"</item>
-    <item msgid="488968798204105119">"Vengono visualizzate tutte le animazioni delle finestre"</item>
+    <item>لاتظهر اي نافذة للحركة</item>
+    <item>بعض نوافذ الحركة تظهر</item>
+    <item>كامل الحركات تظهر</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="animations_values">
+    <!-- Do not translate. -->
+    <item>00</item>
+    <!-- Do not translate. -->
+    <item>01</item>
+    <!-- Do not translate. -->
+    <item>11</item>
+  </string-array>
+  <!-- Display settings.  The delay in inactivity before the screen is turned off. These are shown ain a list dialog. -->
   <string-array name="screen_timeout_entries">
-    <item msgid="3342301044271143016">"15 secondi"</item>
-    <item msgid="8881760709354815449">"30 secondi"</item>
-    <item msgid="7589406073232279088">"1 minuto"</item>
-    <item msgid="7001195990902244174">"2 minuti"</item>
-    <item msgid="5721688686241190620">"10 minuti"</item>
-    <item>5 minuti</item>
-    <item msgid="7156442995039264948">"30 minuti"</item>
+    <item>15 seconds</item>
+    <item>30 seconds</item>
+    <item>1 minute</item>
+    <item>2 minutes</item>
+    <item>5 minutes</item>
+    <item>10 minutes</item>
+    <item>30 minutes</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="screen_timeout_values" translatable="false">
+    <!-- Do not translate. -->
+    <item>15000</item>
+    <!-- Do not translate. -->
+    <item>30000</item>
+    <!-- Do not translate. -->
+    <item>60000</item>
+    <!-- Do not translate. -->
+    <item>120000</item>
+    <!-- Do not translate. -->
+    <item>300000</item>
+    <!-- Do not translate. -->
+    <item>600000</item>
+    <!-- Do not translate. -->
+    <item>1800000</item>
+  </string-array>
+  <!-- TTS settings -->
+  <!-- Default speech rate choices -->
   <string-array name="tts_rate_entries">
-    <item msgid="6041212618892492920">"Molto lenta"</item>
-    <item msgid="2361722960903353554">"Lenta"</item>
-    <item msgid="1145554631248513562">"Normale"</item>
-    <item msgid="7553665153391107454">"Veloce"</item>
-    <item msgid="2538100882620724753">"Molto veloce"</item>
+    <item>Very slow</item>
+    <item>Slow</item>
+    <item>Normal</item>
+    <item>Fast</item>
+    <item>Very fast</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="tts_rate_values">
+    <item>60</item>
+    <item>80</item>
+    <item>100</item>
+    <item>150</item>
+    <item>200</item>
+  </string-array>
+  <!-- Default pitch choices -->
   <string-array name="tts_pitch_entries">
-    <item msgid="7526050907652687351">"Molto basso"</item>
-    <item msgid="2692137425242433765">"Basso"</item>
-    <item msgid="3332408460740717754">"Normale"</item>
-    <item msgid="4907380534957572531">"Alto"</item>
-    <item msgid="4699640516390840297">"Molto alto"</item>
+    <item>Very low</item>
+    <item>Low</item>
+    <item>Normal</item>
+    <item>High</item>
+    <item>Very high</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="tts_pitch_values">
+    <item>50</item>
+    <item>80</item>
+    <item>100</item>
+    <item>120</item>
+    <item>150</item>
+  </string-array>
+  <!-- Default language choices -->
   <string-array name="tts_lang_entries">
-    <item msgid="478030717868306353">"Inglese americano"</item>
-    <item msgid="5192284521396794598">"Inglese britannico"</item>
-    <item msgid="3000262452051711991">"Francese"</item>
-    <item msgid="9214080387341763401">"Tedesco"</item>
-    <item msgid="5972100016440094433">"Italiano"</item>
-    <item msgid="5811378076054402537">"Spagnolo"</item>
+    <item>American English</item>
+    <item>British English</item>
+    <item>French</item>
+    <item>German</item>
+    <item>Italian</item>
+    <item>Spanish</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="tts_lang_values">
+    <item>eng-USA</item>
+    <item>eng-GBR</item>
+    <item>fra-FRA</item>
+    <item>deu-DEU</item>
+    <item>ita-ITA</item>
+    <item>spa-ESP</item>
+  </string-array>
+  <!-- Do not translate. -->
+  <string-array name="tts_demo_strings">
+    <item>This is an example of speech synthesis in English.</item>
+    <item>This is an example of speech synthesis in English.</item>
+    <item>Voici un échantillon de synthèse vocale en français.</item>
+    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+    <item>Questo è un esempio di sintesi vocale in italiano.</item>
+    <item>Este es un ejemplo de síntesis de voz en español.</item>
+  </string-array>
+  <!-- Do not translate. -->
+  <string-array name="tts_engine_entries">
+    <item>Pico TTS</item>
+  </string-array>
+  <!-- Do not translate. -->
+  <string-array name="tts_engine_values">
+    <item>com.svox.pico</item>
+  </string-array>
+  <!-- Wi-Fi settings -->
+  <!-- Match this with the order of NetworkInfo.DetailedState. -->
+  <skip />
+  <!-- Wi-Fi settings. The status messages when the network is unknown. -->
   <string-array name="wifi_status">
-    <item msgid="1922181315419294640"></item>
-    <item msgid="8934131797783724664">"Ricerca in corso..."</item>
-    <item msgid="8513729475867537913">"Connessione in corso..."</item>
-    <item msgid="515055375277271756">"Autenticazione in corso..."</item>
-    <item msgid="1943354004029184381">"Acquisizione indirizzo IP in corso..."</item>
-    <item msgid="4221763391123233270">"Connessa"</item>
-    <item msgid="624838831631122137">"Sospesa"</item>
-    <item msgid="7979680559596111948">"Disconnessione in corso..."</item>
-    <item msgid="1634960474403853625">"Disconnessa"</item>
-    <item msgid="746097431216080650">"Operazione non riuscita"</item>
+    <!-- Status message of Wi-Fi when it is idle. -->
+    <item></item>
+    <!-- Status message of Wi-Fi when it is scanning. -->
+    <item>البحث\u2026</item>
+    <!-- Status message of Wi-Fi when it is connecting. -->
+    <item>يتم الاتصال\u2026</item>
+    <!-- Status message of Wi-Fi when it is authenticating. -->
+    <item>التحقق من كلمة المرور\u2026</item>
+    <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+    <item>الحصول على عنوان\u2026</item>
+    <!-- Status message of Wi-Fi when it is connected. -->
+    <item>متصل</item>
+    <!-- Status message of Wi-Fi when it is suspended. -->
+    <item>معلقة</item>
+    <!-- Status message of Wi-Fi when it is disconnecting. -->
+    <item>قطع الاتصال\u2026</item>
+    <!-- Status message of Wi-Fi when it is disconnected. -->
+    <item>غير متصل</item>
+    <!-- Status message of Wi-Fi when it is a failure. -->
+    <item>غير ناجحة</item>
   </string-array>
+  <!-- Match this with the order of NetworkInfo.DetailedState. -->
+  <skip />
+  <!-- Wi-Fi settings. The status messages when the network is known. -->
   <string-array name="wifi_status_with_ssid">
-    <item msgid="7714855332363650812"></item>
-    <item msgid="8878186979715711006">"Ricerca in corso..."</item>
-    <item msgid="355508996603873860">"Connessione a <xliff:g id="NETWORK_NAME">%1$s</xliff:g> in corso..."</item>
-    <item msgid="554971459996405634">"Autenticazione con <xliff:g id="NETWORK_NAME">%1$s</xliff:g> in corso..."</item>
-    <item msgid="7928343808033020343">"Acquisizione indirizzo IP da <xliff:g id="NETWORK_NAME">%1$s</xliff:g> in corso..."</item>
-    <item msgid="8937994881315223448">"Connessa a <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
-    <item msgid="1330262655415760617">"Sospesa"</item>
-    <item msgid="7698638434317271902">"Disconnessione da <xliff:g id="NETWORK_NAME">%1$s</xliff:g> in corso..."</item>
-    <item msgid="197508606402264311">"Disconnessa"</item>
-    <item msgid="8578370891960825148">"Operazione non riuscita"</item>
+    <!-- Status message of Wi-Fi when it is idle. -->
+    <item></item>
+    <!-- Status message of Wi-Fi when it is scanning. -->
+    <item>البحث\u2026</item>
+    <!-- Status message of Wi-Fi when it is connecting to a network. -->
+    <item>الاتصال بـ<xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+    <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+    <item>الارتباط بع<xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+    <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+    <item>الحصول على عنوان من<xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+    <!-- Status message of Wi-Fi when it is connected to a network. -->
+    <item>متصل بـ<xliff:g id="network_name">%1$s</xliff:g></item>
+    <!-- Status message of Wi-Fi when it is suspended. -->
+    <item>معلقة</item>
+    <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+    <item>قطع الاتصال من<xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+    <!-- Status message of Wi-Fi when it is disconnected. -->
+    <item>قطع الاتصال</item>
+    <!-- Status message of Wi-Fi when it is a failure. -->
+    <item>غير ناجحة</item>
   </string-array>
+  <!-- Match this with the constants in AccessPoint. -->
+  <skip />
+  <!-- Wi-Fi settings.  The type of security a Wi-Fi network has. -->
   <string-array name="wifi_security">
-    <item msgid="1435933968767043814">"Aperta"</item>
-    <item msgid="6318432659048829665">"WEP"</item>
-    <item msgid="2966395706508338179">"WPA/WPA2 PSK"</item>
-    <item msgid="9098390198768443435">"802.1x EAP"</item>
+    <!-- The Wi-Fi network does not have any security. -->
+    <item>مفتوحة</item>
+    <!-- Do not translate. -->
+    <item>WEP</item>
+    <!-- Do not translate. -->
+    <item>WPA/WPA2 PSK</item>
+    <!-- Do not translate. -->
+    <item>802.1x EAP</item>
   </string-array>
+  <!-- Wi-Fi AP settings.  The type of security a Wi-Fi AP supports. -->
+  <!-- Note that adding/removing/moving the items will need wifi settings code change. -->
+  <string-array name="wifi_ap_security" translatable="false">
+    <item>مفتوحة</item>
+    <!-- Do not translate. -->
+    <item>WPA2 PSK</item>
+  </string-array>
+  <!-- Match this with the constants in WifiDialog. -->
+  <skip />
+  <!-- Wi-Fi settings.  The type of EAP method a Wi-Fi network has. -->
   <string-array name="wifi_eap_method">
-    <item msgid="1160193392455075561">"PEAP"</item>
-    <item msgid="7981731051382306293">"TLS"</item>
-    <item msgid="2892994535305020162">"TTLS"</item>
+    <!-- Do not translate. -->
+    <item>PEAP</item>
+    <!-- Do not translate. -->
+    <item>TLS</item>
+    <!-- Do not translate. -->
+    <item>TTLS</item>
   </string-array>
+  <!-- Match this with drawable.wifi_signal. -->
+  <skip />
+  <!-- Wi-Fi settings. The signal strength a Wi-Fi network has. -->
   <string-array name="wifi_signal">
-    <item msgid="2245412278046491293">"Scadente"</item>
-    <item msgid="5615082285463430971">"Discreta"</item>
-    <item msgid="3565079809875324621">"Buona"</item>
-    <item msgid="5702329417707689835">"Eccellente"</item>
+    <item>ضعيفة</item>
+    <item>مقبولة</item>
+    <item>جيدة</item>
+    <item>ممتازة</item>
   </string-array>
+  <!-- Wi-Fi settings. Presented as a list dialog to the user to choose the Wi-Fi sleep policy. -->
   <string-array name="wifi_sleep_policy_entries">
-    <item msgid="3804733751095821976">"Quando lo schermo si disattiva"</item>
-    <item msgid="1549288661423279207">"Mai quando collegato"</item>
-    <item msgid="1986753720941888596">"Mai"</item>
+    <!-- Wi-Fi should go to sleep when the screen turns off. -->
+    <item>حينما تطفأ الشاشة</item>
+    <!-- When plugged in, never go to sleep.  When on battery, go to sleep when screen turns off. -->
+    <item>ابدا طالما بالشاحن</item>
+    <!-- Never go to sleep. -->
+    <item>ابدا</item>
   </string-array>
+  <!-- Match with wifi_sleep_policy_entries and the values of the settings in Settings class. -->
+  <skip />
+  <!-- Do not translate. -->
+  <string-array name="wifi_sleep_policy_values">
+    <!-- Do not translate. -->
+    <item>0</item>
+    <!-- Do not translate. -->
+    <item>1</item>
+    <!-- Do not translate. -->
+    <item>2</item>
+  </string-array>
+  <!-- Match with constants in BatteryHistory class -->
   <string-array name="battery_history_type_spinner">
-    <item msgid="2193799199027871385">"Utilizzo CPU"</item>
-    <item msgid="6401018715947316517">"Utilizzo della rete"</item>
-    <item msgid="188092590354892392">"Utilizzo GPS"</item>
-    <item msgid="8414109131222049141">"Utilizzo sensore"</item>
-    <item msgid="1327904325081257093">"Utilizzo riattivazione parziale"</item>
-    <item msgid="4832254146664706277">"Altro utilizzo"</item>
+    <item>استخدام المعالج</item>
+    <item>استخدام الشبكة</item>
+    <item>استخدام تحديد المواقع</item>
+    <item>استخدام الحساس</item>
+    <item>استخدام الايقاظ الجزئي</item>
+    <item>استخدامات اخرى</item>
   </string-array>
+  <!-- Match with constants in BatteryStats class -->
   <string-array name="battery_history_which_spinner">
-    <item msgid="3451981114763440074">"Da ultimo scollegamento"</item>
-    <item msgid="166936313535197598">"Totale dall\'avvio"</item>
-    <item msgid="4793941382744963893">"Totale generale"</item>
+    <item>منذ اخر فصل للشاحن</item>
+    <item>من اخر عملية تشغيل</item>
+    <item>المجموع في كامل الاوقات</item>
   </string-array>
+  <!-- Display options for UsageStats class -->
   <string-array name="usage_stats_display_order_types">
-    <item msgid="9077371706468756228">"Tempo di utilizzo"</item>
-    <item msgid="1908750532762193304">"Conteggio avvii"</item>
-    <item msgid="1213951670006606353">"Nome applicazione"</item>
+    <item>مدة الاستخدام</item>
+    <item>Launch Count</item>
+    <item>اسم التطبيق</item>
   </string-array>
+  <!-- EAP method -->
   <string-array name="wifi_eap_entries">
-    <item msgid="8615575908717909498">"PEAP"</item>
-    <item msgid="8667872640594311615">"TLS"</item>
-    <item msgid="7182812872984827322">"TTLS"</item>
+    <item>PEAP</item>
+    <item>TLS</item>
+    <item>TTLS</item>
   </string-array>
+  <!-- Phase 2 options -->
   <string-array name="wifi_phase2_entries">
-    <item msgid="1818786254010764570">"Nessuna"</item>
-    <item msgid="6189918678874123056">"PAP"</item>
-    <item msgid="1524112260493662517">"MSCHAP"</item>
-    <item msgid="5923246669412752932">"MSCHAPV2"</item>
-    <item msgid="8651992560135239389">"GTC"</item>
+    <item>None</item>
+    <item>PAP</item>
+    <item>MSCHAP</item>
+    <item>MSCHAPV2</item>
+    <item>GTC</item>
   </string-array>
+  <!-- Sound settings for emergency tone. -->
   <string-array name="emergency_tone_entries">
-    <item msgid="5165439859689033665">"Disattiva"</item>
-    <item msgid="3165868966179561687">"Avviso"</item>
-    <item msgid="6038758039030476855">"Vibrazione"</item>
+    <item>Off</item>
+    <item>Alert</item>
+    <item>Vibrate</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="emergency_tone_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <!-- openvpn advanced menu protocol entries -->
+  <!-- Do not translate. -->
+  <string-array name="vpn_openvpn_protocol_entries">
+    <item>udp</item>
+    <item>tcp</item>
+  </string-array>
+  <!-- openvpn advanced menu device entries -->
+  <!-- Do not translate. -->
+  <string-array name="vpn_openvpn_device_entries">
+    <item>tun</item>
+    <item>tap</item>
+  </string-array>
+  <!-- Locales in this list are displayed with the corresponding
+         name from special_locale_names instead of using the name
+         from Locale.getDisplayName(). -->
+  <string-array translatable="false" name="special_locale_codes">
+    <item>zh_CN</item>
+    <item>zh_TW</item>
+  </string-array>
+  <string-array translatable="false" name="special_locale_names">
+    <item>中文 (简体)</item>
+    <item>中文 (繁體)</item>
+  </string-array>
+  <!-- Authentication Types used in APN editor -->
   <string-array name="apn_auth_entries">
-    <item msgid="3856896061242872146">"Nessuno"</item>
-    <item msgid="5756844015743664882">"PAP"</item>
-    <item msgid="535934025797984365">"CHAP"</item>
-    <item msgid="8383098660619805783">"PAP o CHAP"</item>
+    <item>None</item>
+    <item>PAP</item>
+    <item>CHAP</item>
+    <item>PAP or CHAP</item>
   </string-array>
+  <string-array translatable="false" name="apn_auth_values">
+    <!-- Do not translate. -->
+    <item>0</item>
+    <!-- Do not translate. -->
+    <item>1</item>
+    <!-- Do not translate. -->
+    <item>2</item>
+    <!-- Do not translate. -->
+    <item>3</item>
+  </string-array>
+  <!-- Apps on SD instalaltion location options in ApplicationSettings -->
   <string-array name="app_install_location_entries">
-    <item msgid="8151497958991952759">"Memorizzazione su dispositivo interno"</item>
-    <item msgid="3738430123799803530">"Scheda SD rimovibile"</item>
-    <item msgid="4498124044785815005">"Impostazione di sistema"</item>
+    <item>Internal device storage</item>
+    <item>Removable SD card</item>
+    <item>Let the system decide</item>
   </string-array>
+  <!-- Do not translate. -->
+  <string-array name="app_install_location_values" translatable="false">
+    <item>الجهاز</item>
+    <item>البطاقة الخارجية</item>
+    <item>اتوماتيكيا</item>
+  </string-array>
+  <!-- New incoming call vibrate options. -->
   <string-array name="vibrate_entries">
-    <item msgid="3388952299521009213">"Sempre"</item>
-    <item msgid="6293147072807231256">"Mai"</item>
-    <item msgid="1276641209451816572">"Solo in mod. silenziosa"</item>
-    <item msgid="8418930333779132418">"Solo se mod. silenziosa non attiva"</item>
+    <item>دائما</item>
+    <item>ابدا</item>
+    <item>فقط في الوضع الصامت</item>
+    <item>فقط حينما لايكون بالوضع الصامت</item>
+  </string-array>
+  <!-- Values for vibrate_entries matching constants in SoundSettings. Do not translate. -->
+  <string-array name="vibrate_values" translatable="false">
+    <item>دائما</item>
+    <item>ابدا</item>
+    <item>صامت</item>
+    <item>غير صامت</item>
   </string-array>
 </resources>
