@@ -29,7 +29,7 @@
   <string name="radioInfo_service_off" msgid="1434084741785525415">"الراديو مغلق"</string>
   <string name="radioInfo_roaming_in" msgid="9045363884600341051">"التجوال مفعل"</string>
   <string name="radioInfo_roaming_not" msgid="2851853244069662307">"التجوال غير مفعل"</string>
-  <string name="radioInfo_phone_idle" msgid="7489244938838742820">"خامل"</string>
+  <string name="radioInfo_phone_idle" msgid="7489244938838742820">"idle"</string>
   <string name="radioInfo_phone_ringing" msgid="4883724645684297895">"يتم الإتصال"</string>
   <string name="radioInfo_phone_offhook" msgid="4174402846862780998">"المكالمة جارية"</string>
   <string name="radioInfo_data_disconnected" msgid="1959735267890719418">"غير متصل"</string>
@@ -51,7 +51,7 @@
   <string name="font_size_save" msgid="3450855718056759095">"موافق"</string>
   <string name="sdcard_setting" msgid="5922637503871474866">"الذاكرة الخارجية"</string>
   <string name="battery_info_status_label" msgid="8109155295509700309">"وضع البطارية:"</string>
-  <string name="battery_info_power_label" msgid="7465140230991349382">"توصيل الشاحن:"</string>
+  <string name="battery_info_power_label" msgid="7465140230991349382">"Power plug:"</string>
   <string name="battery_info_scale_label" msgid="3649763192389778437">"Battery scale:"</string>
   <string name="battery_info_level_label" msgid="8706526709307788737">"Battery level:"</string>
   <string name="battery_info_health_label" msgid="6416051542741886958">"Battery health:"</string>
@@ -60,7 +60,7 @@
   <string name="battery_info_voltage_units" msgid="8658490792208288107">"mV"</string>
   <string name="battery_info_temperature_label" msgid="1968383098818648037">"Battery temperature:"</string>
   <string name="battery_info_temperature_units" msgid="9098950587249987550">"°C"</string>
-  <string name="battery_info_uptime" msgid="5548545143573527992">"الوقت منذ إعادة التشغيل:"</string>
+  <string name="battery_info_uptime" msgid="5548545143573527992">"Time since boot:"</string>
   <string name="battery_info_awake_battery" msgid="2557725975486185849">"Awake time on battery:"</string>
   <string name="battery_info_awake_plugged" msgid="176716874713478188">"Awake time when charging:"</string>
   <string name="battery_info_screen_on" msgid="376277447175613889">"Screen ON time:"</string>

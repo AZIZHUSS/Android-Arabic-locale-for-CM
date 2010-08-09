@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">"استخدام امتياز"</string>
+  <string name="app_name_request">"طلب تصريح محدد"</string>
+  <string name="app_name_perms">"اذن تصريح محدد"</string>
+  <string name="allow">"السماح لطلب تصريح محدد"</string>
+  <string name="forget">"حذف"</string>
+  <string name="cancel">"الغاء"</string>
+  <string name="deny">"رفض"</string>
+  <string name="remember">"تذكر"</string>
+  <string name="uid">(uid: %d)</string>
+  <string name="request">%s as %s (uid: %d)</string>
+  <string name="detail_package">الحزمة :</string>
+  <string name="detail_request">طلب رمز المستخدم:</string>
+  <string name="detail_command">الامر:</string>
+  <string name="detail_status">الحالة:</string>
+  <string name="detail_created">تاريخ الإنشاء :</string>
+  <string name="detail_last_accessed">الاخيرة:</string>
+  <string name="request_message">هذا التطبيق يتطلب وصول استخدام متميز</string>
+  <string name="request_app_name">التطبيق:</string>
+  <string name="preferences">"إعدادات"</string>
+  <string name="preference_category_whitelist_title">"القائمة البيضاء للإعدادات"</string>
+  <string name="preference_tap_action_title">"العمل المطلوب"</string>
+  <string name="preference_tap_action_summary">"الإجراءات التي يجب اتخاذها عند النقر فوق التطبيق"</string>
+  <string name="preference_category_notification_title">"معلومات التصريح المحدد"</string>
+  <string name="preference_notification_title">"تنبيه"</string>
+  <string name="preference_notification_summary">"عرض رسالة على شريط التنبيهات عند الحصول على التصاريح المحددة"</string>
+  <string name="notification_text">%s تم السماح لطلب تصريح محدد</string>
+</resources>

@@ -322,16 +322,16 @@
   <string name="permdesc_reboot" msgid="7914933292815491782">"السماح للبرنامج بإعادة التشغيل"</string>
   <string name="permlab_mount_unmount_filesystems" msgid="1761023272170956541">"تهئية وتثبيت أنظمة الملفات "</string>
   <string name="permdesc_mount_unmount_filesystems" msgid="6253263792535859767">"السماح للبرنامج بتهيئة وتثبيت أنظمة الملفات"</string>
-  <string name="permlab_mount_format_filesystems" msgid="5523285143576718981">"تثبيت الذاكرة الخارجية "</string>
-  <string name="permdesc_mount_format_filesystems" msgid="574060044906047386">"السماح للبرنامج بتثبيت الذاكر الخارجية"</string>
+  <string name="permlab_mount_format_filesystems" msgid="5523285143576718981">"تهيئة الذاكرة الخارجية "</string>
+  <string name="permdesc_mount_format_filesystems" msgid="574060044906047386">"السماح للبرنامج بتهيئة الذاكر الخارجية"</string>
   <string name="permlab_asec_access" msgid="1070364079249834666">"معرفة معلومات التخزين الآمن"</string>
   <string name="permdesc_asec_access" msgid="7691616292170590244">"السماح للجهاز بمعرفة معلومات التخزين الامن"</string>
   <string name="permlab_asec_create" msgid="7312078032326928899">"إنشاء تخزين آمن"</string>
   <string name="permdesc_asec_create" msgid="7041802322759014035">"السماح للبرنامج بإنشاء تخزين آمن"</string>
   <string name="permlab_asec_destroy" msgid="7787322878955261006">"إلغاء التخزين الآمن"</string>
   <string name="permdesc_asec_destroy" msgid="5740754114967893169">"السماح للبرنامج بإلغاء التخزين الآمن"</string>
-  <string name="permlab_asec_mount_unmount" msgid="7517449694667828592">"ضبط وتثبيت التخزين الآمن"</string>
-  <string name="permdesc_asec_mount_unmount" msgid="5438078121718738625">"السماح للبرنامج بتثبيت وإعداد التأمين الآمن"</string>
+  <string name="permlab_asec_mount_unmount" msgid="7517449694667828592">"ضبط وإعداد التخزين الآمن"</string>
+  <string name="permdesc_asec_mount_unmount" msgid="5438078121718738625">"السماح للبرنامج بضبط وإعداد التأمين الآمن"</string>
   <string name="permlab_asec_rename" msgid="5685344390439934495">"تغيير اسم التخزين الآمن"</string>
   <string name="permdesc_asec_rename" msgid="1387881770708872470">"السماح للبرنامج بتغيير اسم التخزين الامن"</string>
   <string name="permlab_vibrate" msgid="7768356019980849603">"التحكم بالإهتزاز"</string>
@@ -797,7 +797,7 @@
   <string name="usb_storage_activity_title" msgid="2399289999608900443">"ذاكرة تخزين نمط USB"</string>
   <string name="usb_storage_title" msgid="5901459041398751495">"USB تم الإرتباط"</string>
   <string name="usb_storage_message" msgid="4796759646167247178">"تم ارتباط جهاز الجوال بجهاز الكمبيوتر عن طريق USB. إضغط على الزر في الأسفل لتتمكن من نقل الملفات من وإلى ذاكرة جهازك الاندرويد "</string>
-  <string name="usb_storage_button_mount" msgid="1052259930369508235">"تثبيت ذاكرة تخزين نمط USB"</string>
+  <string name="usb_storage_button_mount" msgid="1052259930369508235">"تشغيل ذاكرة تخزين نمط USB"</string>
   <string name="usb_storage_error_message" msgid="2534784751603345363">"يوجد مشكلة في استخدام الذاكرة الخارجية كذاكرة تخزين نمط USB"</string>
   <string name="usb_storage_notification_title" msgid="8175892554757216525">"USB تم الإرتباط "</string>
   <string name="usb_storage_notification_message" msgid="7380082404288219341">"اختر لنقل الملفات من وإلى جهاز كمبيوترك"</string>

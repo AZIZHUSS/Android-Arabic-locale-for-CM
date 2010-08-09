@@ -15,7 +15,7 @@
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="tips">
-    <item msgid="4457112202911142877">"لترى جميع برامجك اضغط على  @drawable/all_apps"</item>
+    <item msgid="4457112202911142877">"لترى جميع برامجك اضغط على ."\n"  @drawable/all_apps"</item>
     <!-- Tip: How to survive in CyanogenMod. -->
     <item>قواعد\n
        القاعدة الوحيدة في روم سيانوجين. لاتسأل عن الوقت المتوقع للإصدار الجديد</item>
